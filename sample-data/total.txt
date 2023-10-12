@@ -1,0 +1,3 @@
+JobID                               JobName    Cluster        NodeList      State               Start                 End    Elapsed     MaxRSS     AveRSS ConsumedEnergy 
+------------ ------------------------------ ---------- --------------- ---------- ------------------- ------------------- ---------- ---------- ---------- -------------- 
+1589.0                      haddock3-hpc-50    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:47:29 2023-10-12T06:43:44   02:56:15    720600K    720600K         45.27K 
