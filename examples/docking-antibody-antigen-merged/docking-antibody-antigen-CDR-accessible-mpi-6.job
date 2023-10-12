@@ -8,7 +8,7 @@ source $HOME/miniconda3/bin/activate
 conda activate haddock3
 
 # go to the example directory
-cd $HOME/haddock3/examples/docking-antibody-antigen-merged
+cd /mnt/nfs_share/greenBeansHaddock/docking-antibody-antigen-merged
 
 # execute
-haddock3 docking-antibody-antigen-CDR-accessible-mpi-20.cfg
+haddock3 docking-antibody-antigen-CDR-accessible-mpi-6.cfg
