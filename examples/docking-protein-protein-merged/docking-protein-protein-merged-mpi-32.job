@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --nodes=2
-#SBATCH --tasks-per-node=100
+#SBATCH --tasks-per-node=16
 #SBATCH -J haddock3mpi
 
 # make sure anaconda is activated
@@ -11,4 +11,4 @@ conda activate haddock3
 cd $HOME/haddock3/examples/docking-antibody-antigen-merged
 
 # execute
-haddock3 docking-antibody-antigen-CDR-accessible-mpi-200.cfg
+haddock3 docking-antibody-antigen-CDR-accessible-mpi-20.cfg

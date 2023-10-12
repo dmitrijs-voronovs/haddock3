@@ -1,6 +1,6 @@
 #!/bin/bash
-#SBATCH --nodes=2
-#SBATCH --tasks-per-node=10
+#SBATCH --nodes=___NODES___
+#SBATCH --tasks-per-node=___TASKS_PER_NODE___
 #SBATCH -J haddock3mpi
 
 # make sure anaconda is activated
