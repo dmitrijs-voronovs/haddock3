@@ -5928,3 +5928,4018 @@ b'Submitted batch job 29783\n' b''
 [2023-10-20 21:56:38,645 libhpc INFO] >> rigidbody_349.job submitted
 [2023-10-20 21:56:38,707 libhpc INFO] >> rigidbody_350.job submitted
 [2023-10-20 21:56:38,708 libhpc INFO] >> Waiting... (208.00s)
+[2023-10-20 22:00:07,419 libhpc INFO] >> Batch 7/20 took 217.40s to finish, 35.00% complete
+[2023-10-20 22:00:07,420 libhpc INFO] > Running batch 8/20
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_351.out
+#SBATCH --error=rigidbody_351.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_351.inp > rigidbody_351.out
+
+b'Submitted batch job 29784\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_352.out
+#SBATCH --error=rigidbody_352.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_352.inp > rigidbody_352.out
+
+b'Submitted batch job 29785\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_353.out
+#SBATCH --error=rigidbody_353.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_353.inp > rigidbody_353.out
+
+b'Submitted batch job 29786\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_354.out
+#SBATCH --error=rigidbody_354.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_354.inp > rigidbody_354.out
+
+b'Submitted batch job 29787\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_355.out
+#SBATCH --error=rigidbody_355.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_355.inp > rigidbody_355.out
+
+b'Submitted batch job 29788\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_356.out
+#SBATCH --error=rigidbody_356.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_356.inp > rigidbody_356.out
+
+b'Submitted batch job 29789\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_357.out
+#SBATCH --error=rigidbody_357.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_357.inp > rigidbody_357.out
+
+b'Submitted batch job 29790\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_358.out
+#SBATCH --error=rigidbody_358.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_358.inp > rigidbody_358.out
+
+b'Submitted batch job 29791\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_359.out
+#SBATCH --error=rigidbody_359.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_359.inp > rigidbody_359.out
+
+b'Submitted batch job 29792\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_360.out
+#SBATCH --error=rigidbody_360.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_360.inp > rigidbody_360.out
+
+b'Submitted batch job 29793\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_361.out
+#SBATCH --error=rigidbody_361.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_361.inp > rigidbody_361.out
+
+b'Submitted batch job 29794\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_362.out
+#SBATCH --error=rigidbody_362.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_362.inp > rigidbody_362.out
+
+b'Submitted batch job 29795\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_363.out
+#SBATCH --error=rigidbody_363.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_363.inp > rigidbody_363.out
+
+b'Submitted batch job 29796\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_364.out
+#SBATCH --error=rigidbody_364.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_364.inp > rigidbody_364.out
+
+b'Submitted batch job 29797\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_365.out
+#SBATCH --error=rigidbody_365.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_365.inp > rigidbody_365.out
+
+b'Submitted batch job 29798\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_366.out
+#SBATCH --error=rigidbody_366.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_366.inp > rigidbody_366.out
+
+b'Submitted batch job 29799\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_367.out
+#SBATCH --error=rigidbody_367.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_367.inp > rigidbody_367.out
+
+b'Submitted batch job 29800\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_368.out
+#SBATCH --error=rigidbody_368.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_368.inp > rigidbody_368.out
+
+b'Submitted batch job 29801\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_369.out
+#SBATCH --error=rigidbody_369.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_369.inp > rigidbody_369.out
+
+b'Submitted batch job 29802\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_370.out
+#SBATCH --error=rigidbody_370.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_370.inp > rigidbody_370.out
+
+b'Submitted batch job 29803\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_371.out
+#SBATCH --error=rigidbody_371.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_371.inp > rigidbody_371.out
+
+b'Submitted batch job 29804\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_372.out
+#SBATCH --error=rigidbody_372.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_372.inp > rigidbody_372.out
+
+b'Submitted batch job 29805\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_373.out
+#SBATCH --error=rigidbody_373.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_373.inp > rigidbody_373.out
+
+b'Submitted batch job 29806\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_374.out
+#SBATCH --error=rigidbody_374.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_374.inp > rigidbody_374.out
+
+b'Submitted batch job 29807\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_375.out
+#SBATCH --error=rigidbody_375.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_375.inp > rigidbody_375.out
+
+b'Submitted batch job 29808\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_376.out
+#SBATCH --error=rigidbody_376.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_376.inp > rigidbody_376.out
+
+b'Submitted batch job 29809\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_377.out
+#SBATCH --error=rigidbody_377.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_377.inp > rigidbody_377.out
+
+b'Submitted batch job 29810\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_378.out
+#SBATCH --error=rigidbody_378.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_378.inp > rigidbody_378.out
+
+b'Submitted batch job 29811\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_379.out
+#SBATCH --error=rigidbody_379.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_379.inp > rigidbody_379.out
+
+b'Submitted batch job 29812\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_380.out
+#SBATCH --error=rigidbody_380.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_380.inp > rigidbody_380.out
+
+b'Submitted batch job 29813\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_381.out
+#SBATCH --error=rigidbody_381.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_381.inp > rigidbody_381.out
+
+b'Submitted batch job 29814\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_382.out
+#SBATCH --error=rigidbody_382.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_382.inp > rigidbody_382.out
+
+b'Submitted batch job 29815\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_383.out
+#SBATCH --error=rigidbody_383.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_383.inp > rigidbody_383.out
+
+b'Submitted batch job 29816\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_384.out
+#SBATCH --error=rigidbody_384.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_384.inp > rigidbody_384.out
+
+b'Submitted batch job 29817\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_385.out
+#SBATCH --error=rigidbody_385.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_385.inp > rigidbody_385.out
+
+b'Submitted batch job 29818\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_386.out
+#SBATCH --error=rigidbody_386.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_386.inp > rigidbody_386.out
+
+b'Submitted batch job 29819\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_387.out
+#SBATCH --error=rigidbody_387.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_387.inp > rigidbody_387.out
+
+b'Submitted batch job 29820\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_388.out
+#SBATCH --error=rigidbody_388.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_388.inp > rigidbody_388.out
+
+b'Submitted batch job 29821\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_389.out
+#SBATCH --error=rigidbody_389.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_389.inp > rigidbody_389.out
+
+b'Submitted batch job 29822\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_390.out
+#SBATCH --error=rigidbody_390.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_390.inp > rigidbody_390.out
+
+b'Submitted batch job 29823\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_391.out
+#SBATCH --error=rigidbody_391.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_391.inp > rigidbody_391.out
+
+b'Submitted batch job 29824\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_392.out
+#SBATCH --error=rigidbody_392.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_392.inp > rigidbody_392.out
+
+b'Submitted batch job 29825\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_393.out
+#SBATCH --error=rigidbody_393.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_393.inp > rigidbody_393.out
+
+b'Submitted batch job 29826\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_394.out
+#SBATCH --error=rigidbody_394.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_394.inp > rigidbody_394.out
+
+b'Submitted batch job 29827\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_395.out
+#SBATCH --error=rigidbody_395.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_395.inp > rigidbody_395.out
+
+b'Submitted batch job 29828\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_396.out
+#SBATCH --error=rigidbody_396.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_396.inp > rigidbody_396.out
+
+b'Submitted batch job 29829\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_397.out
+#SBATCH --error=rigidbody_397.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_397.inp > rigidbody_397.out
+
+b'Submitted batch job 29830\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_398.out
+#SBATCH --error=rigidbody_398.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_398.inp > rigidbody_398.out
+
+b'Submitted batch job 29831\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_399.out
+#SBATCH --error=rigidbody_399.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_399.inp > rigidbody_399.out
+
+b'Submitted batch job 29832\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_400.out
+#SBATCH --error=rigidbody_400.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_400.inp > rigidbody_400.out
+
+b'Submitted batch job 29833\n' b''
+[2023-10-20 22:00:11,335 libhpc INFO] >> rigidbody_351.job running
+[2023-10-20 22:00:11,455 libhpc INFO] >> rigidbody_352.job running
+[2023-10-20 22:00:11,532 libhpc INFO] >> rigidbody_353.job submitted
+[2023-10-20 22:00:11,600 libhpc INFO] >> rigidbody_354.job submitted
+[2023-10-20 22:00:11,654 libhpc INFO] >> rigidbody_355.job submitted
+[2023-10-20 22:00:11,743 libhpc INFO] >> rigidbody_356.job submitted
+[2023-10-20 22:00:11,825 libhpc INFO] >> rigidbody_357.job submitted
+[2023-10-20 22:00:11,931 libhpc INFO] >> rigidbody_358.job submitted
+[2023-10-20 22:00:11,989 libhpc INFO] >> rigidbody_359.job submitted
+[2023-10-20 22:00:12,081 libhpc INFO] >> rigidbody_360.job submitted
+[2023-10-20 22:00:12,172 libhpc INFO] >> rigidbody_361.job submitted
+[2023-10-20 22:00:12,267 libhpc INFO] >> rigidbody_362.job submitted
+[2023-10-20 22:00:12,406 libhpc INFO] >> rigidbody_363.job submitted
+[2023-10-20 22:00:12,520 libhpc INFO] >> rigidbody_364.job submitted
+[2023-10-20 22:00:12,639 libhpc INFO] >> rigidbody_365.job submitted
+[2023-10-20 22:00:12,725 libhpc INFO] >> rigidbody_366.job submitted
+[2023-10-20 22:00:12,804 libhpc INFO] >> rigidbody_367.job submitted
+[2023-10-20 22:00:12,903 libhpc INFO] >> rigidbody_368.job submitted
+[2023-10-20 22:00:12,970 libhpc INFO] >> rigidbody_369.job submitted
+[2023-10-20 22:00:13,041 libhpc INFO] >> rigidbody_370.job submitted
+[2023-10-20 22:00:13,127 libhpc INFO] >> rigidbody_371.job submitted
+[2023-10-20 22:00:13,236 libhpc INFO] >> rigidbody_372.job submitted
+[2023-10-20 22:00:13,294 libhpc INFO] >> rigidbody_373.job submitted
+[2023-10-20 22:00:13,353 libhpc INFO] >> rigidbody_374.job submitted
+[2023-10-20 22:00:13,481 libhpc INFO] >> rigidbody_375.job submitted
+[2023-10-20 22:00:13,582 libhpc INFO] >> rigidbody_376.job submitted
+[2023-10-20 22:00:13,682 libhpc INFO] >> rigidbody_377.job submitted
+[2023-10-20 22:00:13,752 libhpc INFO] >> rigidbody_378.job submitted
+[2023-10-20 22:00:13,824 libhpc INFO] >> rigidbody_379.job submitted
+[2023-10-20 22:00:13,886 libhpc INFO] >> rigidbody_380.job submitted
+[2023-10-20 22:00:13,963 libhpc INFO] >> rigidbody_381.job submitted
+[2023-10-20 22:00:14,031 libhpc INFO] >> rigidbody_382.job submitted
+[2023-10-20 22:00:14,102 libhpc INFO] >> rigidbody_383.job submitted
+[2023-10-20 22:00:14,165 libhpc INFO] >> rigidbody_384.job submitted
+[2023-10-20 22:00:14,264 libhpc INFO] >> rigidbody_385.job submitted
+[2023-10-20 22:00:14,393 libhpc INFO] >> rigidbody_386.job submitted
+[2023-10-20 22:00:14,485 libhpc INFO] >> rigidbody_387.job submitted
+[2023-10-20 22:00:14,667 libhpc INFO] >> rigidbody_388.job submitted
+[2023-10-20 22:00:14,772 libhpc INFO] >> rigidbody_389.job submitted
+[2023-10-20 22:00:14,857 libhpc INFO] >> rigidbody_390.job submitted
+[2023-10-20 22:00:14,931 libhpc INFO] >> rigidbody_391.job submitted
+[2023-10-20 22:00:15,022 libhpc INFO] >> rigidbody_392.job submitted
+[2023-10-20 22:00:15,096 libhpc INFO] >> rigidbody_393.job submitted
+[2023-10-20 22:00:15,170 libhpc INFO] >> rigidbody_394.job submitted
+[2023-10-20 22:00:15,253 libhpc INFO] >> rigidbody_395.job submitted
+[2023-10-20 22:00:15,355 libhpc INFO] >> rigidbody_396.job submitted
+[2023-10-20 22:00:15,438 libhpc INFO] >> rigidbody_397.job submitted
+[2023-10-20 22:00:15,500 libhpc INFO] >> rigidbody_398.job submitted
+[2023-10-20 22:00:15,584 libhpc INFO] >> rigidbody_399.job submitted
+[2023-10-20 22:00:15,669 libhpc INFO] >> rigidbody_400.job submitted
+[2023-10-20 22:00:15,669 libhpc INFO] >> Waiting... (209.00s)
+[2023-10-20 22:03:45,421 libhpc INFO] >> Batch 8/20 took 218.00s to finish, 40.00% complete
+[2023-10-20 22:03:45,422 libhpc INFO] > Running batch 9/20
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_401.out
+#SBATCH --error=rigidbody_401.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_401.inp > rigidbody_401.out
+
+b'Submitted batch job 29834\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_402.out
+#SBATCH --error=rigidbody_402.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_402.inp > rigidbody_402.out
+
+b'Submitted batch job 29835\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_403.out
+#SBATCH --error=rigidbody_403.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_403.inp > rigidbody_403.out
+
+b'Submitted batch job 29836\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_404.out
+#SBATCH --error=rigidbody_404.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_404.inp > rigidbody_404.out
+
+b'Submitted batch job 29837\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_405.out
+#SBATCH --error=rigidbody_405.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_405.inp > rigidbody_405.out
+
+b'Submitted batch job 29838\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_406.out
+#SBATCH --error=rigidbody_406.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_406.inp > rigidbody_406.out
+
+b'Submitted batch job 29839\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_407.out
+#SBATCH --error=rigidbody_407.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_407.inp > rigidbody_407.out
+
+b'Submitted batch job 29840\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_408.out
+#SBATCH --error=rigidbody_408.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_408.inp > rigidbody_408.out
+
+b'Submitted batch job 29841\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_409.out
+#SBATCH --error=rigidbody_409.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_409.inp > rigidbody_409.out
+
+b'Submitted batch job 29842\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_410.out
+#SBATCH --error=rigidbody_410.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_410.inp > rigidbody_410.out
+
+b'Submitted batch job 29843\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_411.out
+#SBATCH --error=rigidbody_411.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_411.inp > rigidbody_411.out
+
+b'Submitted batch job 29844\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_412.out
+#SBATCH --error=rigidbody_412.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_412.inp > rigidbody_412.out
+
+b'Submitted batch job 29845\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_413.out
+#SBATCH --error=rigidbody_413.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_413.inp > rigidbody_413.out
+
+b'Submitted batch job 29846\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_414.out
+#SBATCH --error=rigidbody_414.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_414.inp > rigidbody_414.out
+
+b'Submitted batch job 29847\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_415.out
+#SBATCH --error=rigidbody_415.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_415.inp > rigidbody_415.out
+
+b'Submitted batch job 29848\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_416.out
+#SBATCH --error=rigidbody_416.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_416.inp > rigidbody_416.out
+
+b'Submitted batch job 29849\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_417.out
+#SBATCH --error=rigidbody_417.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_417.inp > rigidbody_417.out
+
+b'Submitted batch job 29850\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_418.out
+#SBATCH --error=rigidbody_418.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_418.inp > rigidbody_418.out
+
+b'Submitted batch job 29851\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_419.out
+#SBATCH --error=rigidbody_419.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_419.inp > rigidbody_419.out
+
+b'Submitted batch job 29852\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_420.out
+#SBATCH --error=rigidbody_420.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_420.inp > rigidbody_420.out
+
+b'Submitted batch job 29853\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_421.out
+#SBATCH --error=rigidbody_421.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_421.inp > rigidbody_421.out
+
+b'Submitted batch job 29854\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_422.out
+#SBATCH --error=rigidbody_422.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_422.inp > rigidbody_422.out
+
+b'Submitted batch job 29855\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_423.out
+#SBATCH --error=rigidbody_423.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_423.inp > rigidbody_423.out
+
+b'Submitted batch job 29856\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_424.out
+#SBATCH --error=rigidbody_424.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_424.inp > rigidbody_424.out
+
+b'Submitted batch job 29857\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_425.out
+#SBATCH --error=rigidbody_425.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_425.inp > rigidbody_425.out
+
+b'Submitted batch job 29858\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_426.out
+#SBATCH --error=rigidbody_426.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_426.inp > rigidbody_426.out
+
+b'Submitted batch job 29859\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_427.out
+#SBATCH --error=rigidbody_427.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_427.inp > rigidbody_427.out
+
+b'Submitted batch job 29860\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_428.out
+#SBATCH --error=rigidbody_428.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_428.inp > rigidbody_428.out
+
+b'Submitted batch job 29861\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_429.out
+#SBATCH --error=rigidbody_429.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_429.inp > rigidbody_429.out
+
+b'Submitted batch job 29862\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_430.out
+#SBATCH --error=rigidbody_430.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_430.inp > rigidbody_430.out
+
+b'Submitted batch job 29863\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_431.out
+#SBATCH --error=rigidbody_431.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_431.inp > rigidbody_431.out
+
+b'Submitted batch job 29864\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_432.out
+#SBATCH --error=rigidbody_432.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_432.inp > rigidbody_432.out
+
+b'Submitted batch job 29865\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_433.out
+#SBATCH --error=rigidbody_433.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_433.inp > rigidbody_433.out
+
+b'Submitted batch job 29866\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_434.out
+#SBATCH --error=rigidbody_434.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_434.inp > rigidbody_434.out
+
+b'Submitted batch job 29867\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_435.out
+#SBATCH --error=rigidbody_435.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_435.inp > rigidbody_435.out
+
+b'Submitted batch job 29868\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_436.out
+#SBATCH --error=rigidbody_436.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_436.inp > rigidbody_436.out
+
+b'Submitted batch job 29869\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_437.out
+#SBATCH --error=rigidbody_437.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_437.inp > rigidbody_437.out
+
+b'Submitted batch job 29870\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_438.out
+#SBATCH --error=rigidbody_438.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_438.inp > rigidbody_438.out
+
+b'Submitted batch job 29871\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_439.out
+#SBATCH --error=rigidbody_439.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_439.inp > rigidbody_439.out
+
+b'Submitted batch job 29872\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_440.out
+#SBATCH --error=rigidbody_440.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_440.inp > rigidbody_440.out
+
+b'Submitted batch job 29873\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_441.out
+#SBATCH --error=rigidbody_441.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_441.inp > rigidbody_441.out
+
+b'Submitted batch job 29874\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_442.out
+#SBATCH --error=rigidbody_442.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_442.inp > rigidbody_442.out
+
+b'Submitted batch job 29875\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_443.out
+#SBATCH --error=rigidbody_443.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_443.inp > rigidbody_443.out
+
+b'Submitted batch job 29876\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_444.out
+#SBATCH --error=rigidbody_444.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_444.inp > rigidbody_444.out
+
+b'Submitted batch job 29877\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_445.out
+#SBATCH --error=rigidbody_445.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_445.inp > rigidbody_445.out
+
+b'Submitted batch job 29878\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_446.out
+#SBATCH --error=rigidbody_446.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_446.inp > rigidbody_446.out
+
+b'Submitted batch job 29879\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_447.out
+#SBATCH --error=rigidbody_447.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_447.inp > rigidbody_447.out
+
+b'Submitted batch job 29880\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_448.out
+#SBATCH --error=rigidbody_448.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_448.inp > rigidbody_448.out
+
+b'Submitted batch job 29881\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_449.out
+#SBATCH --error=rigidbody_449.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_449.inp > rigidbody_449.out
+
+b'Submitted batch job 29882\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_450.out
+#SBATCH --error=rigidbody_450.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_450.inp > rigidbody_450.out
+
+b'Submitted batch job 29883\n' b''
+[2023-10-20 22:03:49,744 libhpc INFO] >> rigidbody_401.job running
+[2023-10-20 22:03:49,805 libhpc INFO] >> rigidbody_402.job running
+[2023-10-20 22:03:49,857 libhpc INFO] >> rigidbody_403.job submitted
+[2023-10-20 22:03:49,938 libhpc INFO] >> rigidbody_404.job submitted
+[2023-10-20 22:03:50,007 libhpc INFO] >> rigidbody_405.job submitted
+[2023-10-20 22:03:50,105 libhpc INFO] >> rigidbody_406.job submitted
+[2023-10-20 22:03:50,204 libhpc INFO] >> rigidbody_407.job submitted
+[2023-10-20 22:03:50,317 libhpc INFO] >> rigidbody_408.job submitted
+[2023-10-20 22:03:50,423 libhpc INFO] >> rigidbody_409.job submitted
+[2023-10-20 22:03:50,539 libhpc INFO] >> rigidbody_410.job submitted
+[2023-10-20 22:03:50,681 libhpc INFO] >> rigidbody_411.job submitted
+[2023-10-20 22:03:50,818 libhpc INFO] >> rigidbody_412.job submitted
+[2023-10-20 22:03:50,910 libhpc INFO] >> rigidbody_413.job submitted
+[2023-10-20 22:03:50,971 libhpc INFO] >> rigidbody_414.job submitted
+[2023-10-20 22:03:51,028 libhpc INFO] >> rigidbody_415.job submitted
+[2023-10-20 22:03:51,161 libhpc INFO] >> rigidbody_416.job submitted
+[2023-10-20 22:03:51,283 libhpc INFO] >> rigidbody_417.job submitted
+[2023-10-20 22:03:51,366 libhpc INFO] >> rigidbody_418.job submitted
+[2023-10-20 22:03:51,422 libhpc INFO] >> rigidbody_419.job submitted
+[2023-10-20 22:03:51,499 libhpc INFO] >> rigidbody_420.job submitted
+[2023-10-20 22:03:51,625 libhpc INFO] >> rigidbody_421.job submitted
+[2023-10-20 22:03:51,852 libhpc INFO] >> rigidbody_422.job submitted
+[2023-10-20 22:03:51,956 libhpc INFO] >> rigidbody_423.job submitted
+[2023-10-20 22:03:52,070 libhpc INFO] >> rigidbody_424.job submitted
+[2023-10-20 22:03:52,195 libhpc INFO] >> rigidbody_425.job submitted
+[2023-10-20 22:03:52,276 libhpc INFO] >> rigidbody_426.job submitted
+[2023-10-20 22:03:52,359 libhpc INFO] >> rigidbody_427.job submitted
+[2023-10-20 22:03:52,449 libhpc INFO] >> rigidbody_428.job submitted
+[2023-10-20 22:03:52,535 libhpc INFO] >> rigidbody_429.job submitted
+[2023-10-20 22:03:52,614 libhpc INFO] >> rigidbody_430.job submitted
+[2023-10-20 22:03:52,669 libhpc INFO] >> rigidbody_431.job submitted
+[2023-10-20 22:03:52,750 libhpc INFO] >> rigidbody_432.job submitted
+[2023-10-20 22:03:52,804 libhpc INFO] >> rigidbody_433.job submitted
+[2023-10-20 22:03:52,891 libhpc INFO] >> rigidbody_434.job submitted
+[2023-10-20 22:03:52,959 libhpc INFO] >> rigidbody_435.job submitted
+[2023-10-20 22:03:53,016 libhpc INFO] >> rigidbody_436.job submitted
+[2023-10-20 22:03:53,145 libhpc INFO] >> rigidbody_437.job submitted
+[2023-10-20 22:03:53,248 libhpc INFO] >> rigidbody_438.job submitted
+[2023-10-20 22:03:53,311 libhpc INFO] >> rigidbody_439.job submitted
+[2023-10-20 22:03:53,381 libhpc INFO] >> rigidbody_440.job submitted
+[2023-10-20 22:03:53,443 libhpc INFO] >> rigidbody_441.job submitted
+[2023-10-20 22:03:53,519 libhpc INFO] >> rigidbody_442.job submitted
+[2023-10-20 22:03:53,574 libhpc INFO] >> rigidbody_443.job submitted
+[2023-10-20 22:03:53,657 libhpc INFO] >> rigidbody_444.job submitted
+[2023-10-20 22:03:53,738 libhpc INFO] >> rigidbody_445.job submitted
+[2023-10-20 22:03:53,820 libhpc INFO] >> rigidbody_446.job submitted
+[2023-10-20 22:03:53,904 libhpc INFO] >> rigidbody_447.job submitted
+[2023-10-20 22:03:53,986 libhpc INFO] >> rigidbody_448.job submitted
+[2023-10-20 22:03:54,084 libhpc INFO] >> rigidbody_449.job submitted
+[2023-10-20 22:03:54,174 libhpc INFO] >> rigidbody_450.job submitted
+[2023-10-20 22:03:54,174 libhpc INFO] >> Waiting... (210.00s)
+[2023-10-20 22:07:24,797 libhpc INFO] >> Batch 9/20 took 219.37s to finish, 45.00% complete
+[2023-10-20 22:07:24,798 libhpc INFO] > Running batch 10/20
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_451.out
+#SBATCH --error=rigidbody_451.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_451.inp > rigidbody_451.out
+
+b'Submitted batch job 29884\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_452.out
+#SBATCH --error=rigidbody_452.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_452.inp > rigidbody_452.out
+
+b'Submitted batch job 29885\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_453.out
+#SBATCH --error=rigidbody_453.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_453.inp > rigidbody_453.out
+
+b'Submitted batch job 29886\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_454.out
+#SBATCH --error=rigidbody_454.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_454.inp > rigidbody_454.out
+
+b'Submitted batch job 29887\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_455.out
+#SBATCH --error=rigidbody_455.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_455.inp > rigidbody_455.out
+
+b'Submitted batch job 29888\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_456.out
+#SBATCH --error=rigidbody_456.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_456.inp > rigidbody_456.out
+
+b'Submitted batch job 29889\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_457.out
+#SBATCH --error=rigidbody_457.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_457.inp > rigidbody_457.out
+
+b'Submitted batch job 29890\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_458.out
+#SBATCH --error=rigidbody_458.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_458.inp > rigidbody_458.out
+
+b'Submitted batch job 29891\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_459.out
+#SBATCH --error=rigidbody_459.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_459.inp > rigidbody_459.out
+
+b'Submitted batch job 29892\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_460.out
+#SBATCH --error=rigidbody_460.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_460.inp > rigidbody_460.out
+
+b'Submitted batch job 29893\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_461.out
+#SBATCH --error=rigidbody_461.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_461.inp > rigidbody_461.out
+
+b'Submitted batch job 29894\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_462.out
+#SBATCH --error=rigidbody_462.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_462.inp > rigidbody_462.out
+
+b'Submitted batch job 29895\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_463.out
+#SBATCH --error=rigidbody_463.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_463.inp > rigidbody_463.out
+
+b'Submitted batch job 29896\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_464.out
+#SBATCH --error=rigidbody_464.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_464.inp > rigidbody_464.out
+
+b'Submitted batch job 29897\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_465.out
+#SBATCH --error=rigidbody_465.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_465.inp > rigidbody_465.out
+
+b'Submitted batch job 29898\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_466.out
+#SBATCH --error=rigidbody_466.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_466.inp > rigidbody_466.out
+
+b'Submitted batch job 29899\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_467.out
+#SBATCH --error=rigidbody_467.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_467.inp > rigidbody_467.out
+
+b'Submitted batch job 29900\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_468.out
+#SBATCH --error=rigidbody_468.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_468.inp > rigidbody_468.out
+
+b'Submitted batch job 29901\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_469.out
+#SBATCH --error=rigidbody_469.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_469.inp > rigidbody_469.out
+
+b'Submitted batch job 29902\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_470.out
+#SBATCH --error=rigidbody_470.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_470.inp > rigidbody_470.out
+
+b'Submitted batch job 29903\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_471.out
+#SBATCH --error=rigidbody_471.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_471.inp > rigidbody_471.out
+
+b'Submitted batch job 29904\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_472.out
+#SBATCH --error=rigidbody_472.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_472.inp > rigidbody_472.out
+
+b'Submitted batch job 29905\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_473.out
+#SBATCH --error=rigidbody_473.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_473.inp > rigidbody_473.out
+
+b'Submitted batch job 29906\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_474.out
+#SBATCH --error=rigidbody_474.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_474.inp > rigidbody_474.out
+
+b'Submitted batch job 29907\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_475.out
+#SBATCH --error=rigidbody_475.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_475.inp > rigidbody_475.out
+
+b'Submitted batch job 29908\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_476.out
+#SBATCH --error=rigidbody_476.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_476.inp > rigidbody_476.out
+
+b'Submitted batch job 29909\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_477.out
+#SBATCH --error=rigidbody_477.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_477.inp > rigidbody_477.out
+
+b'Submitted batch job 29910\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_478.out
+#SBATCH --error=rigidbody_478.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_478.inp > rigidbody_478.out
+
+b'Submitted batch job 29911\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_479.out
+#SBATCH --error=rigidbody_479.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_479.inp > rigidbody_479.out
+
+b'Submitted batch job 29912\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_480.out
+#SBATCH --error=rigidbody_480.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_480.inp > rigidbody_480.out
+
+b'Submitted batch job 29913\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_481.out
+#SBATCH --error=rigidbody_481.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_481.inp > rigidbody_481.out
+
+b'Submitted batch job 29914\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_482.out
+#SBATCH --error=rigidbody_482.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_482.inp > rigidbody_482.out
+
+b'Submitted batch job 29915\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_483.out
+#SBATCH --error=rigidbody_483.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_483.inp > rigidbody_483.out
+
+b'Submitted batch job 29916\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_484.out
+#SBATCH --error=rigidbody_484.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_484.inp > rigidbody_484.out
+
+b'Submitted batch job 29917\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_485.out
+#SBATCH --error=rigidbody_485.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_485.inp > rigidbody_485.out
+
+b'Submitted batch job 29918\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_486.out
+#SBATCH --error=rigidbody_486.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_486.inp > rigidbody_486.out
+
+b'Submitted batch job 29919\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_487.out
+#SBATCH --error=rigidbody_487.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_487.inp > rigidbody_487.out
+
+b'Submitted batch job 29920\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_488.out
+#SBATCH --error=rigidbody_488.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_488.inp > rigidbody_488.out
+
+b'Submitted batch job 29921\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_489.out
+#SBATCH --error=rigidbody_489.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_489.inp > rigidbody_489.out
+
+b'Submitted batch job 29922\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_490.out
+#SBATCH --error=rigidbody_490.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_490.inp > rigidbody_490.out
+
+b'Submitted batch job 29923\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_491.out
+#SBATCH --error=rigidbody_491.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_491.inp > rigidbody_491.out
+
+b'Submitted batch job 29924\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_492.out
+#SBATCH --error=rigidbody_492.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_492.inp > rigidbody_492.out
+
+b'Submitted batch job 29925\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_493.out
+#SBATCH --error=rigidbody_493.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_493.inp > rigidbody_493.out
+
+b'Submitted batch job 29926\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_494.out
+#SBATCH --error=rigidbody_494.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_494.inp > rigidbody_494.out
+
+b'Submitted batch job 29927\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_495.out
+#SBATCH --error=rigidbody_495.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_495.inp > rigidbody_495.out
+
+b'Submitted batch job 29928\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_496.out
+#SBATCH --error=rigidbody_496.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_496.inp > rigidbody_496.out
+
+b'Submitted batch job 29929\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_497.out
+#SBATCH --error=rigidbody_497.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_497.inp > rigidbody_497.out
+
+b'Submitted batch job 29930\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_498.out
+#SBATCH --error=rigidbody_498.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_498.inp > rigidbody_498.out
+
+b'Submitted batch job 29931\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_499.out
+#SBATCH --error=rigidbody_499.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_499.inp > rigidbody_499.out
+
+b'Submitted batch job 29932\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_500.out
+#SBATCH --error=rigidbody_500.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_500.inp > rigidbody_500.out
+
+b'Submitted batch job 29933\n' b''
+[2023-10-20 22:07:29,756 libhpc INFO] >> rigidbody_451.job running
+[2023-10-20 22:07:29,847 libhpc INFO] >> rigidbody_452.job running
+[2023-10-20 22:07:29,900 libhpc INFO] >> rigidbody_453.job submitted
+[2023-10-20 22:07:29,978 libhpc INFO] >> rigidbody_454.job submitted
+[2023-10-20 22:07:30,025 libhpc INFO] >> rigidbody_455.job submitted
+[2023-10-20 22:07:30,097 libhpc INFO] >> rigidbody_456.job submitted
+[2023-10-20 22:07:30,151 libhpc INFO] >> rigidbody_457.job submitted
+[2023-10-20 22:07:30,225 libhpc INFO] >> rigidbody_458.job submitted
+[2023-10-20 22:07:30,320 libhpc INFO] >> rigidbody_459.job submitted
+[2023-10-20 22:07:30,466 libhpc INFO] >> rigidbody_460.job submitted
+[2023-10-20 22:07:30,548 libhpc INFO] >> rigidbody_461.job submitted
+[2023-10-20 22:07:30,680 libhpc INFO] >> rigidbody_462.job submitted
+[2023-10-20 22:07:30,777 libhpc INFO] >> rigidbody_463.job submitted
+[2023-10-20 22:07:30,866 libhpc INFO] >> rigidbody_464.job submitted
+[2023-10-20 22:07:30,949 libhpc INFO] >> rigidbody_465.job submitted
+[2023-10-20 22:07:31,071 libhpc INFO] >> rigidbody_466.job submitted
+[2023-10-20 22:07:31,177 libhpc INFO] >> rigidbody_467.job submitted
+[2023-10-20 22:07:31,301 libhpc INFO] >> rigidbody_468.job submitted
+[2023-10-20 22:07:31,387 libhpc INFO] >> rigidbody_469.job submitted
+[2023-10-20 22:07:31,450 libhpc INFO] >> rigidbody_470.job submitted
+[2023-10-20 22:07:31,530 libhpc INFO] >> rigidbody_471.job submitted
+[2023-10-20 22:07:31,615 libhpc INFO] >> rigidbody_472.job submitted
+[2023-10-20 22:07:31,674 libhpc INFO] >> rigidbody_473.job submitted
+[2023-10-20 22:07:31,765 libhpc INFO] >> rigidbody_474.job submitted
+[2023-10-20 22:07:31,836 libhpc INFO] >> rigidbody_475.job submitted
+[2023-10-20 22:07:31,903 libhpc INFO] >> rigidbody_476.job submitted
+[2023-10-20 22:07:31,998 libhpc INFO] >> rigidbody_477.job submitted
+[2023-10-20 22:07:32,058 libhpc INFO] >> rigidbody_478.job submitted
+[2023-10-20 22:07:32,148 libhpc INFO] >> rigidbody_479.job submitted
+[2023-10-20 22:07:32,221 libhpc INFO] >> rigidbody_480.job submitted
+[2023-10-20 22:07:32,279 libhpc INFO] >> rigidbody_481.job submitted
+[2023-10-20 22:07:32,342 libhpc INFO] >> rigidbody_482.job submitted
+[2023-10-20 22:07:32,424 libhpc INFO] >> rigidbody_483.job submitted
+[2023-10-20 22:07:32,514 libhpc INFO] >> rigidbody_484.job submitted
+[2023-10-20 22:07:32,611 libhpc INFO] >> rigidbody_485.job submitted
+[2023-10-20 22:07:32,671 libhpc INFO] >> rigidbody_486.job submitted
+[2023-10-20 22:07:32,725 libhpc INFO] >> rigidbody_487.job submitted
+[2023-10-20 22:07:32,792 libhpc INFO] >> rigidbody_488.job submitted
+[2023-10-20 22:07:32,873 libhpc INFO] >> rigidbody_489.job submitted
+[2023-10-20 22:07:32,935 libhpc INFO] >> rigidbody_490.job submitted
+[2023-10-20 22:07:32,996 libhpc INFO] >> rigidbody_491.job submitted
+[2023-10-20 22:07:33,056 libhpc INFO] >> rigidbody_492.job submitted
+[2023-10-20 22:07:33,122 libhpc INFO] >> rigidbody_493.job submitted
+[2023-10-20 22:07:33,189 libhpc INFO] >> rigidbody_494.job submitted
+[2023-10-20 22:07:33,266 libhpc INFO] >> rigidbody_495.job submitted
+[2023-10-20 22:07:33,344 libhpc INFO] >> rigidbody_496.job submitted
+[2023-10-20 22:07:33,422 libhpc INFO] >> rigidbody_497.job submitted
+[2023-10-20 22:07:33,506 libhpc INFO] >> rigidbody_498.job submitted
+[2023-10-20 22:07:33,620 libhpc INFO] >> rigidbody_499.job submitted
+[2023-10-20 22:07:33,752 libhpc INFO] >> rigidbody_500.job submitted
+[2023-10-20 22:07:33,752 libhpc INFO] >> Waiting... (211.00s)
+[2023-10-20 22:11:05,445 libhpc INFO] >> Batch 10/20 took 220.65s to finish, 50.00% complete
+[2023-10-20 22:11:05,446 libhpc INFO] > Running batch 11/20
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_501.out
+#SBATCH --error=rigidbody_501.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_501.inp > rigidbody_501.out
+
+b'Submitted batch job 29934\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_502.out
+#SBATCH --error=rigidbody_502.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_502.inp > rigidbody_502.out
+
+b'Submitted batch job 29935\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_503.out
+#SBATCH --error=rigidbody_503.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_503.inp > rigidbody_503.out
+
+b'Submitted batch job 29936\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_504.out
+#SBATCH --error=rigidbody_504.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_504.inp > rigidbody_504.out
+
+b'Submitted batch job 29937\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_505.out
+#SBATCH --error=rigidbody_505.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_505.inp > rigidbody_505.out
+
+b'Submitted batch job 29938\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_506.out
+#SBATCH --error=rigidbody_506.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_506.inp > rigidbody_506.out
+
+b'Submitted batch job 29939\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_507.out
+#SBATCH --error=rigidbody_507.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_507.inp > rigidbody_507.out
+
+b'Submitted batch job 29940\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_508.out
+#SBATCH --error=rigidbody_508.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_508.inp > rigidbody_508.out
+
+b'Submitted batch job 29941\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_509.out
+#SBATCH --error=rigidbody_509.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_509.inp > rigidbody_509.out
+
+b'Submitted batch job 29942\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_510.out
+#SBATCH --error=rigidbody_510.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_510.inp > rigidbody_510.out
+
+b'Submitted batch job 29943\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_511.out
+#SBATCH --error=rigidbody_511.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_511.inp > rigidbody_511.out
+
+b'Submitted batch job 29944\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_512.out
+#SBATCH --error=rigidbody_512.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_512.inp > rigidbody_512.out
+
+b'Submitted batch job 29945\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_513.out
+#SBATCH --error=rigidbody_513.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_513.inp > rigidbody_513.out
+
+b'Submitted batch job 29946\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_514.out
+#SBATCH --error=rigidbody_514.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_514.inp > rigidbody_514.out
+
+b'Submitted batch job 29947\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_515.out
+#SBATCH --error=rigidbody_515.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_515.inp > rigidbody_515.out
+
+b'Submitted batch job 29948\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_516.out
+#SBATCH --error=rigidbody_516.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_516.inp > rigidbody_516.out
+
+b'Submitted batch job 29949\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_517.out
+#SBATCH --error=rigidbody_517.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_517.inp > rigidbody_517.out
+
+b'Submitted batch job 29950\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_518.out
+#SBATCH --error=rigidbody_518.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_518.inp > rigidbody_518.out
+
+b'Submitted batch job 29951\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_519.out
+#SBATCH --error=rigidbody_519.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_519.inp > rigidbody_519.out
+
+b'Submitted batch job 29952\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_520.out
+#SBATCH --error=rigidbody_520.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_520.inp > rigidbody_520.out
+
+b'Submitted batch job 29953\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_521.out
+#SBATCH --error=rigidbody_521.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_521.inp > rigidbody_521.out
+
+b'Submitted batch job 29954\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_522.out
+#SBATCH --error=rigidbody_522.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_522.inp > rigidbody_522.out
+
+b'Submitted batch job 29955\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_523.out
+#SBATCH --error=rigidbody_523.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_523.inp > rigidbody_523.out
+
+b'Submitted batch job 29956\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_524.out
+#SBATCH --error=rigidbody_524.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_524.inp > rigidbody_524.out
+
+b'Submitted batch job 29957\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_525.out
+#SBATCH --error=rigidbody_525.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_525.inp > rigidbody_525.out
+
+b'Submitted batch job 29958\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_526.out
+#SBATCH --error=rigidbody_526.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_526.inp > rigidbody_526.out
+
+b'Submitted batch job 29959\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_527.out
+#SBATCH --error=rigidbody_527.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_527.inp > rigidbody_527.out
+
+b'Submitted batch job 29960\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_528.out
+#SBATCH --error=rigidbody_528.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_528.inp > rigidbody_528.out
+
+b'Submitted batch job 29961\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_529.out
+#SBATCH --error=rigidbody_529.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_529.inp > rigidbody_529.out
+
+b'Submitted batch job 29962\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_530.out
+#SBATCH --error=rigidbody_530.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_530.inp > rigidbody_530.out
+
+b'Submitted batch job 29963\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_531.out
+#SBATCH --error=rigidbody_531.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_531.inp > rigidbody_531.out
+
+b'Submitted batch job 29964\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_532.out
+#SBATCH --error=rigidbody_532.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_532.inp > rigidbody_532.out
+
+b'Submitted batch job 29965\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_533.out
+#SBATCH --error=rigidbody_533.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_533.inp > rigidbody_533.out
+
+b'Submitted batch job 29966\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_534.out
+#SBATCH --error=rigidbody_534.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_534.inp > rigidbody_534.out
+
+b'Submitted batch job 29967\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_535.out
+#SBATCH --error=rigidbody_535.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_535.inp > rigidbody_535.out
+
+b'Submitted batch job 29968\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_536.out
+#SBATCH --error=rigidbody_536.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_536.inp > rigidbody_536.out
+
+b'Submitted batch job 29969\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_537.out
+#SBATCH --error=rigidbody_537.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_537.inp > rigidbody_537.out
+
+b'Submitted batch job 29970\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_538.out
+#SBATCH --error=rigidbody_538.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_538.inp > rigidbody_538.out
+
+b'Submitted batch job 29971\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_539.out
+#SBATCH --error=rigidbody_539.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_539.inp > rigidbody_539.out
+
+b'Submitted batch job 29972\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_540.out
+#SBATCH --error=rigidbody_540.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_540.inp > rigidbody_540.out
+
+b'Submitted batch job 29973\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_541.out
+#SBATCH --error=rigidbody_541.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_541.inp > rigidbody_541.out
+
+b'Submitted batch job 29974\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_542.out
+#SBATCH --error=rigidbody_542.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_542.inp > rigidbody_542.out
+
+b'Submitted batch job 29975\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_543.out
+#SBATCH --error=rigidbody_543.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_543.inp > rigidbody_543.out
+
+b'Submitted batch job 29976\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_544.out
+#SBATCH --error=rigidbody_544.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_544.inp > rigidbody_544.out
+
+b'Submitted batch job 29977\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_545.out
+#SBATCH --error=rigidbody_545.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_545.inp > rigidbody_545.out
+
+b'Submitted batch job 29978\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_546.out
+#SBATCH --error=rigidbody_546.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_546.inp > rigidbody_546.out
+
+b'Submitted batch job 29979\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_547.out
+#SBATCH --error=rigidbody_547.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_547.inp > rigidbody_547.out
+
+b'Submitted batch job 29980\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_548.out
+#SBATCH --error=rigidbody_548.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_548.inp > rigidbody_548.out
+
+b'Submitted batch job 29981\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_549.out
+#SBATCH --error=rigidbody_549.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_549.inp > rigidbody_549.out
+
+b'Submitted batch job 29982\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_550.out
+#SBATCH --error=rigidbody_550.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_550.inp > rigidbody_550.out
+
+b'Submitted batch job 29983\n' b''
+[2023-10-20 22:11:09,505 libhpc INFO] >> rigidbody_501.job running
+[2023-10-20 22:11:09,617 libhpc INFO] >> rigidbody_502.job running
+[2023-10-20 22:11:09,681 libhpc INFO] >> rigidbody_503.job submitted
+[2023-10-20 22:11:09,772 libhpc INFO] >> rigidbody_504.job submitted
+[2023-10-20 22:11:09,838 libhpc INFO] >> rigidbody_505.job submitted
+[2023-10-20 22:11:09,916 libhpc INFO] >> rigidbody_506.job submitted
+[2023-10-20 22:11:09,987 libhpc INFO] >> rigidbody_507.job submitted
+[2023-10-20 22:11:10,119 libhpc INFO] >> rigidbody_508.job submitted
+[2023-10-20 22:11:10,204 libhpc INFO] >> rigidbody_509.job submitted
+[2023-10-20 22:11:10,283 libhpc INFO] >> rigidbody_510.job submitted
+[2023-10-20 22:11:10,343 libhpc INFO] >> rigidbody_511.job submitted
+[2023-10-20 22:11:10,403 libhpc INFO] >> rigidbody_512.job submitted
+[2023-10-20 22:11:10,487 libhpc INFO] >> rigidbody_513.job submitted
+[2023-10-20 22:11:10,554 libhpc INFO] >> rigidbody_514.job submitted
+[2023-10-20 22:11:10,673 libhpc INFO] >> rigidbody_515.job submitted
+[2023-10-20 22:11:10,728 libhpc INFO] >> rigidbody_516.job submitted
+[2023-10-20 22:11:10,812 libhpc INFO] >> rigidbody_517.job submitted
+[2023-10-20 22:11:10,920 libhpc INFO] >> rigidbody_518.job submitted
+[2023-10-20 22:11:11,029 libhpc INFO] >> rigidbody_519.job submitted
+[2023-10-20 22:11:11,202 libhpc INFO] >> rigidbody_520.job submitted
+[2023-10-20 22:11:11,298 libhpc INFO] >> rigidbody_521.job submitted
+[2023-10-20 22:11:11,457 libhpc INFO] >> rigidbody_522.job submitted
+[2023-10-20 22:11:11,539 libhpc INFO] >> rigidbody_523.job submitted
+[2023-10-20 22:11:11,634 libhpc INFO] >> rigidbody_524.job submitted
+[2023-10-20 22:11:11,703 libhpc INFO] >> rigidbody_525.job submitted
+[2023-10-20 22:11:11,773 libhpc INFO] >> rigidbody_526.job submitted
+[2023-10-20 22:11:11,834 libhpc INFO] >> rigidbody_527.job submitted
+[2023-10-20 22:11:11,894 libhpc INFO] >> rigidbody_528.job submitted
+[2023-10-20 22:11:12,020 libhpc INFO] >> rigidbody_529.job submitted
+[2023-10-20 22:11:12,129 libhpc INFO] >> rigidbody_530.job submitted
+[2023-10-20 22:11:12,224 libhpc INFO] >> rigidbody_531.job submitted
+[2023-10-20 22:11:12,386 libhpc INFO] >> rigidbody_532.job submitted
+[2023-10-20 22:11:12,446 libhpc INFO] >> rigidbody_533.job submitted
+[2023-10-20 22:11:12,548 libhpc INFO] >> rigidbody_534.job submitted
+[2023-10-20 22:11:12,640 libhpc INFO] >> rigidbody_535.job submitted
+[2023-10-20 22:11:12,716 libhpc INFO] >> rigidbody_536.job submitted
+[2023-10-20 22:11:12,808 libhpc INFO] >> rigidbody_537.job submitted
+[2023-10-20 22:11:12,880 libhpc INFO] >> rigidbody_538.job submitted
+[2023-10-20 22:11:13,050 libhpc INFO] >> rigidbody_539.job submitted
+[2023-10-20 22:11:13,155 libhpc INFO] >> rigidbody_540.job submitted
+[2023-10-20 22:11:13,265 libhpc INFO] >> rigidbody_541.job submitted
+[2023-10-20 22:11:13,357 libhpc INFO] >> rigidbody_542.job submitted
+[2023-10-20 22:11:13,463 libhpc INFO] >> rigidbody_543.job submitted
+[2023-10-20 22:11:13,541 libhpc INFO] >> rigidbody_544.job submitted
+[2023-10-20 22:11:13,614 libhpc INFO] >> rigidbody_545.job submitted
+[2023-10-20 22:11:13,674 libhpc INFO] >> rigidbody_546.job submitted
+[2023-10-20 22:11:13,746 libhpc INFO] >> rigidbody_547.job submitted
+[2023-10-20 22:11:13,838 libhpc INFO] >> rigidbody_548.job submitted
+[2023-10-20 22:11:13,938 libhpc INFO] >> rigidbody_549.job submitted
+[2023-10-20 22:11:13,993 libhpc INFO] >> rigidbody_550.job submitted
+[2023-10-20 22:11:13,993 libhpc INFO] >> Waiting... (212.00s)
+[2023-10-20 22:14:46,826 libhpc INFO] >> Batch 11/20 took 221.38s to finish, 55.00% complete
+[2023-10-20 22:14:46,827 libhpc INFO] > Running batch 12/20
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_551.out
+#SBATCH --error=rigidbody_551.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_551.inp > rigidbody_551.out
+
+b'Submitted batch job 29984\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_552.out
+#SBATCH --error=rigidbody_552.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_552.inp > rigidbody_552.out
+
+b'Submitted batch job 29985\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_553.out
+#SBATCH --error=rigidbody_553.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_553.inp > rigidbody_553.out
+
+b'Submitted batch job 29986\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_554.out
+#SBATCH --error=rigidbody_554.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_554.inp > rigidbody_554.out
+
+b'Submitted batch job 29987\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_555.out
+#SBATCH --error=rigidbody_555.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_555.inp > rigidbody_555.out
+
+b'Submitted batch job 29988\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_556.out
+#SBATCH --error=rigidbody_556.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_556.inp > rigidbody_556.out
+
+b'Submitted batch job 29989\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_557.out
+#SBATCH --error=rigidbody_557.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_557.inp > rigidbody_557.out
+
+b'Submitted batch job 29990\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_558.out
+#SBATCH --error=rigidbody_558.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_558.inp > rigidbody_558.out
+
+b'Submitted batch job 29991\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_559.out
+#SBATCH --error=rigidbody_559.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_559.inp > rigidbody_559.out
+
+b'Submitted batch job 29992\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_560.out
+#SBATCH --error=rigidbody_560.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_560.inp > rigidbody_560.out
+
+b'Submitted batch job 29993\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_561.out
+#SBATCH --error=rigidbody_561.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_561.inp > rigidbody_561.out
+
+b'Submitted batch job 29994\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_562.out
+#SBATCH --error=rigidbody_562.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_562.inp > rigidbody_562.out
+
+b'Submitted batch job 29995\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_563.out
+#SBATCH --error=rigidbody_563.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_563.inp > rigidbody_563.out
+
+b'Submitted batch job 29996\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_564.out
+#SBATCH --error=rigidbody_564.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_564.inp > rigidbody_564.out
+
+b'Submitted batch job 29997\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_565.out
+#SBATCH --error=rigidbody_565.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_565.inp > rigidbody_565.out
+
+b'Submitted batch job 29998\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_566.out
+#SBATCH --error=rigidbody_566.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_566.inp > rigidbody_566.out
+
+b'Submitted batch job 29999\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_567.out
+#SBATCH --error=rigidbody_567.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_567.inp > rigidbody_567.out
+
+b'Submitted batch job 30000\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_568.out
+#SBATCH --error=rigidbody_568.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_568.inp > rigidbody_568.out
+
+b'Submitted batch job 30001\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_569.out
+#SBATCH --error=rigidbody_569.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_569.inp > rigidbody_569.out
+
+b'Submitted batch job 30002\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_570.out
+#SBATCH --error=rigidbody_570.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_570.inp > rigidbody_570.out
+
+b'Submitted batch job 30003\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_571.out
+#SBATCH --error=rigidbody_571.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_571.inp > rigidbody_571.out
+
+b'Submitted batch job 30004\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_572.out
+#SBATCH --error=rigidbody_572.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_572.inp > rigidbody_572.out
+
+b'Submitted batch job 30005\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_573.out
+#SBATCH --error=rigidbody_573.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_573.inp > rigidbody_573.out
+
+b'Submitted batch job 30006\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_574.out
+#SBATCH --error=rigidbody_574.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_574.inp > rigidbody_574.out
+
+b'Submitted batch job 30007\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_575.out
+#SBATCH --error=rigidbody_575.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_575.inp > rigidbody_575.out
+
+b'Submitted batch job 30008\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_576.out
+#SBATCH --error=rigidbody_576.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_576.inp > rigidbody_576.out
+
+b'Submitted batch job 30009\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_577.out
+#SBATCH --error=rigidbody_577.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_577.inp > rigidbody_577.out
+
+b'Submitted batch job 30010\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_578.out
+#SBATCH --error=rigidbody_578.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_578.inp > rigidbody_578.out
+
+b'Submitted batch job 30011\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_579.out
+#SBATCH --error=rigidbody_579.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_579.inp > rigidbody_579.out
+
+b'Submitted batch job 30012\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_580.out
+#SBATCH --error=rigidbody_580.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_580.inp > rigidbody_580.out
+
+b'Submitted batch job 30013\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_581.out
+#SBATCH --error=rigidbody_581.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_581.inp > rigidbody_581.out
+
+b'Submitted batch job 30014\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_582.out
+#SBATCH --error=rigidbody_582.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_582.inp > rigidbody_582.out
+
+b'Submitted batch job 30015\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_583.out
+#SBATCH --error=rigidbody_583.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_583.inp > rigidbody_583.out
+
+b'Submitted batch job 30016\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_584.out
+#SBATCH --error=rigidbody_584.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_584.inp > rigidbody_584.out
+
+b'Submitted batch job 30017\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_585.out
+#SBATCH --error=rigidbody_585.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_585.inp > rigidbody_585.out
+
+b'Submitted batch job 30018\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_586.out
+#SBATCH --error=rigidbody_586.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_586.inp > rigidbody_586.out
+
+b'Submitted batch job 30019\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_587.out
+#SBATCH --error=rigidbody_587.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_587.inp > rigidbody_587.out
+
+b'Submitted batch job 30020\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_588.out
+#SBATCH --error=rigidbody_588.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_588.inp > rigidbody_588.out
+
+b'Submitted batch job 30021\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_589.out
+#SBATCH --error=rigidbody_589.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_589.inp > rigidbody_589.out
+
+b'Submitted batch job 30022\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_590.out
+#SBATCH --error=rigidbody_590.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_590.inp > rigidbody_590.out
+
+b'Submitted batch job 30023\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_591.out
+#SBATCH --error=rigidbody_591.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_591.inp > rigidbody_591.out
+
+b'Submitted batch job 30024\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_592.out
+#SBATCH --error=rigidbody_592.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_592.inp > rigidbody_592.out
+
+b'Submitted batch job 30025\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_593.out
+#SBATCH --error=rigidbody_593.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_593.inp > rigidbody_593.out
+
+b'Submitted batch job 30026\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_594.out
+#SBATCH --error=rigidbody_594.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_594.inp > rigidbody_594.out
+
+b'Submitted batch job 30027\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_595.out
+#SBATCH --error=rigidbody_595.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_595.inp > rigidbody_595.out
+
+b'Submitted batch job 30028\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_596.out
+#SBATCH --error=rigidbody_596.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_596.inp > rigidbody_596.out
+
+b'Submitted batch job 30029\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_597.out
+#SBATCH --error=rigidbody_597.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_597.inp > rigidbody_597.out
+
+b'Submitted batch job 30030\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_598.out
+#SBATCH --error=rigidbody_598.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_598.inp > rigidbody_598.out
+
+b'Submitted batch job 30031\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_599.out
+#SBATCH --error=rigidbody_599.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_599.inp > rigidbody_599.out
+
+b'Submitted batch job 30032\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=rigidbody_600.out
+#SBATCH --error=rigidbody_600.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/sampling/rigidbody/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < rigidbody_600.inp > rigidbody_600.out
+
+b'Submitted batch job 30033\n' b''
+[2023-10-20 22:14:51,525 libhpc INFO] >> rigidbody_551.job running
+[2023-10-20 22:14:51,684 libhpc INFO] >> rigidbody_552.job running
+[2023-10-20 22:14:51,779 libhpc INFO] >> rigidbody_553.job submitted
+[2023-10-20 22:14:51,869 libhpc INFO] >> rigidbody_554.job submitted
+[2023-10-20 22:14:52,020 libhpc INFO] >> rigidbody_555.job submitted
+[2023-10-20 22:14:52,156 libhpc INFO] >> rigidbody_556.job submitted
+[2023-10-20 22:14:52,216 libhpc INFO] >> rigidbody_557.job submitted
+[2023-10-20 22:14:52,273 libhpc INFO] >> rigidbody_558.job submitted
+[2023-10-20 22:14:52,357 libhpc INFO] >> rigidbody_559.job submitted
+[2023-10-20 22:14:52,419 libhpc INFO] >> rigidbody_560.job submitted
+[2023-10-20 22:14:52,509 libhpc INFO] >> rigidbody_561.job submitted
+[2023-10-20 22:14:52,572 libhpc INFO] >> rigidbody_562.job submitted
+[2023-10-20 22:14:52,635 libhpc INFO] >> rigidbody_563.job submitted
+[2023-10-20 22:14:52,696 libhpc INFO] >> rigidbody_564.job submitted
+[2023-10-20 22:14:52,782 libhpc INFO] >> rigidbody_565.job submitted
+[2023-10-20 22:14:52,847 libhpc INFO] >> rigidbody_566.job submitted
+[2023-10-20 22:14:52,940 libhpc INFO] >> rigidbody_567.job submitted
+[2023-10-20 22:14:53,011 libhpc INFO] >> rigidbody_568.job submitted
+[2023-10-20 22:14:53,069 libhpc INFO] >> rigidbody_569.job submitted
+[2023-10-20 22:14:53,203 libhpc INFO] >> rigidbody_570.job submitted
+[2023-10-20 22:14:53,288 libhpc INFO] >> rigidbody_571.job submitted
+[2023-10-20 22:14:53,348 libhpc INFO] >> rigidbody_572.job submitted
+[2023-10-20 22:14:53,421 libhpc INFO] >> rigidbody_573.job submitted
+[2023-10-20 22:14:53,484 libhpc INFO] >> rigidbody_574.job submitted
+[2023-10-20 22:14:53,587 libhpc INFO] >> rigidbody_575.job submitted
+[2023-10-20 22:14:53,667 libhpc INFO] >> rigidbody_576.job submitted
+[2023-10-20 22:14:53,752 libhpc INFO] >> rigidbody_577.job submitted
+[2023-10-20 22:14:53,842 libhpc INFO] >> rigidbody_578.job submitted
+[2023-10-20 22:14:53,930 libhpc INFO] >> rigidbody_579.job submitted
+[2023-10-20 22:14:53,984 libhpc INFO] >> rigidbody_580.job submitted
+[2023-10-20 22:14:54,070 libhpc INFO] >> rigidbody_581.job submitted
+[2023-10-20 22:14:54,129 libhpc INFO] >> rigidbody_582.job submitted
+[2023-10-20 22:14:54,224 libhpc INFO] >> rigidbody_583.job submitted
+[2023-10-20 22:14:54,430 libhpc INFO] >> rigidbody_584.job submitted
+[2023-10-20 22:14:54,551 libhpc INFO] >> rigidbody_585.job submitted
+[2023-10-20 22:14:54,628 libhpc INFO] >> rigidbody_586.job submitted
+[2023-10-20 22:14:54,752 libhpc INFO] >> rigidbody_587.job submitted
+[2023-10-20 22:14:54,890 libhpc INFO] >> rigidbody_588.job submitted
+[2023-10-20 22:14:54,951 libhpc INFO] >> rigidbody_589.job submitted
+[2023-10-20 22:14:55,059 libhpc INFO] >> rigidbody_590.job submitted
+[2023-10-20 22:14:55,155 libhpc INFO] >> rigidbody_591.job submitted
+[2023-10-20 22:14:55,220 libhpc INFO] >> rigidbody_592.job submitted
+[2023-10-20 22:14:55,290 libhpc INFO] >> rigidbody_593.job submitted
+[2023-10-20 22:14:55,351 libhpc INFO] >> rigidbody_594.job submitted
+[2023-10-20 22:14:55,425 libhpc INFO] >> rigidbody_595.job submitted
+[2023-10-20 22:14:55,545 libhpc INFO] >> rigidbody_596.job submitted
+[2023-10-20 22:14:55,611 libhpc INFO] >> rigidbody_597.job submitted
+[2023-10-20 22:14:55,692 libhpc INFO] >> rigidbody_598.job submitted
+[2023-10-20 22:14:55,784 libhpc INFO] >> rigidbody_599.job submitted
+[2023-10-20 22:14:55,871 libhpc INFO] >> rigidbody_600.job submitted
+[2023-10-20 22:14:55,872 libhpc INFO] >> Waiting... (213.00s)
