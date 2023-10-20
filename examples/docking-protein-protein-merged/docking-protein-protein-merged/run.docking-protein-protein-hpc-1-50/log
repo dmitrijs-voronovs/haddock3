@@ -745,3 +745,1148 @@ Python 3.9.18 (main, Sep 11 2023, 13:41:44)
 [2023-10-20 22:14:55,784 libhpc INFO] >> rigidbody_599.job submitted
 [2023-10-20 22:14:55,871 libhpc INFO] >> rigidbody_600.job submitted
 [2023-10-20 22:14:55,872 libhpc INFO] >> Waiting... (213.00s)
+[2023-10-20 22:18:29,615 libhpc INFO] >> Batch 12/20 took 222.79s to finish, 60.00% complete
+[2023-10-20 22:18:29,616 libhpc INFO] > Running batch 13/20
+[2023-10-20 22:18:34,452 libhpc INFO] >> rigidbody_601.job running
+[2023-10-20 22:18:34,534 libhpc INFO] >> rigidbody_602.job running
+[2023-10-20 22:18:34,598 libhpc INFO] >> rigidbody_603.job submitted
+[2023-10-20 22:18:34,688 libhpc INFO] >> rigidbody_604.job submitted
+[2023-10-20 22:18:34,772 libhpc INFO] >> rigidbody_605.job submitted
+[2023-10-20 22:18:34,845 libhpc INFO] >> rigidbody_606.job submitted
+[2023-10-20 22:18:34,905 libhpc INFO] >> rigidbody_607.job submitted
+[2023-10-20 22:18:34,985 libhpc INFO] >> rigidbody_608.job submitted
+[2023-10-20 22:18:35,047 libhpc INFO] >> rigidbody_609.job submitted
+[2023-10-20 22:18:35,104 libhpc INFO] >> rigidbody_610.job submitted
+[2023-10-20 22:18:35,194 libhpc INFO] >> rigidbody_611.job submitted
+[2023-10-20 22:18:35,248 libhpc INFO] >> rigidbody_612.job submitted
+[2023-10-20 22:18:35,314 libhpc INFO] >> rigidbody_613.job submitted
+[2023-10-20 22:18:35,377 libhpc INFO] >> rigidbody_614.job submitted
+[2023-10-20 22:18:35,452 libhpc INFO] >> rigidbody_615.job submitted
+[2023-10-20 22:18:35,510 libhpc INFO] >> rigidbody_616.job submitted
+[2023-10-20 22:18:35,563 libhpc INFO] >> rigidbody_617.job submitted
+[2023-10-20 22:18:35,647 libhpc INFO] >> rigidbody_618.job submitted
+[2023-10-20 22:18:35,707 libhpc INFO] >> rigidbody_619.job submitted
+[2023-10-20 22:18:35,781 libhpc INFO] >> rigidbody_620.job submitted
+[2023-10-20 22:18:35,846 libhpc INFO] >> rigidbody_621.job submitted
+[2023-10-20 22:18:35,905 libhpc INFO] >> rigidbody_622.job submitted
+[2023-10-20 22:18:35,976 libhpc INFO] >> rigidbody_623.job submitted
+[2023-10-20 22:18:36,038 libhpc INFO] >> rigidbody_624.job submitted
+[2023-10-20 22:18:36,110 libhpc INFO] >> rigidbody_625.job submitted
+[2023-10-20 22:18:36,174 libhpc INFO] >> rigidbody_626.job submitted
+[2023-10-20 22:18:36,230 libhpc INFO] >> rigidbody_627.job submitted
+[2023-10-20 22:18:36,310 libhpc INFO] >> rigidbody_628.job submitted
+[2023-10-20 22:18:36,376 libhpc INFO] >> rigidbody_629.job submitted
+[2023-10-20 22:18:36,537 libhpc INFO] >> rigidbody_630.job submitted
+[2023-10-20 22:18:36,628 libhpc INFO] >> rigidbody_631.job submitted
+[2023-10-20 22:18:36,700 libhpc INFO] >> rigidbody_632.job submitted
+[2023-10-20 22:18:36,749 libhpc INFO] >> rigidbody_633.job submitted
+[2023-10-20 22:18:36,821 libhpc INFO] >> rigidbody_634.job submitted
+[2023-10-20 22:18:36,915 libhpc INFO] >> rigidbody_635.job submitted
+[2023-10-20 22:18:37,053 libhpc INFO] >> rigidbody_636.job submitted
+[2023-10-20 22:18:37,110 libhpc INFO] >> rigidbody_637.job submitted
+[2023-10-20 22:18:37,204 libhpc INFO] >> rigidbody_638.job submitted
+[2023-10-20 22:18:37,279 libhpc INFO] >> rigidbody_639.job submitted
+[2023-10-20 22:18:37,346 libhpc INFO] >> rigidbody_640.job submitted
+[2023-10-20 22:18:37,409 libhpc INFO] >> rigidbody_641.job submitted
+[2023-10-20 22:18:37,489 libhpc INFO] >> rigidbody_642.job submitted
+[2023-10-20 22:18:37,551 libhpc INFO] >> rigidbody_643.job submitted
+[2023-10-20 22:18:37,629 libhpc INFO] >> rigidbody_644.job submitted
+[2023-10-20 22:18:37,728 libhpc INFO] >> rigidbody_645.job submitted
+[2023-10-20 22:18:37,872 libhpc INFO] >> rigidbody_646.job submitted
+[2023-10-20 22:18:38,036 libhpc INFO] >> rigidbody_647.job submitted
+[2023-10-20 22:18:38,191 libhpc INFO] >> rigidbody_648.job submitted
+[2023-10-20 22:18:38,342 libhpc INFO] >> rigidbody_649.job submitted
+[2023-10-20 22:18:38,515 libhpc INFO] >> rigidbody_650.job submitted
+[2023-10-20 22:18:38,516 libhpc INFO] >> Waiting... (214.00s)
+[2023-10-20 22:22:13,240 libhpc INFO] >> Batch 13/20 took 223.62s to finish, 65.00% complete
+[2023-10-20 22:22:13,241 libhpc INFO] > Running batch 14/20
+[2023-10-20 22:22:17,688 libhpc INFO] >> rigidbody_651.job running
+[2023-10-20 22:22:17,831 libhpc INFO] >> rigidbody_652.job running
+[2023-10-20 22:22:17,904 libhpc INFO] >> rigidbody_653.job submitted
+[2023-10-20 22:22:17,968 libhpc INFO] >> rigidbody_654.job submitted
+[2023-10-20 22:22:18,075 libhpc INFO] >> rigidbody_655.job submitted
+[2023-10-20 22:22:18,174 libhpc INFO] >> rigidbody_656.job submitted
+[2023-10-20 22:22:18,236 libhpc INFO] >> rigidbody_657.job submitted
+[2023-10-20 22:22:18,290 libhpc INFO] >> rigidbody_658.job submitted
+[2023-10-20 22:22:18,365 libhpc INFO] >> rigidbody_659.job submitted
+[2023-10-20 22:22:18,427 libhpc INFO] >> rigidbody_660.job submitted
+[2023-10-20 22:22:18,485 libhpc INFO] >> rigidbody_661.job submitted
+[2023-10-20 22:22:18,567 libhpc INFO] >> rigidbody_662.job submitted
+[2023-10-20 22:22:18,621 libhpc INFO] >> rigidbody_663.job submitted
+[2023-10-20 22:22:18,678 libhpc INFO] >> rigidbody_664.job submitted
+[2023-10-20 22:22:18,762 libhpc INFO] >> rigidbody_665.job submitted
+[2023-10-20 22:22:18,828 libhpc INFO] >> rigidbody_666.job submitted
+[2023-10-20 22:22:18,890 libhpc INFO] >> rigidbody_667.job submitted
+[2023-10-20 22:22:18,951 libhpc INFO] >> rigidbody_668.job submitted
+[2023-10-20 22:22:19,009 libhpc INFO] >> rigidbody_669.job submitted
+[2023-10-20 22:22:19,096 libhpc INFO] >> rigidbody_670.job submitted
+[2023-10-20 22:22:19,183 libhpc INFO] >> rigidbody_671.job submitted
+[2023-10-20 22:22:19,240 libhpc INFO] >> rigidbody_672.job submitted
+[2023-10-20 22:22:19,296 libhpc INFO] >> rigidbody_673.job submitted
+[2023-10-20 22:22:19,376 libhpc INFO] >> rigidbody_674.job submitted
+[2023-10-20 22:22:19,456 libhpc INFO] >> rigidbody_675.job submitted
+[2023-10-20 22:22:19,519 libhpc INFO] >> rigidbody_676.job submitted
+[2023-10-20 22:22:19,598 libhpc INFO] >> rigidbody_677.job submitted
+[2023-10-20 22:22:19,673 libhpc INFO] >> rigidbody_678.job submitted
+[2023-10-20 22:22:19,869 libhpc INFO] >> rigidbody_679.job submitted
+[2023-10-20 22:22:19,947 libhpc INFO] >> rigidbody_680.job submitted
+[2023-10-20 22:22:20,021 libhpc INFO] >> rigidbody_681.job submitted
+[2023-10-20 22:22:20,115 libhpc INFO] >> rigidbody_682.job submitted
+[2023-10-20 22:22:20,466 libhpc INFO] >> rigidbody_683.job submitted
+[2023-10-20 22:22:20,603 libhpc INFO] >> rigidbody_684.job submitted
+[2023-10-20 22:22:20,719 libhpc INFO] >> rigidbody_685.job submitted
+[2023-10-20 22:22:20,784 libhpc INFO] >> rigidbody_686.job submitted
+[2023-10-20 22:22:20,863 libhpc INFO] >> rigidbody_687.job submitted
+[2023-10-20 22:22:20,929 libhpc INFO] >> rigidbody_688.job submitted
+[2023-10-20 22:22:20,986 libhpc INFO] >> rigidbody_689.job submitted
+[2023-10-20 22:22:21,062 libhpc INFO] >> rigidbody_690.job submitted
+[2023-10-20 22:22:21,128 libhpc INFO] >> rigidbody_691.job submitted
+[2023-10-20 22:22:21,188 libhpc INFO] >> rigidbody_692.job submitted
+[2023-10-20 22:22:21,255 libhpc INFO] >> rigidbody_693.job submitted
+[2023-10-20 22:22:21,305 libhpc INFO] >> rigidbody_694.job submitted
+[2023-10-20 22:22:21,379 libhpc INFO] >> rigidbody_695.job submitted
+[2023-10-20 22:22:21,454 libhpc INFO] >> rigidbody_696.job submitted
+[2023-10-20 22:22:21,514 libhpc INFO] >> rigidbody_697.job submitted
+[2023-10-20 22:22:21,602 libhpc INFO] >> rigidbody_698.job submitted
+[2023-10-20 22:22:21,659 libhpc INFO] >> rigidbody_699.job submitted
+[2023-10-20 22:22:21,711 libhpc INFO] >> rigidbody_700.job submitted
+[2023-10-20 22:22:21,712 libhpc INFO] >> Waiting... (215.00s)
+[2023-10-20 22:25:57,464 libhpc INFO] >> Batch 14/20 took 224.22s to finish, 70.00% complete
+[2023-10-20 22:25:57,465 libhpc INFO] > Running batch 15/20
+[2023-10-20 22:26:01,515 libhpc INFO] >> rigidbody_701.job running
+[2023-10-20 22:26:01,599 libhpc INFO] >> rigidbody_702.job running
+[2023-10-20 22:26:01,663 libhpc INFO] >> rigidbody_703.job submitted
+[2023-10-20 22:26:01,736 libhpc INFO] >> rigidbody_704.job submitted
+[2023-10-20 22:26:01,817 libhpc INFO] >> rigidbody_705.job submitted
+[2023-10-20 22:26:01,874 libhpc INFO] >> rigidbody_706.job submitted
+[2023-10-20 22:26:01,950 libhpc INFO] >> rigidbody_707.job submitted
+[2023-10-20 22:26:02,013 libhpc INFO] >> rigidbody_708.job submitted
+[2023-10-20 22:26:02,091 libhpc INFO] >> rigidbody_709.job submitted
+[2023-10-20 22:26:02,199 libhpc INFO] >> rigidbody_710.job submitted
+[2023-10-20 22:26:02,272 libhpc INFO] >> rigidbody_711.job submitted
+[2023-10-20 22:26:02,327 libhpc INFO] >> rigidbody_712.job submitted
+[2023-10-20 22:26:02,391 libhpc INFO] >> rigidbody_713.job submitted
+[2023-10-20 22:26:02,468 libhpc INFO] >> rigidbody_714.job submitted
+[2023-10-20 22:26:02,542 libhpc INFO] >> rigidbody_715.job submitted
+[2023-10-20 22:26:02,601 libhpc INFO] >> rigidbody_716.job submitted
+[2023-10-20 22:26:02,662 libhpc INFO] >> rigidbody_717.job submitted
+[2023-10-20 22:26:02,721 libhpc INFO] >> rigidbody_718.job submitted
+[2023-10-20 22:26:02,797 libhpc INFO] >> rigidbody_719.job submitted
+[2023-10-20 22:26:02,919 libhpc INFO] >> rigidbody_720.job submitted
+[2023-10-20 22:26:03,021 libhpc INFO] >> rigidbody_721.job submitted
+[2023-10-20 22:26:03,156 libhpc INFO] >> rigidbody_722.job submitted
+[2023-10-20 22:26:03,316 libhpc INFO] >> rigidbody_723.job submitted
+[2023-10-20 22:26:03,406 libhpc INFO] >> rigidbody_724.job submitted
+[2023-10-20 22:26:03,484 libhpc INFO] >> rigidbody_725.job submitted
+[2023-10-20 22:26:03,557 libhpc INFO] >> rigidbody_726.job submitted
+[2023-10-20 22:26:03,626 libhpc INFO] >> rigidbody_727.job submitted
+[2023-10-20 22:26:03,686 libhpc INFO] >> rigidbody_728.job submitted
+[2023-10-20 22:26:03,751 libhpc INFO] >> rigidbody_729.job submitted
+[2023-10-20 22:26:03,810 libhpc INFO] >> rigidbody_730.job submitted
+[2023-10-20 22:26:03,886 libhpc INFO] >> rigidbody_731.job submitted
+[2023-10-20 22:26:03,956 libhpc INFO] >> rigidbody_732.job submitted
+[2023-10-20 22:26:04,019 libhpc INFO] >> rigidbody_733.job submitted
+[2023-10-20 22:26:04,081 libhpc INFO] >> rigidbody_734.job submitted
+[2023-10-20 22:26:04,142 libhpc INFO] >> rigidbody_735.job submitted
+[2023-10-20 22:26:04,228 libhpc INFO] >> rigidbody_736.job submitted
+[2023-10-20 22:26:04,316 libhpc INFO] >> rigidbody_737.job submitted
+[2023-10-20 22:26:04,438 libhpc INFO] >> rigidbody_738.job submitted
+[2023-10-20 22:26:04,507 libhpc INFO] >> rigidbody_739.job submitted
+[2023-10-20 22:26:04,574 libhpc INFO] >> rigidbody_740.job submitted
+[2023-10-20 22:26:04,677 libhpc INFO] >> rigidbody_741.job submitted
+[2023-10-20 22:26:04,801 libhpc INFO] >> rigidbody_742.job submitted
+[2023-10-20 22:26:04,932 libhpc INFO] >> rigidbody_743.job submitted
+[2023-10-20 22:26:05,105 libhpc INFO] >> rigidbody_744.job submitted
+[2023-10-20 22:26:05,231 libhpc INFO] >> rigidbody_745.job submitted
+[2023-10-20 22:26:05,335 libhpc INFO] >> rigidbody_746.job submitted
+[2023-10-20 22:26:05,496 libhpc INFO] >> rigidbody_747.job submitted
+[2023-10-20 22:26:05,572 libhpc INFO] >> rigidbody_748.job submitted
+[2023-10-20 22:26:05,644 libhpc INFO] >> rigidbody_749.job submitted
+[2023-10-20 22:26:05,733 libhpc INFO] >> rigidbody_750.job submitted
+[2023-10-20 22:26:05,733 libhpc INFO] >> Waiting... (215.00s)
+[2023-10-20 22:29:41,410 libhpc INFO] >> Batch 15/20 took 223.94s to finish, 75.00% complete
+[2023-10-20 22:29:41,411 libhpc INFO] > Running batch 16/20
+[2023-10-20 22:29:45,805 libhpc INFO] >> rigidbody_751.job running
+[2023-10-20 22:29:45,914 libhpc INFO] >> rigidbody_752.job running
+[2023-10-20 22:29:45,973 libhpc INFO] >> rigidbody_753.job submitted
+[2023-10-20 22:29:46,069 libhpc INFO] >> rigidbody_754.job submitted
+[2023-10-20 22:29:46,147 libhpc INFO] >> rigidbody_755.job submitted
+[2023-10-20 22:29:46,226 libhpc INFO] >> rigidbody_756.job submitted
+[2023-10-20 22:29:46,303 libhpc INFO] >> rigidbody_757.job submitted
+[2023-10-20 22:29:46,388 libhpc INFO] >> rigidbody_758.job submitted
+[2023-10-20 22:29:46,471 libhpc INFO] >> rigidbody_759.job submitted
+[2023-10-20 22:29:46,550 libhpc INFO] >> rigidbody_760.job submitted
+[2023-10-20 22:29:46,629 libhpc INFO] >> rigidbody_761.job submitted
+[2023-10-20 22:29:46,700 libhpc INFO] >> rigidbody_762.job submitted
+[2023-10-20 22:29:46,749 libhpc INFO] >> rigidbody_763.job submitted
+[2023-10-20 22:29:46,826 libhpc INFO] >> rigidbody_764.job submitted
+[2023-10-20 22:29:46,905 libhpc INFO] >> rigidbody_765.job submitted
+[2023-10-20 22:29:47,007 libhpc INFO] >> rigidbody_766.job submitted
+[2023-10-20 22:29:47,080 libhpc INFO] >> rigidbody_767.job submitted
+[2023-10-20 22:29:47,199 libhpc INFO] >> rigidbody_768.job submitted
+[2023-10-20 22:29:47,289 libhpc INFO] >> rigidbody_769.job submitted
+[2023-10-20 22:29:47,368 libhpc INFO] >> rigidbody_770.job submitted
+[2023-10-20 22:29:47,439 libhpc INFO] >> rigidbody_771.job submitted
+[2023-10-20 22:29:47,523 libhpc INFO] >> rigidbody_772.job submitted
+[2023-10-20 22:29:47,589 libhpc INFO] >> rigidbody_773.job submitted
+[2023-10-20 22:29:47,677 libhpc INFO] >> rigidbody_774.job submitted
+[2023-10-20 22:29:47,763 libhpc INFO] >> rigidbody_775.job submitted
+[2023-10-20 22:29:47,848 libhpc INFO] >> rigidbody_776.job submitted
+[2023-10-20 22:29:47,926 libhpc INFO] >> rigidbody_777.job submitted
+[2023-10-20 22:29:47,993 libhpc INFO] >> rigidbody_778.job submitted
+[2023-10-20 22:29:48,070 libhpc INFO] >> rigidbody_779.job submitted
+[2023-10-20 22:29:48,130 libhpc INFO] >> rigidbody_780.job submitted
+[2023-10-20 22:29:48,253 libhpc INFO] >> rigidbody_781.job submitted
+[2023-10-20 22:29:48,382 libhpc INFO] >> rigidbody_782.job submitted
+[2023-10-20 22:29:48,497 libhpc INFO] >> rigidbody_783.job submitted
+[2023-10-20 22:29:48,605 libhpc INFO] >> rigidbody_784.job submitted
+[2023-10-20 22:29:48,810 libhpc INFO] >> rigidbody_785.job submitted
+[2023-10-20 22:29:48,918 libhpc INFO] >> rigidbody_786.job submitted
+[2023-10-20 22:29:49,014 libhpc INFO] >> rigidbody_787.job submitted
+[2023-10-20 22:29:49,089 libhpc INFO] >> rigidbody_788.job submitted
+[2023-10-20 22:29:49,171 libhpc INFO] >> rigidbody_789.job submitted
+[2023-10-20 22:29:49,279 libhpc INFO] >> rigidbody_790.job submitted
+[2023-10-20 22:29:49,358 libhpc INFO] >> rigidbody_791.job submitted
+[2023-10-20 22:29:49,435 libhpc INFO] >> rigidbody_792.job submitted
+[2023-10-20 22:29:49,508 libhpc INFO] >> rigidbody_793.job submitted
+[2023-10-20 22:29:49,560 libhpc INFO] >> rigidbody_794.job submitted
+[2023-10-20 22:29:49,616 libhpc INFO] >> rigidbody_795.job submitted
+[2023-10-20 22:29:49,671 libhpc INFO] >> rigidbody_796.job submitted
+[2023-10-20 22:29:49,742 libhpc INFO] >> rigidbody_797.job submitted
+[2023-10-20 22:29:49,802 libhpc INFO] >> rigidbody_798.job submitted
+[2023-10-20 22:29:49,874 libhpc INFO] >> rigidbody_799.job submitted
+[2023-10-20 22:29:49,930 libhpc INFO] >> rigidbody_800.job submitted
+[2023-10-20 22:29:49,931 libhpc INFO] >> Waiting... (216.00s)
+[2023-10-20 22:33:26,661 libhpc INFO] >> Batch 16/20 took 225.25s to finish, 80.00% complete
+[2023-10-20 22:33:26,662 libhpc INFO] > Running batch 17/20
+[2023-10-20 22:33:30,787 libhpc INFO] >> rigidbody_801.job running
+[2023-10-20 22:33:30,896 libhpc INFO] >> rigidbody_802.job running
+[2023-10-20 22:33:31,009 libhpc INFO] >> rigidbody_803.job submitted
+[2023-10-20 22:33:31,154 libhpc INFO] >> rigidbody_804.job submitted
+[2023-10-20 22:33:31,286 libhpc INFO] >> rigidbody_805.job submitted
+[2023-10-20 22:33:31,377 libhpc INFO] >> rigidbody_806.job submitted
+[2023-10-20 22:33:31,448 libhpc INFO] >> rigidbody_807.job submitted
+[2023-10-20 22:33:31,524 libhpc INFO] >> rigidbody_808.job submitted
+[2023-10-20 22:33:31,586 libhpc INFO] >> rigidbody_809.job submitted
+[2023-10-20 22:33:31,628 libhpc INFO] >> rigidbody_810.job submitted
+[2023-10-20 22:33:31,706 libhpc INFO] >> rigidbody_811.job submitted
+[2023-10-20 22:33:31,784 libhpc INFO] >> rigidbody_812.job submitted
+[2023-10-20 22:33:31,860 libhpc INFO] >> rigidbody_813.job submitted
+[2023-10-20 22:33:31,916 libhpc INFO] >> rigidbody_814.job submitted
+[2023-10-20 22:33:31,984 libhpc INFO] >> rigidbody_815.job submitted
+[2023-10-20 22:33:32,058 libhpc INFO] >> rigidbody_816.job submitted
+[2023-10-20 22:33:32,127 libhpc INFO] >> rigidbody_817.job submitted
+[2023-10-20 22:33:32,227 libhpc INFO] >> rigidbody_818.job submitted
+[2023-10-20 22:33:32,276 libhpc INFO] >> rigidbody_819.job submitted
+[2023-10-20 22:33:32,350 libhpc INFO] >> rigidbody_820.job submitted
+[2023-10-20 22:33:32,441 libhpc INFO] >> rigidbody_821.job submitted
+[2023-10-20 22:33:32,509 libhpc INFO] >> rigidbody_822.job submitted
+[2023-10-20 22:33:32,581 libhpc INFO] >> rigidbody_823.job submitted
+[2023-10-20 22:33:32,654 libhpc INFO] >> rigidbody_824.job submitted
+[2023-10-20 22:33:32,726 libhpc INFO] >> rigidbody_825.job submitted
+[2023-10-20 22:33:32,802 libhpc INFO] >> rigidbody_826.job submitted
+[2023-10-20 22:33:32,876 libhpc INFO] >> rigidbody_827.job submitted
+[2023-10-20 22:33:32,984 libhpc INFO] >> rigidbody_828.job submitted
+[2023-10-20 22:33:33,056 libhpc INFO] >> rigidbody_829.job submitted
+[2023-10-20 22:33:33,168 libhpc INFO] >> rigidbody_830.job submitted
+[2023-10-20 22:33:33,286 libhpc INFO] >> rigidbody_831.job submitted
+[2023-10-20 22:33:33,414 libhpc INFO] >> rigidbody_832.job submitted
+[2023-10-20 22:33:33,533 libhpc INFO] >> rigidbody_833.job submitted
+[2023-10-20 22:33:33,613 libhpc INFO] >> rigidbody_834.job submitted
+[2023-10-20 22:33:33,751 libhpc INFO] >> rigidbody_835.job submitted
+[2023-10-20 22:33:33,812 libhpc INFO] >> rigidbody_836.job submitted
+[2023-10-20 22:33:33,896 libhpc INFO] >> rigidbody_837.job submitted
+[2023-10-20 22:33:33,989 libhpc INFO] >> rigidbody_838.job submitted
+[2023-10-20 22:33:34,109 libhpc INFO] >> rigidbody_839.job submitted
+[2023-10-20 22:33:34,232 libhpc INFO] >> rigidbody_840.job submitted
+[2023-10-20 22:33:34,328 libhpc INFO] >> rigidbody_841.job submitted
+[2023-10-20 22:33:34,433 libhpc INFO] >> rigidbody_842.job submitted
+[2023-10-20 22:33:34,538 libhpc INFO] >> rigidbody_843.job submitted
+[2023-10-20 22:33:34,641 libhpc INFO] >> rigidbody_844.job submitted
+[2023-10-20 22:33:34,737 libhpc INFO] >> rigidbody_845.job submitted
+[2023-10-20 22:33:34,854 libhpc INFO] >> rigidbody_846.job submitted
+[2023-10-20 22:33:34,927 libhpc INFO] >> rigidbody_847.job submitted
+[2023-10-20 22:33:35,045 libhpc INFO] >> rigidbody_848.job submitted
+[2023-10-20 22:33:35,124 libhpc INFO] >> rigidbody_849.job submitted
+[2023-10-20 22:33:35,209 libhpc INFO] >> rigidbody_850.job submitted
+[2023-10-20 22:33:35,209 libhpc INFO] >> Waiting... (216.00s)
+[2023-10-20 22:37:11,858 libhpc INFO] >> Batch 17/20 took 225.20s to finish, 85.00% complete
+[2023-10-20 22:37:11,859 libhpc INFO] > Running batch 18/20
+[2023-10-20 22:37:15,760 libhpc INFO] >> rigidbody_851.job running
+[2023-10-20 22:37:15,942 libhpc INFO] >> rigidbody_852.job running
+[2023-10-20 22:37:16,082 libhpc INFO] >> rigidbody_853.job submitted
+[2023-10-20 22:37:16,201 libhpc INFO] >> rigidbody_854.job submitted
+[2023-10-20 22:37:16,292 libhpc INFO] >> rigidbody_855.job submitted
+[2023-10-20 22:37:16,365 libhpc INFO] >> rigidbody_856.job submitted
+[2023-10-20 22:37:16,422 libhpc INFO] >> rigidbody_857.job submitted
+[2023-10-20 22:37:16,486 libhpc INFO] >> rigidbody_858.job submitted
+[2023-10-20 22:37:16,545 libhpc INFO] >> rigidbody_859.job submitted
+[2023-10-20 22:37:16,605 libhpc INFO] >> rigidbody_860.job submitted
+[2023-10-20 22:37:16,726 libhpc INFO] >> rigidbody_861.job submitted
+[2023-10-20 22:37:16,785 libhpc INFO] >> rigidbody_862.job submitted
+[2023-10-20 22:37:16,846 libhpc INFO] >> rigidbody_863.job submitted
+[2023-10-20 22:37:16,906 libhpc INFO] >> rigidbody_864.job submitted
+[2023-10-20 22:37:16,960 libhpc INFO] >> rigidbody_865.job submitted
+[2023-10-20 22:37:17,066 libhpc INFO] >> rigidbody_866.job submitted
+[2023-10-20 22:37:17,126 libhpc INFO] >> rigidbody_867.job submitted
+[2023-10-20 22:37:17,218 libhpc INFO] >> rigidbody_868.job submitted
+[2023-10-20 22:37:17,272 libhpc INFO] >> rigidbody_869.job submitted
+[2023-10-20 22:37:17,321 libhpc INFO] >> rigidbody_870.job submitted
+[2023-10-20 22:37:17,412 libhpc INFO] >> rigidbody_871.job submitted
+[2023-10-20 22:37:17,498 libhpc INFO] >> rigidbody_872.job submitted
+[2023-10-20 22:37:17,621 libhpc INFO] >> rigidbody_873.job submitted
+[2023-10-20 22:37:17,733 libhpc INFO] >> rigidbody_874.job submitted
+[2023-10-20 22:37:17,892 libhpc INFO] >> rigidbody_875.job submitted
+[2023-10-20 22:37:17,963 libhpc INFO] >> rigidbody_876.job submitted
+[2023-10-20 22:37:18,063 libhpc INFO] >> rigidbody_877.job submitted
+[2023-10-20 22:37:18,126 libhpc INFO] >> rigidbody_878.job submitted
+[2023-10-20 22:37:18,204 libhpc INFO] >> rigidbody_879.job submitted
+[2023-10-20 22:37:18,274 libhpc INFO] >> rigidbody_880.job submitted
+[2023-10-20 22:37:18,456 libhpc INFO] >> rigidbody_881.job submitted
+[2023-10-20 22:37:18,600 libhpc INFO] >> rigidbody_882.job submitted
+[2023-10-20 22:37:19,114 libhpc INFO] >> rigidbody_883.job submitted
+[2023-10-20 22:37:19,262 libhpc INFO] >> rigidbody_884.job submitted
+[2023-10-20 22:37:19,376 libhpc INFO] >> rigidbody_885.job submitted
+[2023-10-20 22:37:19,486 libhpc INFO] >> rigidbody_886.job submitted
+[2023-10-20 22:37:19,605 libhpc INFO] >> rigidbody_887.job submitted
+[2023-10-20 22:37:19,725 libhpc INFO] >> rigidbody_888.job submitted
+[2023-10-20 22:37:19,881 libhpc INFO] >> rigidbody_889.job submitted
+[2023-10-20 22:37:19,986 libhpc INFO] >> rigidbody_890.job submitted
+[2023-10-20 22:37:20,061 libhpc INFO] >> rigidbody_891.job submitted
+[2023-10-20 22:37:20,121 libhpc INFO] >> rigidbody_892.job submitted
+[2023-10-20 22:37:20,204 libhpc INFO] >> rigidbody_893.job submitted
+[2023-10-20 22:37:20,278 libhpc INFO] >> rigidbody_894.job submitted
+[2023-10-20 22:37:20,357 libhpc INFO] >> rigidbody_895.job submitted
+[2023-10-20 22:37:20,410 libhpc INFO] >> rigidbody_896.job submitted
+[2023-10-20 22:37:20,482 libhpc INFO] >> rigidbody_897.job submitted
+[2023-10-20 22:37:20,530 libhpc INFO] >> rigidbody_898.job submitted
+[2023-10-20 22:37:20,576 libhpc INFO] >> rigidbody_899.job submitted
+[2023-10-20 22:37:20,662 libhpc INFO] >> rigidbody_900.job submitted
+[2023-10-20 22:37:20,662 libhpc INFO] >> Waiting... (217.00s)
+[2023-10-20 22:40:58,510 libhpc INFO] >> Batch 18/20 took 226.65s to finish, 90.00% complete
+[2023-10-20 22:40:58,511 libhpc INFO] > Running batch 19/20
+[2023-10-20 22:41:02,802 libhpc INFO] >> rigidbody_901.job running
+[2023-10-20 22:41:02,883 libhpc INFO] >> rigidbody_902.job running
+[2023-10-20 22:41:02,949 libhpc INFO] >> rigidbody_903.job submitted
+[2023-10-20 22:41:03,011 libhpc INFO] >> rigidbody_904.job submitted
+[2023-10-20 22:41:03,122 libhpc INFO] >> rigidbody_905.job submitted
+[2023-10-20 22:41:03,185 libhpc INFO] >> rigidbody_906.job submitted
+[2023-10-20 22:41:03,264 libhpc INFO] >> rigidbody_907.job submitted
+[2023-10-20 22:41:03,311 libhpc INFO] >> rigidbody_908.job submitted
+[2023-10-20 22:41:03,375 libhpc INFO] >> rigidbody_909.job submitted
+[2023-10-20 22:41:03,436 libhpc INFO] >> rigidbody_910.job submitted
+[2023-10-20 22:41:03,490 libhpc INFO] >> rigidbody_911.job submitted
+[2023-10-20 22:41:03,582 libhpc INFO] >> rigidbody_912.job submitted
+[2023-10-20 22:41:03,632 libhpc INFO] >> rigidbody_913.job submitted
+[2023-10-20 22:41:03,704 libhpc INFO] >> rigidbody_914.job submitted
+[2023-10-20 22:41:03,776 libhpc INFO] >> rigidbody_915.job submitted
+[2023-10-20 22:41:03,870 libhpc INFO] >> rigidbody_916.job submitted
+[2023-10-20 22:41:03,956 libhpc INFO] >> rigidbody_917.job submitted
+[2023-10-20 22:41:04,102 libhpc INFO] >> rigidbody_918.job submitted
+[2023-10-20 22:41:04,201 libhpc INFO] >> rigidbody_919.job submitted
+[2023-10-20 22:41:04,358 libhpc INFO] >> rigidbody_920.job submitted
+[2023-10-20 22:41:04,543 libhpc INFO] >> rigidbody_921.job submitted
+[2023-10-20 22:41:04,656 libhpc INFO] >> rigidbody_922.job submitted
+[2023-10-20 22:41:04,779 libhpc INFO] >> rigidbody_923.job submitted
+[2023-10-20 22:41:04,955 libhpc INFO] >> rigidbody_924.job submitted
+[2023-10-20 22:41:05,093 libhpc INFO] >> rigidbody_925.job submitted
+[2023-10-20 22:41:05,199 libhpc INFO] >> rigidbody_926.job submitted
+[2023-10-20 22:41:05,326 libhpc INFO] >> rigidbody_927.job submitted
+[2023-10-20 22:41:05,409 libhpc INFO] >> rigidbody_928.job submitted
+[2023-10-20 22:41:05,505 libhpc INFO] >> rigidbody_929.job submitted
+[2023-10-20 22:41:05,587 libhpc INFO] >> rigidbody_930.job submitted
+[2023-10-20 22:41:05,670 libhpc INFO] >> rigidbody_931.job submitted
+[2023-10-20 22:41:05,752 libhpc INFO] >> rigidbody_932.job submitted
+[2023-10-20 22:41:05,837 libhpc INFO] >> rigidbody_933.job submitted
+[2023-10-20 22:41:05,911 libhpc INFO] >> rigidbody_934.job submitted
+[2023-10-20 22:41:05,989 libhpc INFO] >> rigidbody_935.job submitted
+[2023-10-20 22:41:06,070 libhpc INFO] >> rigidbody_936.job submitted
+[2023-10-20 22:41:06,203 libhpc INFO] >> rigidbody_937.job submitted
+[2023-10-20 22:41:06,283 libhpc INFO] >> rigidbody_938.job submitted
+[2023-10-20 22:41:06,377 libhpc INFO] >> rigidbody_939.job submitted
+[2023-10-20 22:41:06,437 libhpc INFO] >> rigidbody_940.job submitted
+[2023-10-20 22:41:06,506 libhpc INFO] >> rigidbody_941.job submitted
+[2023-10-20 22:41:06,567 libhpc INFO] >> rigidbody_942.job submitted
+[2023-10-20 22:41:06,658 libhpc INFO] >> rigidbody_943.job submitted
+[2023-10-20 22:41:06,762 libhpc INFO] >> rigidbody_944.job submitted
+[2023-10-20 22:41:06,845 libhpc INFO] >> rigidbody_945.job submitted
+[2023-10-20 22:41:06,933 libhpc INFO] >> rigidbody_946.job submitted
+[2023-10-20 22:41:07,011 libhpc INFO] >> rigidbody_947.job submitted
+[2023-10-20 22:41:07,098 libhpc INFO] >> rigidbody_948.job submitted
+[2023-10-20 22:41:07,190 libhpc INFO] >> rigidbody_949.job submitted
+[2023-10-20 22:41:07,253 libhpc INFO] >> rigidbody_950.job submitted
+[2023-10-20 22:41:07,254 libhpc INFO] >> Waiting... (217.00s)
+[2023-10-20 22:44:44,971 libhpc INFO] >> Batch 19/20 took 226.46s to finish, 95.00% complete
+[2023-10-20 22:44:44,972 libhpc INFO] > Running batch 20/20
+[2023-10-20 22:44:48,920 libhpc INFO] >> rigidbody_951.job running
+[2023-10-20 22:44:49,047 libhpc INFO] >> rigidbody_952.job running
+[2023-10-20 22:44:49,129 libhpc INFO] >> rigidbody_953.job submitted
+[2023-10-20 22:44:49,183 libhpc INFO] >> rigidbody_954.job submitted
+[2023-10-20 22:44:49,248 libhpc INFO] >> rigidbody_955.job submitted
+[2023-10-20 22:44:49,328 libhpc INFO] >> rigidbody_956.job submitted
+[2023-10-20 22:44:49,388 libhpc INFO] >> rigidbody_957.job submitted
+[2023-10-20 22:44:49,451 libhpc INFO] >> rigidbody_958.job submitted
+[2023-10-20 22:44:49,516 libhpc INFO] >> rigidbody_959.job submitted
+[2023-10-20 22:44:49,569 libhpc INFO] >> rigidbody_960.job submitted
+[2023-10-20 22:44:49,625 libhpc INFO] >> rigidbody_961.job submitted
+[2023-10-20 22:44:49,716 libhpc INFO] >> rigidbody_962.job submitted
+[2023-10-20 22:44:49,823 libhpc INFO] >> rigidbody_963.job submitted
+[2023-10-20 22:44:49,933 libhpc INFO] >> rigidbody_964.job submitted
+[2023-10-20 22:44:50,046 libhpc INFO] >> rigidbody_965.job submitted
+[2023-10-20 22:44:50,238 libhpc INFO] >> rigidbody_966.job submitted
+[2023-10-20 22:44:50,378 libhpc INFO] >> rigidbody_967.job submitted
+[2023-10-20 22:44:50,509 libhpc INFO] >> rigidbody_968.job submitted
+[2023-10-20 22:44:50,609 libhpc INFO] >> rigidbody_969.job submitted
+[2023-10-20 22:44:50,713 libhpc INFO] >> rigidbody_970.job submitted
+[2023-10-20 22:44:50,786 libhpc INFO] >> rigidbody_971.job submitted
+[2023-10-20 22:44:50,859 libhpc INFO] >> rigidbody_972.job submitted
+[2023-10-20 22:44:50,934 libhpc INFO] >> rigidbody_973.job submitted
+[2023-10-20 22:44:51,003 libhpc INFO] >> rigidbody_974.job submitted
+[2023-10-20 22:44:51,067 libhpc INFO] >> rigidbody_975.job submitted
+[2023-10-20 22:44:51,128 libhpc INFO] >> rigidbody_976.job submitted
+[2023-10-20 22:44:51,181 libhpc INFO] >> rigidbody_977.job submitted
+[2023-10-20 22:44:51,263 libhpc INFO] >> rigidbody_978.job submitted
+[2023-10-20 22:44:51,360 libhpc INFO] >> rigidbody_979.job submitted
+[2023-10-20 22:44:51,413 libhpc INFO] >> rigidbody_980.job submitted
+[2023-10-20 22:44:51,464 libhpc INFO] >> rigidbody_981.job submitted
+[2023-10-20 22:44:51,542 libhpc INFO] >> rigidbody_982.job submitted
+[2023-10-20 22:44:51,601 libhpc INFO] >> rigidbody_983.job submitted
+[2023-10-20 22:44:51,664 libhpc INFO] >> rigidbody_984.job submitted
+[2023-10-20 22:44:51,761 libhpc INFO] >> rigidbody_985.job submitted
+[2023-10-20 22:44:51,872 libhpc INFO] >> rigidbody_986.job submitted
+[2023-10-20 22:44:51,972 libhpc INFO] >> rigidbody_987.job submitted
+[2023-10-20 22:44:52,091 libhpc INFO] >> rigidbody_988.job submitted
+[2023-10-20 22:44:52,212 libhpc INFO] >> rigidbody_989.job submitted
+[2023-10-20 22:44:52,320 libhpc INFO] >> rigidbody_990.job submitted
+[2023-10-20 22:44:52,378 libhpc INFO] >> rigidbody_991.job submitted
+[2023-10-20 22:44:52,453 libhpc INFO] >> rigidbody_992.job submitted
+[2023-10-20 22:44:52,523 libhpc INFO] >> rigidbody_993.job submitted
+[2023-10-20 22:44:52,587 libhpc INFO] >> rigidbody_994.job submitted
+[2023-10-20 22:44:52,721 libhpc INFO] >> rigidbody_995.job submitted
+[2023-10-20 22:44:52,796 libhpc INFO] >> rigidbody_996.job submitted
+[2023-10-20 22:44:52,869 libhpc INFO] >> rigidbody_997.job submitted
+[2023-10-20 22:44:52,952 libhpc INFO] >> rigidbody_998.job submitted
+[2023-10-20 22:44:53,055 libhpc INFO] >> rigidbody_999.job submitted
+[2023-10-20 22:44:53,136 libhpc INFO] >> rigidbody_1000.job submitted
+[2023-10-20 22:44:53,136 libhpc INFO] >> Waiting... (218.00s)
+[2023-10-20 22:48:31,811 libhpc INFO] >> Batch 20/20 took 226.84s to finish, 100.00% complete
+[2023-10-20 22:48:31,812 __init__ INFO] [rigidbody] CNS jobs have finished
+[2023-10-20 22:48:35,933 base_cns_module INFO] Module [rigidbody] finished.
+[2023-10-20 22:48:35,934 __init__ INFO] [rigidbody] took 1h13m49s
+[2023-10-20 22:48:36,198 __init__ INFO] Running [seletop] module
+[2023-10-20 22:48:36,292 __init__ INFO] Module [seletop] finished.
+[2023-10-20 22:48:36,292 __init__ INFO] [seletop] took 0 seconds
+[2023-10-20 22:48:36,445 __init__ INFO] Running [caprieval] module
+[2023-10-20 22:48:37,396 libutil INFO] Selected 7 cores to process 200 jobs, with 7 maximum available cores.
+[2023-10-20 22:48:37,397 libparallel INFO] Using 7 cores
+[2023-10-20 22:48:55,792 libparallel INFO] >> /capri_ss_1.tsv completed 0% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_2.tsv completed 1% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_3.tsv completed 2% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_4.tsv completed 2% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_5.tsv completed 2% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_6.tsv completed 3% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_7.tsv completed 4% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_8.tsv completed 4% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_9.tsv completed 4% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_10.tsv completed 5% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_11.tsv completed 6% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_12.tsv completed 6% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_13.tsv completed 6% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_14.tsv completed 7% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_15.tsv completed 8% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_16.tsv completed 8% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_17.tsv completed 8% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_18.tsv completed 9% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_19.tsv completed 10% 
+[2023-10-20 22:48:55,793 libparallel INFO] >> /capri_ss_20.tsv completed 10% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_21.tsv completed 10% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_22.tsv completed 11% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_23.tsv completed 12% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_24.tsv completed 12% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_25.tsv completed 12% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_26.tsv completed 13% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_27.tsv completed 14% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_28.tsv completed 14% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_29.tsv completed 14% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_30.tsv completed 15% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_31.tsv completed 16% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_32.tsv completed 16% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_33.tsv completed 16% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_34.tsv completed 17% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_35.tsv completed 18% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_36.tsv completed 18% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_37.tsv completed 18% 
+[2023-10-20 22:48:55,794 libparallel INFO] >> /capri_ss_38.tsv completed 19% 
+[2023-10-20 22:48:55,795 libparallel INFO] >> /capri_ss_39.tsv completed 20% 
+[2023-10-20 22:48:55,795 libparallel INFO] >> /capri_ss_40.tsv completed 20% 
+[2023-10-20 22:48:55,795 libparallel INFO] >> /capri_ss_41.tsv completed 20% 
+[2023-10-20 22:48:55,795 libparallel INFO] >> /capri_ss_42.tsv completed 21% 
+[2023-10-20 22:48:55,795 libparallel INFO] >> /capri_ss_43.tsv completed 22% 
+[2023-10-20 22:48:55,795 libparallel INFO] >> /capri_ss_44.tsv completed 22% 
+[2023-10-20 22:48:55,795 libparallel INFO] >> /capri_ss_45.tsv completed 22% 
+[2023-10-20 22:48:55,795 libparallel INFO] >> /capri_ss_46.tsv completed 23% 
+[2023-10-20 22:48:55,795 libparallel INFO] >> /capri_ss_47.tsv completed 24% 
+[2023-10-20 22:48:55,795 libparallel INFO] >> /capri_ss_48.tsv completed 24% 
+[2023-10-20 22:48:55,795 libparallel INFO] >> /capri_ss_49.tsv completed 24% 
+[2023-10-20 22:48:55,795 libparallel INFO] >> /capri_ss_50.tsv completed 25% 
+[2023-10-20 22:48:55,795 libparallel INFO] >> /capri_ss_51.tsv completed 26% 
+[2023-10-20 22:48:55,795 libparallel INFO] >> /capri_ss_52.tsv completed 26% 
+[2023-10-20 22:48:55,796 libparallel INFO] >> /capri_ss_53.tsv completed 26% 
+[2023-10-20 22:48:55,796 libparallel INFO] >> /capri_ss_54.tsv completed 27% 
+[2023-10-20 22:48:55,796 libparallel INFO] >> /capri_ss_55.tsv completed 28% 
+[2023-10-20 22:48:55,796 libparallel INFO] >> /capri_ss_56.tsv completed 28% 
+[2023-10-20 22:48:55,796 libparallel INFO] >> /capri_ss_57.tsv completed 28% 
+[2023-10-20 22:48:55,796 libparallel INFO] >> /capri_ss_58.tsv completed 29% 
+[2023-10-20 22:48:55,796 libparallel INFO] >> /capri_ss_59.tsv completed 30% 
+[2023-10-20 22:48:55,796 libparallel INFO] >> /capri_ss_60.tsv completed 30% 
+[2023-10-20 22:48:55,796 libparallel INFO] >> /capri_ss_61.tsv completed 30% 
+[2023-10-20 22:48:55,796 libparallel INFO] >> /capri_ss_62.tsv completed 31% 
+[2023-10-20 22:48:55,796 libparallel INFO] >> /capri_ss_63.tsv completed 32% 
+[2023-10-20 22:48:55,796 libparallel INFO] >> /capri_ss_64.tsv completed 32% 
+[2023-10-20 22:48:55,796 libparallel INFO] >> /capri_ss_65.tsv completed 32% 
+[2023-10-20 22:48:55,797 libparallel INFO] >> /capri_ss_66.tsv completed 33% 
+[2023-10-20 22:48:55,797 libparallel INFO] >> /capri_ss_67.tsv completed 34% 
+[2023-10-20 22:48:55,797 libparallel INFO] >> /capri_ss_68.tsv completed 34% 
+[2023-10-20 22:48:55,797 libparallel INFO] >> /capri_ss_69.tsv completed 34% 
+[2023-10-20 22:48:55,797 libparallel INFO] >> /capri_ss_70.tsv completed 35% 
+[2023-10-20 22:48:55,797 libparallel INFO] >> /capri_ss_71.tsv completed 36% 
+[2023-10-20 22:48:55,797 libparallel INFO] >> /capri_ss_72.tsv completed 36% 
+[2023-10-20 22:48:55,797 libparallel INFO] >> /capri_ss_73.tsv completed 36% 
+[2023-10-20 22:48:55,797 libparallel INFO] >> /capri_ss_74.tsv completed 37% 
+[2023-10-20 22:48:55,797 libparallel INFO] >> /capri_ss_75.tsv completed 38% 
+[2023-10-20 22:48:55,797 libparallel INFO] >> /capri_ss_76.tsv completed 38% 
+[2023-10-20 22:48:55,797 libparallel INFO] >> /capri_ss_77.tsv completed 38% 
+[2023-10-20 22:48:55,797 libparallel INFO] >> /capri_ss_78.tsv completed 39% 
+[2023-10-20 22:48:55,797 libparallel INFO] >> /capri_ss_79.tsv completed 40% 
+[2023-10-20 22:48:55,798 libparallel INFO] >> /capri_ss_80.tsv completed 40% 
+[2023-10-20 22:48:55,798 libparallel INFO] >> /capri_ss_81.tsv completed 40% 
+[2023-10-20 22:48:55,798 libparallel INFO] >> /capri_ss_82.tsv completed 41% 
+[2023-10-20 22:48:55,798 libparallel INFO] >> /capri_ss_83.tsv completed 42% 
+[2023-10-20 22:48:55,798 libparallel INFO] >> /capri_ss_84.tsv completed 42% 
+[2023-10-20 22:48:55,798 libparallel INFO] >> /capri_ss_85.tsv completed 42% 
+[2023-10-20 22:48:55,798 libparallel INFO] >> /capri_ss_86.tsv completed 43% 
+[2023-10-20 22:48:55,798 libparallel INFO] >> /capri_ss_87.tsv completed 44% 
+[2023-10-20 22:48:55,798 libparallel INFO] >> /capri_ss_88.tsv completed 44% 
+[2023-10-20 22:48:55,798 libparallel INFO] >> /capri_ss_89.tsv completed 44% 
+[2023-10-20 22:48:55,798 libparallel INFO] >> /capri_ss_90.tsv completed 45% 
+[2023-10-20 22:48:55,798 libparallel INFO] >> /capri_ss_91.tsv completed 46% 
+[2023-10-20 22:48:55,798 libparallel INFO] >> /capri_ss_92.tsv completed 46% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_93.tsv completed 46% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_94.tsv completed 47% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_95.tsv completed 48% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_96.tsv completed 48% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_97.tsv completed 48% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_98.tsv completed 49% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_99.tsv completed 50% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_100.tsv completed 50% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_101.tsv completed 50% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_102.tsv completed 51% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_103.tsv completed 52% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_104.tsv completed 52% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_105.tsv completed 52% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_106.tsv completed 53% 
+[2023-10-20 22:48:55,799 libparallel INFO] >> /capri_ss_107.tsv completed 54% 
+[2023-10-20 22:48:55,800 libparallel INFO] >> /capri_ss_108.tsv completed 54% 
+[2023-10-20 22:48:55,800 libparallel INFO] >> /capri_ss_109.tsv completed 55% 
+[2023-10-20 22:48:55,800 libparallel INFO] >> /capri_ss_110.tsv completed 55% 
+[2023-10-20 22:48:55,800 libparallel INFO] >> /capri_ss_111.tsv completed 56% 
+[2023-10-20 22:48:55,800 libparallel INFO] >> /capri_ss_112.tsv completed 56% 
+[2023-10-20 22:48:55,800 libparallel INFO] >> /capri_ss_113.tsv completed 56% 
+[2023-10-20 22:48:55,800 libparallel INFO] >> /capri_ss_114.tsv completed 57% 
+[2023-10-20 22:48:55,800 libparallel INFO] >> /capri_ss_115.tsv completed 57% 
+[2023-10-20 22:48:55,800 libparallel INFO] >> /capri_ss_116.tsv completed 58% 
+[2023-10-20 22:48:55,800 libparallel INFO] >> /capri_ss_117.tsv completed 58% 
+[2023-10-20 22:48:55,800 libparallel INFO] >> /capri_ss_118.tsv completed 59% 
+[2023-10-20 22:48:55,800 libparallel INFO] >> /capri_ss_119.tsv completed 60% 
+[2023-10-20 22:48:55,800 libparallel INFO] >> /capri_ss_120.tsv completed 60% 
+[2023-10-20 22:48:55,801 libparallel INFO] >> /capri_ss_121.tsv completed 60% 
+[2023-10-20 22:48:55,801 libparallel INFO] >> /capri_ss_122.tsv completed 61% 
+[2023-10-20 22:48:55,801 libparallel INFO] >> /capri_ss_123.tsv completed 62% 
+[2023-10-20 22:48:55,801 libparallel INFO] >> /capri_ss_124.tsv completed 62% 
+[2023-10-20 22:48:55,801 libparallel INFO] >> /capri_ss_125.tsv completed 62% 
+[2023-10-20 22:48:55,801 libparallel INFO] >> /capri_ss_126.tsv completed 63% 
+[2023-10-20 22:48:55,801 libparallel INFO] >> /capri_ss_127.tsv completed 64% 
+[2023-10-20 22:48:55,801 libparallel INFO] >> /capri_ss_128.tsv completed 64% 
+[2023-10-20 22:48:55,801 libparallel INFO] >> /capri_ss_129.tsv completed 64% 
+[2023-10-20 22:48:55,801 libparallel INFO] >> /capri_ss_130.tsv completed 65% 
+[2023-10-20 22:48:55,801 libparallel INFO] >> /capri_ss_131.tsv completed 66% 
+[2023-10-20 22:48:55,801 libparallel INFO] >> /capri_ss_132.tsv completed 66% 
+[2023-10-20 22:48:55,801 libparallel INFO] >> /capri_ss_133.tsv completed 66% 
+[2023-10-20 22:48:55,802 libparallel INFO] >> /capri_ss_134.tsv completed 67% 
+[2023-10-20 22:48:55,802 libparallel INFO] >> /capri_ss_135.tsv completed 68% 
+[2023-10-20 22:48:55,802 libparallel INFO] >> /capri_ss_136.tsv completed 68% 
+[2023-10-20 22:48:55,802 libparallel INFO] >> /capri_ss_137.tsv completed 68% 
+[2023-10-20 22:48:55,802 libparallel INFO] >> /capri_ss_138.tsv completed 69% 
+[2023-10-20 22:48:55,802 libparallel INFO] >> /capri_ss_139.tsv completed 70% 
+[2023-10-20 22:48:55,802 libparallel INFO] >> /capri_ss_140.tsv completed 70% 
+[2023-10-20 22:48:55,802 libparallel INFO] >> /capri_ss_141.tsv completed 70% 
+[2023-10-20 22:48:55,802 libparallel INFO] >> /capri_ss_142.tsv completed 71% 
+[2023-10-20 22:48:55,802 libparallel INFO] >> /capri_ss_143.tsv completed 72% 
+[2023-10-20 22:48:55,802 libparallel INFO] >> /capri_ss_144.tsv completed 72% 
+[2023-10-20 22:48:55,802 libparallel INFO] >> /capri_ss_145.tsv completed 72% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_146.tsv completed 73% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_147.tsv completed 74% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_148.tsv completed 74% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_149.tsv completed 74% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_150.tsv completed 75% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_151.tsv completed 76% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_152.tsv completed 76% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_153.tsv completed 76% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_154.tsv completed 77% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_155.tsv completed 78% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_156.tsv completed 78% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_157.tsv completed 78% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_158.tsv completed 79% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_159.tsv completed 80% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_160.tsv completed 80% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_161.tsv completed 80% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_162.tsv completed 81% 
+[2023-10-20 22:48:56,021 libparallel INFO] >> /capri_ss_163.tsv completed 82% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_164.tsv completed 82% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_165.tsv completed 82% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_166.tsv completed 83% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_167.tsv completed 84% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_168.tsv completed 84% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_169.tsv completed 84% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_170.tsv completed 85% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_171.tsv completed 86% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_172.tsv completed 86% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_173.tsv completed 86% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_174.tsv completed 87% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_175.tsv completed 88% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_176.tsv completed 88% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_177.tsv completed 88% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_178.tsv completed 89% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_179.tsv completed 90% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_180.tsv completed 90% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_181.tsv completed 90% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_182.tsv completed 91% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_183.tsv completed 92% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_184.tsv completed 92% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_185.tsv completed 92% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_186.tsv completed 93% 
+[2023-10-20 22:48:56,022 libparallel INFO] >> /capri_ss_187.tsv completed 94% 
+[2023-10-20 22:48:56,023 libparallel INFO] >> /capri_ss_188.tsv completed 94% 
+[2023-10-20 22:48:56,023 libparallel INFO] >> /capri_ss_189.tsv completed 94% 
+[2023-10-20 22:48:56,023 libparallel INFO] >> /capri_ss_190.tsv completed 95% 
+[2023-10-20 22:48:56,023 libparallel INFO] >> /capri_ss_191.tsv completed 96% 
+[2023-10-20 22:48:56,023 libparallel INFO] >> /capri_ss_192.tsv completed 96% 
+[2023-10-20 22:48:56,023 libparallel INFO] >> /capri_ss_193.tsv completed 96% 
+[2023-10-20 22:48:56,023 libparallel INFO] >> /capri_ss_194.tsv completed 97% 
+[2023-10-20 22:48:56,023 libparallel INFO] >> /capri_ss_195.tsv completed 98% 
+[2023-10-20 22:48:56,023 libparallel INFO] >> /capri_ss_196.tsv completed 98% 
+[2023-10-20 22:48:56,023 libparallel INFO] >> /capri_ss_197.tsv completed 98% 
+[2023-10-20 22:48:56,023 libparallel INFO] >> /capri_ss_198.tsv completed 99% 
+[2023-10-20 22:48:56,023 libparallel INFO] >> /capri_ss_199.tsv completed 100% 
+[2023-10-20 22:48:56,023 libparallel INFO] >> /capri_ss_200.tsv completed 100% 
+[2023-10-20 22:48:56,023 libparallel INFO] 200 tasks finished
+[2023-10-20 22:48:56,159 capri INFO] Rearranging output files into capri_ss.tsv
+[2023-10-20 22:49:00,272 capri INFO] Rearranging cluster information into capri_clt.tsv
+[2023-10-20 22:49:00,463 __init__ INFO] Module [caprieval] finished.
+[2023-10-20 22:49:00,464 __init__ INFO] [caprieval] took 24 seconds
+[2023-10-20 22:49:01,934 base_cns_module INFO] Running [flexref] module
+[2023-10-20 22:49:14,129 __init__ INFO] [flexref] Running CNS Jobs n=200
+[2023-10-20 22:49:14,137 libhpc INFO] > Running batch 1/4
+[2023-10-20 22:49:17,975 libhpc INFO] >> flexref_1.job running
+[2023-10-20 22:49:18,052 libhpc INFO] >> flexref_2.job running
+[2023-10-20 22:49:18,123 libhpc INFO] >> flexref_3.job submitted
+[2023-10-20 22:49:18,179 libhpc INFO] >> flexref_4.job submitted
+[2023-10-20 22:49:18,245 libhpc INFO] >> flexref_5.job submitted
+[2023-10-20 22:49:18,323 libhpc INFO] >> flexref_6.job submitted
+[2023-10-20 22:49:18,386 libhpc INFO] >> flexref_7.job submitted
+[2023-10-20 22:49:18,461 libhpc INFO] >> flexref_8.job submitted
+[2023-10-20 22:49:18,521 libhpc INFO] >> flexref_9.job submitted
+[2023-10-20 22:49:18,591 libhpc INFO] >> flexref_10.job submitted
+[2023-10-20 22:49:18,695 libhpc INFO] >> flexref_11.job submitted
+[2023-10-20 22:49:18,755 libhpc INFO] >> flexref_12.job submitted
+[2023-10-20 22:49:18,831 libhpc INFO] >> flexref_13.job submitted
+[2023-10-20 22:49:18,888 libhpc INFO] >> flexref_14.job submitted
+[2023-10-20 22:49:18,940 libhpc INFO] >> flexref_15.job submitted
+[2023-10-20 22:49:19,020 libhpc INFO] >> flexref_16.job submitted
+[2023-10-20 22:49:19,121 libhpc INFO] >> flexref_17.job submitted
+[2023-10-20 22:49:19,181 libhpc INFO] >> flexref_18.job submitted
+[2023-10-20 22:49:19,236 libhpc INFO] >> flexref_19.job submitted
+[2023-10-20 22:49:19,312 libhpc INFO] >> flexref_20.job submitted
+[2023-10-20 22:49:19,373 libhpc INFO] >> flexref_21.job submitted
+[2023-10-20 22:49:19,453 libhpc INFO] >> flexref_22.job submitted
+[2023-10-20 22:49:19,511 libhpc INFO] >> flexref_23.job submitted
+[2023-10-20 22:49:19,626 libhpc INFO] >> flexref_24.job submitted
+[2023-10-20 22:49:19,738 libhpc INFO] >> flexref_25.job submitted
+[2023-10-20 22:49:19,833 libhpc INFO] >> flexref_26.job submitted
+[2023-10-20 22:49:19,914 libhpc INFO] >> flexref_27.job submitted
+[2023-10-20 22:49:20,027 libhpc INFO] >> flexref_28.job submitted
+[2023-10-20 22:49:20,164 libhpc INFO] >> flexref_29.job submitted
+[2023-10-20 22:49:20,231 libhpc INFO] >> flexref_30.job submitted
+[2023-10-20 22:49:20,300 libhpc INFO] >> flexref_31.job submitted
+[2023-10-20 22:49:20,387 libhpc INFO] >> flexref_32.job submitted
+[2023-10-20 22:49:20,440 libhpc INFO] >> flexref_33.job submitted
+[2023-10-20 22:49:20,506 libhpc INFO] >> flexref_34.job submitted
+[2023-10-20 22:49:20,569 libhpc INFO] >> flexref_35.job submitted
+[2023-10-20 22:49:20,629 libhpc INFO] >> flexref_36.job submitted
+[2023-10-20 22:49:20,689 libhpc INFO] >> flexref_37.job submitted
+[2023-10-20 22:49:20,760 libhpc INFO] >> flexref_38.job submitted
+[2023-10-20 22:49:20,821 libhpc INFO] >> flexref_39.job submitted
+[2023-10-20 22:49:20,900 libhpc INFO] >> flexref_40.job submitted
+[2023-10-20 22:49:20,958 libhpc INFO] >> flexref_41.job submitted
+[2023-10-20 22:49:21,013 libhpc INFO] >> flexref_42.job submitted
+[2023-10-20 22:49:21,102 libhpc INFO] >> flexref_43.job submitted
+[2023-10-20 22:49:21,164 libhpc INFO] >> flexref_44.job submitted
+[2023-10-20 22:49:21,218 libhpc INFO] >> flexref_45.job submitted
+[2023-10-20 22:49:21,278 libhpc INFO] >> flexref_46.job submitted
+[2023-10-20 22:49:21,338 libhpc INFO] >> flexref_47.job submitted
+[2023-10-20 22:49:21,390 libhpc INFO] >> flexref_48.job submitted
+[2023-10-20 22:49:21,483 libhpc INFO] >> flexref_49.job submitted
+[2023-10-20 22:49:21,546 libhpc INFO] >> flexref_50.job submitted
+[2023-10-20 22:49:21,546 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 22:50:21,650 libhpc INFO] >> flexref_3.job running
+[2023-10-20 22:50:21,737 libhpc INFO] >> flexref_4.job running
+[2023-10-20 22:50:21,796 libhpc INFO] >> flexref_5.job submitted
+[2023-10-20 22:50:21,858 libhpc INFO] >> flexref_6.job submitted
+[2023-10-20 22:50:21,910 libhpc INFO] >> flexref_7.job submitted
+[2023-10-20 22:50:21,958 libhpc INFO] >> flexref_8.job submitted
+[2023-10-20 22:50:22,024 libhpc INFO] >> flexref_9.job submitted
+[2023-10-20 22:50:22,078 libhpc INFO] >> flexref_10.job submitted
+[2023-10-20 22:50:22,135 libhpc INFO] >> flexref_11.job submitted
+[2023-10-20 22:50:22,197 libhpc INFO] >> flexref_12.job submitted
+[2023-10-20 22:50:22,246 libhpc INFO] >> flexref_13.job submitted
+[2023-10-20 22:50:22,307 libhpc INFO] >> flexref_14.job submitted
+[2023-10-20 22:50:22,360 libhpc INFO] >> flexref_15.job submitted
+[2023-10-20 22:50:22,423 libhpc INFO] >> flexref_16.job submitted
+[2023-10-20 22:50:22,504 libhpc INFO] >> flexref_17.job submitted
+[2023-10-20 22:50:22,558 libhpc INFO] >> flexref_18.job submitted
+[2023-10-20 22:50:22,605 libhpc INFO] >> flexref_19.job submitted
+[2023-10-20 22:50:22,661 libhpc INFO] >> flexref_20.job submitted
+[2023-10-20 22:50:22,710 libhpc INFO] >> flexref_21.job submitted
+[2023-10-20 22:50:22,767 libhpc INFO] >> flexref_22.job submitted
+[2023-10-20 22:50:22,987 libhpc INFO] >> flexref_23.job submitted
+[2023-10-20 22:50:23,052 libhpc INFO] >> flexref_24.job submitted
+[2023-10-20 22:50:23,118 libhpc INFO] >> flexref_25.job submitted
+[2023-10-20 22:50:23,181 libhpc INFO] >> flexref_26.job submitted
+[2023-10-20 22:50:23,249 libhpc INFO] >> flexref_27.job submitted
+[2023-10-20 22:50:23,331 libhpc INFO] >> flexref_28.job submitted
+[2023-10-20 22:50:23,382 libhpc INFO] >> flexref_29.job submitted
+[2023-10-20 22:50:23,454 libhpc INFO] >> flexref_30.job submitted
+[2023-10-20 22:50:23,515 libhpc INFO] >> flexref_31.job submitted
+[2023-10-20 22:50:23,571 libhpc INFO] >> flexref_32.job submitted
+[2023-10-20 22:50:23,648 libhpc INFO] >> flexref_33.job submitted
+[2023-10-20 22:50:23,709 libhpc INFO] >> flexref_34.job submitted
+[2023-10-20 22:50:23,767 libhpc INFO] >> flexref_35.job submitted
+[2023-10-20 22:50:23,827 libhpc INFO] >> flexref_36.job submitted
+[2023-10-20 22:50:23,884 libhpc INFO] >> flexref_37.job submitted
+[2023-10-20 22:50:23,960 libhpc INFO] >> flexref_38.job submitted
+[2023-10-20 22:50:24,011 libhpc INFO] >> flexref_39.job submitted
+[2023-10-20 22:50:24,084 libhpc INFO] >> flexref_40.job submitted
+[2023-10-20 22:50:24,139 libhpc INFO] >> flexref_41.job submitted
+[2023-10-20 22:50:24,194 libhpc INFO] >> flexref_42.job submitted
+[2023-10-20 22:50:24,263 libhpc INFO] >> flexref_43.job submitted
+[2023-10-20 22:50:24,333 libhpc INFO] >> flexref_44.job submitted
+[2023-10-20 22:50:24,389 libhpc INFO] >> flexref_45.job submitted
+[2023-10-20 22:50:24,451 libhpc INFO] >> flexref_46.job submitted
+[2023-10-20 22:50:24,501 libhpc INFO] >> flexref_47.job submitted
+[2023-10-20 22:50:24,554 libhpc INFO] >> flexref_48.job submitted
+[2023-10-20 22:50:24,629 libhpc INFO] >> flexref_49.job submitted
+[2023-10-20 22:50:24,685 libhpc INFO] >> flexref_50.job submitted
+[2023-10-20 22:50:24,686 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 22:51:24,822 libhpc INFO] >> flexref_5.job running
+[2023-10-20 22:51:24,887 libhpc INFO] >> flexref_6.job running
+[2023-10-20 22:51:24,964 libhpc INFO] >> flexref_7.job submitted
+[2023-10-20 22:51:25,078 libhpc INFO] >> flexref_8.job submitted
+[2023-10-20 22:51:25,144 libhpc INFO] >> flexref_9.job submitted
+[2023-10-20 22:51:25,210 libhpc INFO] >> flexref_10.job submitted
+[2023-10-20 22:51:25,263 libhpc INFO] >> flexref_11.job submitted
+[2023-10-20 22:51:25,502 libhpc INFO] >> flexref_12.job submitted
+[2023-10-20 22:51:25,559 libhpc INFO] >> flexref_13.job submitted
+[2023-10-20 22:51:25,637 libhpc INFO] >> flexref_14.job submitted
+[2023-10-20 22:51:25,690 libhpc INFO] >> flexref_15.job submitted
+[2023-10-20 22:51:25,766 libhpc INFO] >> flexref_16.job submitted
+[2023-10-20 22:51:25,847 libhpc INFO] >> flexref_17.job submitted
+[2023-10-20 22:51:25,931 libhpc INFO] >> flexref_18.job submitted
+[2023-10-20 22:51:26,010 libhpc INFO] >> flexref_19.job submitted
+[2023-10-20 22:51:26,070 libhpc INFO] >> flexref_20.job submitted
+[2023-10-20 22:51:26,130 libhpc INFO] >> flexref_21.job submitted
+[2023-10-20 22:51:26,197 libhpc INFO] >> flexref_22.job submitted
+[2023-10-20 22:51:26,250 libhpc INFO] >> flexref_23.job submitted
+[2023-10-20 22:51:26,327 libhpc INFO] >> flexref_24.job submitted
+[2023-10-20 22:51:26,423 libhpc INFO] >> flexref_25.job submitted
+[2023-10-20 22:51:26,484 libhpc INFO] >> flexref_26.job submitted
+[2023-10-20 22:51:26,550 libhpc INFO] >> flexref_27.job submitted
+[2023-10-20 22:51:26,605 libhpc INFO] >> flexref_28.job submitted
+[2023-10-20 22:51:26,664 libhpc INFO] >> flexref_29.job submitted
+[2023-10-20 22:51:26,725 libhpc INFO] >> flexref_30.job submitted
+[2023-10-20 22:51:26,790 libhpc INFO] >> flexref_31.job submitted
+[2023-10-20 22:51:26,851 libhpc INFO] >> flexref_32.job submitted
+[2023-10-20 22:51:26,910 libhpc INFO] >> flexref_33.job submitted
+[2023-10-20 22:51:26,965 libhpc INFO] >> flexref_34.job submitted
+[2023-10-20 22:51:27,025 libhpc INFO] >> flexref_35.job submitted
+[2023-10-20 22:51:27,115 libhpc INFO] >> flexref_36.job submitted
+[2023-10-20 22:51:27,175 libhpc INFO] >> flexref_37.job submitted
+[2023-10-20 22:51:27,229 libhpc INFO] >> flexref_38.job submitted
+[2023-10-20 22:51:27,289 libhpc INFO] >> flexref_39.job submitted
+[2023-10-20 22:51:27,348 libhpc INFO] >> flexref_40.job submitted
+[2023-10-20 22:51:27,410 libhpc INFO] >> flexref_41.job submitted
+[2023-10-20 22:51:27,475 libhpc INFO] >> flexref_42.job submitted
+[2023-10-20 22:51:27,529 libhpc INFO] >> flexref_43.job submitted
+[2023-10-20 22:51:27,597 libhpc INFO] >> flexref_44.job submitted
+[2023-10-20 22:51:27,662 libhpc INFO] >> flexref_45.job submitted
+[2023-10-20 22:51:27,722 libhpc INFO] >> flexref_46.job submitted
+[2023-10-20 22:51:27,776 libhpc INFO] >> flexref_47.job submitted
+[2023-10-20 22:51:27,830 libhpc INFO] >> flexref_48.job submitted
+[2023-10-20 22:51:27,884 libhpc INFO] >> flexref_49.job submitted
+[2023-10-20 22:51:27,933 libhpc INFO] >> flexref_50.job submitted
+[2023-10-20 22:51:27,933 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 22:52:28,088 libhpc INFO] >> flexref_7.job running
+[2023-10-20 22:52:28,163 libhpc INFO] >> flexref_8.job running
+[2023-10-20 22:52:28,242 libhpc INFO] >> flexref_9.job submitted
+[2023-10-20 22:52:28,308 libhpc INFO] >> flexref_10.job submitted
+[2023-10-20 22:52:28,378 libhpc INFO] >> flexref_11.job submitted
+[2023-10-20 22:52:28,439 libhpc INFO] >> flexref_12.job submitted
+[2023-10-20 22:52:28,497 libhpc INFO] >> flexref_13.job submitted
+[2023-10-20 22:52:28,574 libhpc INFO] >> flexref_14.job submitted
+[2023-10-20 22:52:28,638 libhpc INFO] >> flexref_15.job submitted
+[2023-10-20 22:52:28,692 libhpc INFO] >> flexref_16.job submitted
+[2023-10-20 22:52:28,936 libhpc INFO] >> flexref_17.job submitted
+[2023-10-20 22:52:29,155 libhpc INFO] >> flexref_18.job submitted
+[2023-10-20 22:52:29,230 libhpc INFO] >> flexref_19.job submitted
+[2023-10-20 22:52:29,292 libhpc INFO] >> flexref_20.job submitted
+[2023-10-20 22:52:29,351 libhpc INFO] >> flexref_21.job submitted
+[2023-10-20 22:52:29,412 libhpc INFO] >> flexref_22.job submitted
+[2023-10-20 22:52:29,469 libhpc INFO] >> flexref_23.job submitted
+[2023-10-20 22:52:29,541 libhpc INFO] >> flexref_24.job submitted
+[2023-10-20 22:52:29,607 libhpc INFO] >> flexref_25.job submitted
+[2023-10-20 22:52:29,674 libhpc INFO] >> flexref_26.job submitted
+[2023-10-20 22:52:29,733 libhpc INFO] >> flexref_27.job submitted
+[2023-10-20 22:52:29,787 libhpc INFO] >> flexref_28.job submitted
+[2023-10-20 22:52:29,880 libhpc INFO] >> flexref_29.job submitted
+[2023-10-20 22:52:29,939 libhpc INFO] >> flexref_30.job submitted
+[2023-10-20 22:52:30,001 libhpc INFO] >> flexref_31.job submitted
+[2023-10-20 22:52:30,054 libhpc INFO] >> flexref_32.job submitted
+[2023-10-20 22:52:30,116 libhpc INFO] >> flexref_33.job submitted
+[2023-10-20 22:52:30,185 libhpc INFO] >> flexref_34.job submitted
+[2023-10-20 22:52:30,247 libhpc INFO] >> flexref_35.job submitted
+[2023-10-20 22:52:30,312 libhpc INFO] >> flexref_36.job submitted
+[2023-10-20 22:52:30,373 libhpc INFO] >> flexref_37.job submitted
+[2023-10-20 22:52:30,424 libhpc INFO] >> flexref_38.job submitted
+[2023-10-20 22:52:30,504 libhpc INFO] >> flexref_39.job submitted
+[2023-10-20 22:52:30,573 libhpc INFO] >> flexref_40.job submitted
+[2023-10-20 22:52:30,625 libhpc INFO] >> flexref_41.job submitted
+[2023-10-20 22:52:30,682 libhpc INFO] >> flexref_42.job submitted
+[2023-10-20 22:52:30,733 libhpc INFO] >> flexref_43.job submitted
+[2023-10-20 22:52:30,785 libhpc INFO] >> flexref_44.job submitted
+[2023-10-20 22:52:30,946 libhpc INFO] >> flexref_45.job submitted
+[2023-10-20 22:52:31,003 libhpc INFO] >> flexref_46.job submitted
+[2023-10-20 22:52:31,065 libhpc INFO] >> flexref_47.job submitted
+[2023-10-20 22:52:31,124 libhpc INFO] >> flexref_48.job submitted
+[2023-10-20 22:52:31,185 libhpc INFO] >> flexref_49.job submitted
+[2023-10-20 22:52:31,266 libhpc INFO] >> flexref_50.job submitted
+[2023-10-20 22:52:31,266 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 22:53:31,461 libhpc INFO] >> flexref_10.job running
+[2023-10-20 22:53:31,538 libhpc INFO] >> flexref_11.job running
+[2023-10-20 22:53:31,598 libhpc INFO] >> flexref_12.job submitted
+[2023-10-20 22:53:31,650 libhpc INFO] >> flexref_13.job submitted
+[2023-10-20 22:53:31,722 libhpc INFO] >> flexref_14.job submitted
+[2023-10-20 22:53:31,770 libhpc INFO] >> flexref_15.job submitted
+[2023-10-20 22:53:31,830 libhpc INFO] >> flexref_16.job submitted
+[2023-10-20 22:53:31,886 libhpc INFO] >> flexref_17.job submitted
+[2023-10-20 22:53:31,938 libhpc INFO] >> flexref_18.job submitted
+[2023-10-20 22:53:32,009 libhpc INFO] >> flexref_19.job submitted
+[2023-10-20 22:53:32,077 libhpc INFO] >> flexref_20.job submitted
+[2023-10-20 22:53:32,135 libhpc INFO] >> flexref_21.job submitted
+[2023-10-20 22:53:32,192 libhpc INFO] >> flexref_22.job submitted
+[2023-10-20 22:53:32,257 libhpc INFO] >> flexref_23.job submitted
+[2023-10-20 22:53:32,311 libhpc INFO] >> flexref_24.job submitted
+[2023-10-20 22:53:32,370 libhpc INFO] >> flexref_25.job submitted
+[2023-10-20 22:53:32,437 libhpc INFO] >> flexref_26.job submitted
+[2023-10-20 22:53:32,497 libhpc INFO] >> flexref_27.job submitted
+[2023-10-20 22:53:32,551 libhpc INFO] >> flexref_28.job submitted
+[2023-10-20 22:53:32,606 libhpc INFO] >> flexref_29.job submitted
+[2023-10-20 22:53:32,670 libhpc INFO] >> flexref_30.job submitted
+[2023-10-20 22:53:32,753 libhpc INFO] >> flexref_31.job submitted
+[2023-10-20 22:53:32,830 libhpc INFO] >> flexref_32.job submitted
+[2023-10-20 22:53:32,929 libhpc INFO] >> flexref_33.job submitted
+[2023-10-20 22:53:33,005 libhpc INFO] >> flexref_34.job submitted
+[2023-10-20 22:53:33,078 libhpc INFO] >> flexref_35.job submitted
+[2023-10-20 22:53:33,156 libhpc INFO] >> flexref_36.job submitted
+[2023-10-20 22:53:33,227 libhpc INFO] >> flexref_37.job submitted
+[2023-10-20 22:53:33,293 libhpc INFO] >> flexref_38.job submitted
+[2023-10-20 22:53:33,365 libhpc INFO] >> flexref_39.job submitted
+[2023-10-20 22:53:33,438 libhpc INFO] >> flexref_40.job submitted
+[2023-10-20 22:53:33,493 libhpc INFO] >> flexref_41.job submitted
+[2023-10-20 22:53:33,570 libhpc INFO] >> flexref_42.job submitted
+[2023-10-20 22:53:33,644 libhpc INFO] >> flexref_43.job submitted
+[2023-10-20 22:53:33,724 libhpc INFO] >> flexref_44.job submitted
+[2023-10-20 22:53:33,804 libhpc INFO] >> flexref_45.job submitted
+[2023-10-20 22:53:33,859 libhpc INFO] >> flexref_46.job submitted
+[2023-10-20 22:53:33,932 libhpc INFO] >> flexref_47.job submitted
+[2023-10-20 22:53:34,009 libhpc INFO] >> flexref_48.job submitted
+[2023-10-20 22:53:34,114 libhpc INFO] >> flexref_49.job submitted
+[2023-10-20 22:53:34,194 libhpc INFO] >> flexref_50.job submitted
+[2023-10-20 22:53:34,194 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 22:54:34,416 libhpc INFO] >> flexref_12.job running
+[2023-10-20 22:54:34,588 libhpc INFO] >> flexref_13.job running
+[2023-10-20 22:54:34,655 libhpc INFO] >> flexref_14.job submitted
+[2023-10-20 22:54:34,709 libhpc INFO] >> flexref_15.job submitted
+[2023-10-20 22:54:34,774 libhpc INFO] >> flexref_16.job submitted
+[2023-10-20 22:54:34,836 libhpc INFO] >> flexref_17.job submitted
+[2023-10-20 22:54:34,895 libhpc INFO] >> flexref_18.job submitted
+[2023-10-20 22:54:34,956 libhpc INFO] >> flexref_19.job submitted
+[2023-10-20 22:54:35,016 libhpc INFO] >> flexref_20.job submitted
+[2023-10-20 22:54:35,070 libhpc INFO] >> flexref_21.job submitted
+[2023-10-20 22:54:35,134 libhpc INFO] >> flexref_22.job submitted
+[2023-10-20 22:54:35,190 libhpc INFO] >> flexref_23.job submitted
+[2023-10-20 22:54:35,267 libhpc INFO] >> flexref_24.job submitted
+[2023-10-20 22:54:35,333 libhpc INFO] >> flexref_25.job submitted
+[2023-10-20 22:54:35,395 libhpc INFO] >> flexref_26.job submitted
+[2023-10-20 22:54:35,464 libhpc INFO] >> flexref_27.job submitted
+[2023-10-20 22:54:35,528 libhpc INFO] >> flexref_28.job submitted
+[2023-10-20 22:54:35,587 libhpc INFO] >> flexref_29.job submitted
+[2023-10-20 22:54:35,639 libhpc INFO] >> flexref_30.job submitted
+[2023-10-20 22:54:35,695 libhpc INFO] >> flexref_31.job submitted
+[2023-10-20 22:54:35,776 libhpc INFO] >> flexref_32.job submitted
+[2023-10-20 22:54:35,840 libhpc INFO] >> flexref_33.job submitted
+[2023-10-20 22:54:35,896 libhpc INFO] >> flexref_34.job submitted
+[2023-10-20 22:54:35,953 libhpc INFO] >> flexref_35.job submitted
+[2023-10-20 22:54:36,008 libhpc INFO] >> flexref_36.job submitted
+[2023-10-20 22:54:36,087 libhpc INFO] >> flexref_37.job submitted
+[2023-10-20 22:54:36,152 libhpc INFO] >> flexref_38.job submitted
+[2023-10-20 22:54:36,210 libhpc INFO] >> flexref_39.job submitted
+[2023-10-20 22:54:36,262 libhpc INFO] >> flexref_40.job submitted
+[2023-10-20 22:54:36,315 libhpc INFO] >> flexref_41.job submitted
+[2023-10-20 22:54:36,387 libhpc INFO] >> flexref_42.job submitted
+[2023-10-20 22:54:36,447 libhpc INFO] >> flexref_43.job submitted
+[2023-10-20 22:54:36,519 libhpc INFO] >> flexref_44.job submitted
+[2023-10-20 22:54:36,579 libhpc INFO] >> flexref_45.job submitted
+[2023-10-20 22:54:36,639 libhpc INFO] >> flexref_46.job submitted
+[2023-10-20 22:54:36,710 libhpc INFO] >> flexref_47.job submitted
+[2023-10-20 22:54:36,771 libhpc INFO] >> flexref_48.job submitted
+[2023-10-20 22:54:36,825 libhpc INFO] >> flexref_49.job submitted
+[2023-10-20 22:54:36,897 libhpc INFO] >> flexref_50.job submitted
+[2023-10-20 22:54:36,897 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 22:55:37,150 libhpc INFO] >> flexref_15.job running
+[2023-10-20 22:55:37,219 libhpc INFO] >> flexref_16.job running
+[2023-10-20 22:55:37,282 libhpc INFO] >> flexref_17.job submitted
+[2023-10-20 22:55:37,349 libhpc INFO] >> flexref_18.job submitted
+[2023-10-20 22:55:37,406 libhpc INFO] >> flexref_19.job submitted
+[2023-10-20 22:55:37,458 libhpc INFO] >> flexref_20.job submitted
+[2023-10-20 22:55:37,518 libhpc INFO] >> flexref_21.job submitted
+[2023-10-20 22:55:37,572 libhpc INFO] >> flexref_22.job submitted
+[2023-10-20 22:55:37,629 libhpc INFO] >> flexref_23.job submitted
+[2023-10-20 22:55:37,715 libhpc INFO] >> flexref_24.job submitted
+[2023-10-20 22:55:37,767 libhpc INFO] >> flexref_25.job submitted
+[2023-10-20 22:55:37,831 libhpc INFO] >> flexref_26.job submitted
+[2023-10-20 22:55:37,886 libhpc INFO] >> flexref_27.job submitted
+[2023-10-20 22:55:37,938 libhpc INFO] >> flexref_28.job submitted
+[2023-10-20 22:55:38,012 libhpc INFO] >> flexref_29.job submitted
+[2023-10-20 22:55:38,081 libhpc INFO] >> flexref_30.job submitted
+[2023-10-20 22:55:38,127 libhpc INFO] >> flexref_31.job submitted
+[2023-10-20 22:55:38,179 libhpc INFO] >> flexref_32.job submitted
+[2023-10-20 22:55:38,230 libhpc INFO] >> flexref_33.job submitted
+[2023-10-20 22:55:38,281 libhpc INFO] >> flexref_34.job submitted
+[2023-10-20 22:55:38,362 libhpc INFO] >> flexref_35.job submitted
+[2023-10-20 22:55:38,420 libhpc INFO] >> flexref_36.job submitted
+[2023-10-20 22:55:38,488 libhpc INFO] >> flexref_37.job submitted
+[2023-10-20 22:55:38,546 libhpc INFO] >> flexref_38.job submitted
+[2023-10-20 22:55:38,598 libhpc INFO] >> flexref_39.job submitted
+[2023-10-20 22:55:38,682 libhpc INFO] >> flexref_40.job submitted
+[2023-10-20 22:55:38,756 libhpc INFO] >> flexref_41.job submitted
+[2023-10-20 22:55:38,817 libhpc INFO] >> flexref_42.job submitted
+[2023-10-20 22:55:38,877 libhpc INFO] >> flexref_43.job submitted
+[2023-10-20 22:55:38,934 libhpc INFO] >> flexref_44.job submitted
+[2023-10-20 22:55:39,011 libhpc INFO] >> flexref_45.job submitted
+[2023-10-20 22:55:39,065 libhpc INFO] >> flexref_46.job submitted
+[2023-10-20 22:55:39,128 libhpc INFO] >> flexref_47.job submitted
+[2023-10-20 22:55:39,184 libhpc INFO] >> flexref_48.job submitted
+[2023-10-20 22:55:39,243 libhpc INFO] >> flexref_49.job submitted
+[2023-10-20 22:55:39,320 libhpc INFO] >> flexref_50.job submitted
+[2023-10-20 22:55:39,320 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 22:56:39,597 libhpc INFO] >> flexref_17.job running
+[2023-10-20 22:56:39,690 libhpc INFO] >> flexref_18.job running
+[2023-10-20 22:56:39,766 libhpc INFO] >> flexref_19.job submitted
+[2023-10-20 22:56:39,822 libhpc INFO] >> flexref_20.job submitted
+[2023-10-20 22:56:39,895 libhpc INFO] >> flexref_21.job submitted
+[2023-10-20 22:56:39,978 libhpc INFO] >> flexref_22.job submitted
+[2023-10-20 22:56:40,031 libhpc INFO] >> flexref_23.job submitted
+[2023-10-20 22:56:40,115 libhpc INFO] >> flexref_24.job submitted
+[2023-10-20 22:56:40,182 libhpc INFO] >> flexref_25.job submitted
+[2023-10-20 22:56:40,248 libhpc INFO] >> flexref_26.job submitted
+[2023-10-20 22:56:40,309 libhpc INFO] >> flexref_27.job submitted
+[2023-10-20 22:56:40,397 libhpc INFO] >> flexref_28.job submitted
+[2023-10-20 22:56:40,458 libhpc INFO] >> flexref_29.job submitted
+[2023-10-20 22:56:40,514 libhpc INFO] >> flexref_30.job submitted
+[2023-10-20 22:56:40,573 libhpc INFO] >> flexref_31.job submitted
+[2023-10-20 22:56:40,633 libhpc INFO] >> flexref_32.job submitted
+[2023-10-20 22:56:41,040 libhpc INFO] >> flexref_33.job submitted
+[2023-10-20 22:56:41,144 libhpc INFO] >> flexref_34.job submitted
+[2023-10-20 22:56:41,205 libhpc INFO] >> flexref_35.job submitted
+[2023-10-20 22:56:41,258 libhpc INFO] >> flexref_36.job submitted
+[2023-10-20 22:56:41,312 libhpc INFO] >> flexref_37.job submitted
+[2023-10-20 22:56:41,389 libhpc INFO] >> flexref_38.job submitted
+[2023-10-20 22:56:41,438 libhpc INFO] >> flexref_39.job submitted
+[2023-10-20 22:56:41,498 libhpc INFO] >> flexref_40.job submitted
+[2023-10-20 22:56:41,573 libhpc INFO] >> flexref_41.job submitted
+[2023-10-20 22:56:41,625 libhpc INFO] >> flexref_42.job submitted
+[2023-10-20 22:56:41,690 libhpc INFO] >> flexref_43.job submitted
+[2023-10-20 22:56:41,744 libhpc INFO] >> flexref_44.job submitted
+[2023-10-20 22:56:41,815 libhpc INFO] >> flexref_45.job submitted
+[2023-10-20 22:56:41,871 libhpc INFO] >> flexref_46.job submitted
+[2023-10-20 22:56:41,939 libhpc INFO] >> flexref_47.job submitted
+[2023-10-20 22:56:42,014 libhpc INFO] >> flexref_48.job submitted
+[2023-10-20 22:56:42,076 libhpc INFO] >> flexref_49.job submitted
+[2023-10-20 22:56:42,135 libhpc INFO] >> flexref_50.job submitted
+[2023-10-20 22:56:42,135 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 22:57:42,447 libhpc INFO] >> flexref_20.job running
+[2023-10-20 22:57:42,516 libhpc INFO] >> flexref_21.job running
+[2023-10-20 22:57:42,586 libhpc INFO] >> flexref_22.job submitted
+[2023-10-20 22:57:42,651 libhpc INFO] >> flexref_23.job submitted
+[2023-10-20 22:57:42,707 libhpc INFO] >> flexref_24.job submitted
+[2023-10-20 22:57:42,768 libhpc INFO] >> flexref_25.job submitted
+[2023-10-20 22:57:42,828 libhpc INFO] >> flexref_26.job submitted
+[2023-10-20 22:57:42,889 libhpc INFO] >> flexref_27.job submitted
+[2023-10-20 22:57:42,960 libhpc INFO] >> flexref_28.job submitted
+[2023-10-20 22:57:43,028 libhpc INFO] >> flexref_29.job submitted
+[2023-10-20 22:57:43,093 libhpc INFO] >> flexref_30.job submitted
+[2023-10-20 22:57:43,157 libhpc INFO] >> flexref_31.job submitted
+[2023-10-20 22:57:43,217 libhpc INFO] >> flexref_32.job submitted
+[2023-10-20 22:57:43,289 libhpc INFO] >> flexref_33.job submitted
+[2023-10-20 22:57:43,346 libhpc INFO] >> flexref_34.job submitted
+[2023-10-20 22:57:43,394 libhpc INFO] >> flexref_35.job submitted
+[2023-10-20 22:57:43,452 libhpc INFO] >> flexref_36.job submitted
+[2023-10-20 22:57:43,500 libhpc INFO] >> flexref_37.job submitted
+[2023-10-20 22:57:43,555 libhpc INFO] >> flexref_38.job submitted
+[2023-10-20 22:57:43,640 libhpc INFO] >> flexref_39.job submitted
+[2023-10-20 22:57:43,699 libhpc INFO] >> flexref_40.job submitted
+[2023-10-20 22:57:43,765 libhpc INFO] >> flexref_41.job submitted
+[2023-10-20 22:57:43,832 libhpc INFO] >> flexref_42.job submitted
+[2023-10-20 22:57:43,892 libhpc INFO] >> flexref_43.job submitted
+[2023-10-20 22:57:43,963 libhpc INFO] >> flexref_44.job submitted
+[2023-10-20 22:57:44,024 libhpc INFO] >> flexref_45.job submitted
+[2023-10-20 22:57:44,085 libhpc INFO] >> flexref_46.job submitted
+[2023-10-20 22:57:44,152 libhpc INFO] >> flexref_47.job submitted
+[2023-10-20 22:57:44,203 libhpc INFO] >> flexref_48.job submitted
+[2023-10-20 22:57:44,260 libhpc INFO] >> flexref_49.job submitted
+[2023-10-20 22:57:44,336 libhpc INFO] >> flexref_50.job submitted
+[2023-10-20 22:57:44,337 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 22:58:44,665 libhpc INFO] >> flexref_22.job running
+[2023-10-20 22:58:44,725 libhpc INFO] >> flexref_23.job running
+[2023-10-20 22:58:44,784 libhpc INFO] >> flexref_24.job submitted
+[2023-10-20 22:58:44,836 libhpc INFO] >> flexref_25.job submitted
+[2023-10-20 22:58:44,896 libhpc INFO] >> flexref_26.job submitted
+[2023-10-20 22:58:44,957 libhpc INFO] >> flexref_27.job submitted
+[2023-10-20 22:58:45,015 libhpc INFO] >> flexref_28.job submitted
+[2023-10-20 22:58:45,069 libhpc INFO] >> flexref_29.job submitted
+[2023-10-20 22:58:45,118 libhpc INFO] >> flexref_30.job submitted
+[2023-10-20 22:58:45,167 libhpc INFO] >> flexref_31.job submitted
+[2023-10-20 22:58:45,227 libhpc INFO] >> flexref_32.job submitted
+[2023-10-20 22:58:45,285 libhpc INFO] >> flexref_33.job submitted
+[2023-10-20 22:58:45,488 libhpc INFO] >> flexref_34.job submitted
+[2023-10-20 22:58:45,582 libhpc INFO] >> flexref_35.job submitted
+[2023-10-20 22:58:45,645 libhpc INFO] >> flexref_36.job submitted
+[2023-10-20 22:58:45,723 libhpc INFO] >> flexref_37.job submitted
+[2023-10-20 22:58:45,781 libhpc INFO] >> flexref_38.job submitted
+[2023-10-20 22:58:45,843 libhpc INFO] >> flexref_39.job submitted
+[2023-10-20 22:58:45,913 libhpc INFO] >> flexref_40.job submitted
+[2023-10-20 22:58:45,966 libhpc INFO] >> flexref_41.job submitted
+[2023-10-20 22:58:46,016 libhpc INFO] >> flexref_42.job submitted
+[2023-10-20 22:58:46,105 libhpc INFO] >> flexref_43.job submitted
+[2023-10-20 22:58:46,161 libhpc INFO] >> flexref_44.job submitted
+[2023-10-20 22:58:46,220 libhpc INFO] >> flexref_45.job submitted
+[2023-10-20 22:58:46,268 libhpc INFO] >> flexref_46.job submitted
+[2023-10-20 22:58:46,318 libhpc INFO] >> flexref_47.job submitted
+[2023-10-20 22:58:46,406 libhpc INFO] >> flexref_48.job submitted
+[2023-10-20 22:58:46,456 libhpc INFO] >> flexref_49.job submitted
+[2023-10-20 22:58:46,519 libhpc INFO] >> flexref_50.job submitted
+[2023-10-20 22:58:46,519 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 22:59:46,857 libhpc INFO] >> flexref_24.job running
+[2023-10-20 22:59:46,928 libhpc INFO] >> flexref_25.job running
+[2023-10-20 22:59:47,003 libhpc INFO] >> flexref_26.job submitted
+[2023-10-20 22:59:47,072 libhpc INFO] >> flexref_27.job submitted
+[2023-10-20 22:59:47,166 libhpc INFO] >> flexref_28.job submitted
+[2023-10-20 22:59:47,239 libhpc INFO] >> flexref_29.job submitted
+[2023-10-20 22:59:47,287 libhpc INFO] >> flexref_30.job submitted
+[2023-10-20 22:59:47,360 libhpc INFO] >> flexref_31.job submitted
+[2023-10-20 22:59:47,438 libhpc INFO] >> flexref_32.job submitted
+[2023-10-20 22:59:47,539 libhpc INFO] >> flexref_33.job submitted
+[2023-10-20 22:59:47,618 libhpc INFO] >> flexref_34.job submitted
+[2023-10-20 22:59:47,666 libhpc INFO] >> flexref_35.job submitted
+[2023-10-20 22:59:47,745 libhpc INFO] >> flexref_36.job submitted
+[2023-10-20 22:59:47,816 libhpc INFO] >> flexref_37.job submitted
+[2023-10-20 22:59:47,888 libhpc INFO] >> flexref_38.job submitted
+[2023-10-20 22:59:47,954 libhpc INFO] >> flexref_39.job submitted
+[2023-10-20 22:59:48,026 libhpc INFO] >> flexref_40.job submitted
+[2023-10-20 22:59:48,237 libhpc INFO] >> flexref_41.job submitted
+[2023-10-20 22:59:48,297 libhpc INFO] >> flexref_42.job submitted
+[2023-10-20 22:59:48,371 libhpc INFO] >> flexref_43.job submitted
+[2023-10-20 22:59:48,442 libhpc INFO] >> flexref_44.job submitted
+[2023-10-20 22:59:48,492 libhpc INFO] >> flexref_45.job submitted
+[2023-10-20 22:59:48,555 libhpc INFO] >> flexref_46.job submitted
+[2023-10-20 22:59:48,616 libhpc INFO] >> flexref_47.job submitted
+[2023-10-20 22:59:48,677 libhpc INFO] >> flexref_48.job submitted
+[2023-10-20 22:59:48,749 libhpc INFO] >> flexref_49.job submitted
+[2023-10-20 22:59:48,804 libhpc INFO] >> flexref_50.job submitted
+[2023-10-20 22:59:48,804 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 23:00:49,186 libhpc INFO] >> flexref_27.job running
+[2023-10-20 23:00:49,258 libhpc INFO] >> flexref_28.job running
+[2023-10-20 23:00:49,312 libhpc INFO] >> flexref_29.job submitted
+[2023-10-20 23:00:49,382 libhpc INFO] >> flexref_30.job submitted
+[2023-10-20 23:00:49,439 libhpc INFO] >> flexref_31.job submitted
+[2023-10-20 23:00:49,507 libhpc INFO] >> flexref_32.job submitted
+[2023-10-20 23:00:49,565 libhpc INFO] >> flexref_33.job submitted
+[2023-10-20 23:00:49,622 libhpc INFO] >> flexref_34.job submitted
+[2023-10-20 23:00:49,679 libhpc INFO] >> flexref_35.job submitted
+[2023-10-20 23:00:49,741 libhpc INFO] >> flexref_36.job submitted
+[2023-10-20 23:00:49,819 libhpc INFO] >> flexref_37.job submitted
+[2023-10-20 23:00:49,881 libhpc INFO] >> flexref_38.job submitted
+[2023-10-20 23:00:49,937 libhpc INFO] >> flexref_39.job submitted
+[2023-10-20 23:00:49,995 libhpc INFO] >> flexref_40.job submitted
+[2023-10-20 23:00:50,051 libhpc INFO] >> flexref_41.job submitted
+[2023-10-20 23:00:50,103 libhpc INFO] >> flexref_42.job submitted
+[2023-10-20 23:00:50,204 libhpc INFO] >> flexref_43.job submitted
+[2023-10-20 23:00:50,264 libhpc INFO] >> flexref_44.job submitted
+[2023-10-20 23:00:50,326 libhpc INFO] >> flexref_45.job submitted
+[2023-10-20 23:00:50,381 libhpc INFO] >> flexref_46.job submitted
+[2023-10-20 23:00:50,434 libhpc INFO] >> flexref_47.job submitted
+[2023-10-20 23:00:50,511 libhpc INFO] >> flexref_48.job submitted
+[2023-10-20 23:00:50,566 libhpc INFO] >> flexref_49.job submitted
+[2023-10-20 23:00:50,623 libhpc INFO] >> flexref_50.job submitted
+[2023-10-20 23:00:50,623 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 23:01:51,017 libhpc INFO] >> flexref_30.job running
+[2023-10-20 23:01:51,086 libhpc INFO] >> flexref_31.job running
+[2023-10-20 23:01:51,133 libhpc INFO] >> flexref_32.job submitted
+[2023-10-20 23:01:51,182 libhpc INFO] >> flexref_33.job submitted
+[2023-10-20 23:01:51,254 libhpc INFO] >> flexref_34.job submitted
+[2023-10-20 23:01:51,315 libhpc INFO] >> flexref_35.job submitted
+[2023-10-20 23:01:51,375 libhpc INFO] >> flexref_36.job submitted
+[2023-10-20 23:01:51,446 libhpc INFO] >> flexref_37.job submitted
+[2023-10-20 23:01:51,496 libhpc INFO] >> flexref_38.job submitted
+[2023-10-20 23:01:51,568 libhpc INFO] >> flexref_39.job submitted
+[2023-10-20 23:01:51,639 libhpc INFO] >> flexref_40.job submitted
+[2023-10-20 23:01:51,692 libhpc INFO] >> flexref_41.job submitted
+[2023-10-20 23:01:51,746 libhpc INFO] >> flexref_42.job submitted
+[2023-10-20 23:01:51,794 libhpc INFO] >> flexref_43.job submitted
+[2023-10-20 23:01:51,854 libhpc INFO] >> flexref_44.job submitted
+[2023-10-20 23:01:51,914 libhpc INFO] >> flexref_45.job submitted
+[2023-10-20 23:01:51,968 libhpc INFO] >> flexref_46.job submitted
+[2023-10-20 23:01:52,029 libhpc INFO] >> flexref_47.job submitted
+[2023-10-20 23:01:52,083 libhpc INFO] >> flexref_48.job submitted
+[2023-10-20 23:01:52,141 libhpc INFO] >> flexref_49.job submitted
+[2023-10-20 23:01:52,214 libhpc INFO] >> flexref_50.job submitted
+[2023-10-20 23:01:52,215 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 23:02:52,638 libhpc INFO] >> flexref_32.job running
+[2023-10-20 23:02:52,726 libhpc INFO] >> flexref_33.job running
+[2023-10-20 23:02:52,802 libhpc INFO] >> flexref_34.job submitted
+[2023-10-20 23:02:52,880 libhpc INFO] >> flexref_35.job submitted
+[2023-10-20 23:02:52,982 libhpc INFO] >> flexref_36.job submitted
+[2023-10-20 23:02:53,054 libhpc INFO] >> flexref_37.job submitted
+[2023-10-20 23:02:53,134 libhpc INFO] >> flexref_38.job submitted
+[2023-10-20 23:02:53,216 libhpc INFO] >> flexref_39.job submitted
+[2023-10-20 23:02:53,270 libhpc INFO] >> flexref_40.job submitted
+[2023-10-20 23:02:53,349 libhpc INFO] >> flexref_41.job submitted
+[2023-10-20 23:02:53,537 libhpc INFO] >> flexref_42.job submitted
+[2023-10-20 23:02:53,621 libhpc INFO] >> flexref_43.job submitted
+[2023-10-20 23:02:53,703 libhpc INFO] >> flexref_44.job submitted
+[2023-10-20 23:02:53,750 libhpc INFO] >> flexref_45.job submitted
+[2023-10-20 23:02:53,830 libhpc INFO] >> flexref_46.job submitted
+[2023-10-20 23:02:53,914 libhpc INFO] >> flexref_47.job submitted
+[2023-10-20 23:02:54,010 libhpc INFO] >> flexref_48.job submitted
+[2023-10-20 23:02:54,088 libhpc INFO] >> flexref_49.job submitted
+[2023-10-20 23:02:54,166 libhpc INFO] >> flexref_50.job submitted
+[2023-10-20 23:02:54,166 libhpc INFO] >> Waiting... (60.00s)
