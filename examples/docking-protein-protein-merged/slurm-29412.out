@@ -18714,3 +18714,806 @@ b'Submitted batch job 30533\n' b''
 [2023-10-20 23:11:10,508 libhpc INFO] >> flexref_99.job submitted
 [2023-10-20 23:11:10,562 libhpc INFO] >> flexref_100.job submitted
 [2023-10-20 23:11:10,562 libhpc INFO] >> Waiting... (1308.00s)
+[2023-10-20 23:32:59,130 libhpc INFO] >> Batch 2/4 took 1316.57s to finish, 50.00% complete
+[2023-10-20 23:32:59,132 libhpc INFO] > Running batch 3/4
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_101.out
+#SBATCH --error=flexref_101.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_101.inp > flexref_101.out
+
+b'Submitted batch job 30534\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_102.out
+#SBATCH --error=flexref_102.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_102.inp > flexref_102.out
+
+b'Submitted batch job 30535\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_103.out
+#SBATCH --error=flexref_103.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_103.inp > flexref_103.out
+
+b'Submitted batch job 30536\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_104.out
+#SBATCH --error=flexref_104.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_104.inp > flexref_104.out
+
+b'Submitted batch job 30537\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_105.out
+#SBATCH --error=flexref_105.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_105.inp > flexref_105.out
+
+b'Submitted batch job 30538\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_106.out
+#SBATCH --error=flexref_106.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_106.inp > flexref_106.out
+
+b'Submitted batch job 30539\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_107.out
+#SBATCH --error=flexref_107.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_107.inp > flexref_107.out
+
+b'Submitted batch job 30540\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_108.out
+#SBATCH --error=flexref_108.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_108.inp > flexref_108.out
+
+b'Submitted batch job 30541\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_109.out
+#SBATCH --error=flexref_109.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_109.inp > flexref_109.out
+
+b'Submitted batch job 30542\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_110.out
+#SBATCH --error=flexref_110.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_110.inp > flexref_110.out
+
+b'Submitted batch job 30543\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_111.out
+#SBATCH --error=flexref_111.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_111.inp > flexref_111.out
+
+b'Submitted batch job 30544\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_112.out
+#SBATCH --error=flexref_112.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_112.inp > flexref_112.out
+
+b'Submitted batch job 30545\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_113.out
+#SBATCH --error=flexref_113.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_113.inp > flexref_113.out
+
+b'Submitted batch job 30546\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_114.out
+#SBATCH --error=flexref_114.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_114.inp > flexref_114.out
+
+b'Submitted batch job 30547\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_115.out
+#SBATCH --error=flexref_115.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_115.inp > flexref_115.out
+
+b'Submitted batch job 30548\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_116.out
+#SBATCH --error=flexref_116.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_116.inp > flexref_116.out
+
+b'Submitted batch job 30549\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_117.out
+#SBATCH --error=flexref_117.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_117.inp > flexref_117.out
+
+b'Submitted batch job 30550\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_118.out
+#SBATCH --error=flexref_118.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_118.inp > flexref_118.out
+
+b'Submitted batch job 30551\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_119.out
+#SBATCH --error=flexref_119.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_119.inp > flexref_119.out
+
+b'Submitted batch job 30552\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_120.out
+#SBATCH --error=flexref_120.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_120.inp > flexref_120.out
+
+b'Submitted batch job 30553\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_121.out
+#SBATCH --error=flexref_121.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_121.inp > flexref_121.out
+
+b'Submitted batch job 30554\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_122.out
+#SBATCH --error=flexref_122.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_122.inp > flexref_122.out
+
+b'Submitted batch job 30555\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_123.out
+#SBATCH --error=flexref_123.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_123.inp > flexref_123.out
+
+b'Submitted batch job 30556\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_124.out
+#SBATCH --error=flexref_124.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_124.inp > flexref_124.out
+
+b'Submitted batch job 30557\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_125.out
+#SBATCH --error=flexref_125.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_125.inp > flexref_125.out
+
+b'Submitted batch job 30558\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_126.out
+#SBATCH --error=flexref_126.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_126.inp > flexref_126.out
+
+b'Submitted batch job 30559\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_127.out
+#SBATCH --error=flexref_127.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_127.inp > flexref_127.out
+
+b'Submitted batch job 30560\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_128.out
+#SBATCH --error=flexref_128.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_128.inp > flexref_128.out
+
+b'Submitted batch job 30561\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_129.out
+#SBATCH --error=flexref_129.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_129.inp > flexref_129.out
+
+b'Submitted batch job 30562\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_130.out
+#SBATCH --error=flexref_130.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_130.inp > flexref_130.out
+
+b'Submitted batch job 30563\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_131.out
+#SBATCH --error=flexref_131.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_131.inp > flexref_131.out
+
+b'Submitted batch job 30564\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_132.out
+#SBATCH --error=flexref_132.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_132.inp > flexref_132.out
+
+b'Submitted batch job 30565\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_133.out
+#SBATCH --error=flexref_133.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_133.inp > flexref_133.out
+
+b'Submitted batch job 30566\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_134.out
+#SBATCH --error=flexref_134.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_134.inp > flexref_134.out
+
+b'Submitted batch job 30567\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_135.out
+#SBATCH --error=flexref_135.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_135.inp > flexref_135.out
+
+b'Submitted batch job 30568\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_136.out
+#SBATCH --error=flexref_136.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_136.inp > flexref_136.out
+
+b'Submitted batch job 30569\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_137.out
+#SBATCH --error=flexref_137.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_137.inp > flexref_137.out
+
+b'Submitted batch job 30570\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_138.out
+#SBATCH --error=flexref_138.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_138.inp > flexref_138.out
+
+b'Submitted batch job 30571\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_139.out
+#SBATCH --error=flexref_139.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_139.inp > flexref_139.out
+
+b'Submitted batch job 30572\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_140.out
+#SBATCH --error=flexref_140.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_140.inp > flexref_140.out
+
+b'Submitted batch job 30573\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_141.out
+#SBATCH --error=flexref_141.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_141.inp > flexref_141.out
+
+b'Submitted batch job 30574\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_142.out
+#SBATCH --error=flexref_142.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_142.inp > flexref_142.out
+
+b'Submitted batch job 30575\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_143.out
+#SBATCH --error=flexref_143.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_143.inp > flexref_143.out
+
+b'Submitted batch job 30576\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_144.out
+#SBATCH --error=flexref_144.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_144.inp > flexref_144.out
+
+b'Submitted batch job 30577\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_145.out
+#SBATCH --error=flexref_145.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_145.inp > flexref_145.out
+
+b'Submitted batch job 30578\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_146.out
+#SBATCH --error=flexref_146.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_146.inp > flexref_146.out
+
+b'Submitted batch job 30579\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_147.out
+#SBATCH --error=flexref_147.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_147.inp > flexref_147.out
+
+b'Submitted batch job 30580\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_148.out
+#SBATCH --error=flexref_148.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_148.inp > flexref_148.out
+
+b'Submitted batch job 30581\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_149.out
+#SBATCH --error=flexref_149.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_149.inp > flexref_149.out
+
+b'Submitted batch job 30582\n' b''
+#!/usr/bin/env bash
+#SBATCH -J haddock3
+#SBATCH --nodes=1
+#SBATCH --tasks-per-node=1
+#SBATCH --output=flexref_150.out
+#SBATCH --error=flexref_150.err
+#SBATCH --chdir=.
+export MODDIR=.
+export MODULE=/home/greenBeans/haddock3/src/haddock/modules/refinement/flexref/cns
+export TOPPAR=/home/greenBeans/haddock3/src/haddock/cns/toppar
+
+cd .
+/home/greenBeans/haddock3/bin/cns < flexref_150.inp > flexref_150.out
+
+b'Submitted batch job 30583\n' b''
+[2023-10-20 23:33:03,414 libhpc INFO] >> flexref_101.job running
+[2023-10-20 23:33:03,495 libhpc INFO] >> flexref_102.job running
+[2023-10-20 23:33:03,572 libhpc INFO] >> flexref_103.job submitted
+[2023-10-20 23:33:03,650 libhpc INFO] >> flexref_104.job submitted
+[2023-10-20 23:33:03,722 libhpc INFO] >> flexref_105.job submitted
+[2023-10-20 23:33:03,785 libhpc INFO] >> flexref_106.job submitted
+[2023-10-20 23:33:03,842 libhpc INFO] >> flexref_107.job submitted
+[2023-10-20 23:33:03,901 libhpc INFO] >> flexref_108.job submitted
+[2023-10-20 23:33:03,981 libhpc INFO] >> flexref_109.job submitted
+[2023-10-20 23:33:04,047 libhpc INFO] >> flexref_110.job submitted
+[2023-10-20 23:33:04,107 libhpc INFO] >> flexref_111.job submitted
+[2023-10-20 23:33:04,173 libhpc INFO] >> flexref_112.job submitted
+[2023-10-20 23:33:04,252 libhpc INFO] >> flexref_113.job submitted
+[2023-10-20 23:33:04,312 libhpc INFO] >> flexref_114.job submitted
+[2023-10-20 23:33:04,399 libhpc INFO] >> flexref_115.job submitted
+[2023-10-20 23:33:04,467 libhpc INFO] >> flexref_116.job submitted
+[2023-10-20 23:33:04,558 libhpc INFO] >> flexref_117.job submitted
+[2023-10-20 23:33:04,629 libhpc INFO] >> flexref_118.job submitted
+[2023-10-20 23:33:04,694 libhpc INFO] >> flexref_119.job submitted
+[2023-10-20 23:33:04,774 libhpc INFO] >> flexref_120.job submitted
+[2023-10-20 23:33:04,857 libhpc INFO] >> flexref_121.job submitted
+[2023-10-20 23:33:04,918 libhpc INFO] >> flexref_122.job submitted
+[2023-10-20 23:33:04,991 libhpc INFO] >> flexref_123.job submitted
+[2023-10-20 23:33:05,062 libhpc INFO] >> flexref_124.job submitted
+[2023-10-20 23:33:05,139 libhpc INFO] >> flexref_125.job submitted
+[2023-10-20 23:33:05,215 libhpc INFO] >> flexref_126.job submitted
+[2023-10-20 23:33:05,278 libhpc INFO] >> flexref_127.job submitted
+[2023-10-20 23:33:05,339 libhpc INFO] >> flexref_128.job submitted
+[2023-10-20 23:33:05,399 libhpc INFO] >> flexref_129.job submitted
+[2023-10-20 23:33:05,485 libhpc INFO] >> flexref_130.job submitted
+[2023-10-20 23:33:05,555 libhpc INFO] >> flexref_131.job submitted
+[2023-10-20 23:33:05,621 libhpc INFO] >> flexref_132.job submitted
+[2023-10-20 23:33:05,684 libhpc INFO] >> flexref_133.job submitted
+[2023-10-20 23:33:05,748 libhpc INFO] >> flexref_134.job submitted
+[2023-10-20 23:33:05,826 libhpc INFO] >> flexref_135.job submitted
+[2023-10-20 23:33:05,881 libhpc INFO] >> flexref_136.job submitted
+[2023-10-20 23:33:05,941 libhpc INFO] >> flexref_137.job submitted
+[2023-10-20 23:33:06,020 libhpc INFO] >> flexref_138.job submitted
+[2023-10-20 23:33:06,107 libhpc INFO] >> flexref_139.job submitted
+[2023-10-20 23:33:06,221 libhpc INFO] >> flexref_140.job submitted
+[2023-10-20 23:33:06,312 libhpc INFO] >> flexref_141.job submitted
+[2023-10-20 23:33:06,401 libhpc INFO] >> flexref_142.job submitted
+[2023-10-20 23:33:06,509 libhpc INFO] >> flexref_143.job submitted
+[2023-10-20 23:33:06,576 libhpc INFO] >> flexref_144.job submitted
+[2023-10-20 23:33:06,656 libhpc INFO] >> flexref_145.job submitted
+[2023-10-20 23:33:06,720 libhpc INFO] >> flexref_146.job submitted
+[2023-10-20 23:33:06,776 libhpc INFO] >> flexref_147.job submitted
+[2023-10-20 23:33:06,873 libhpc INFO] >> flexref_148.job submitted
+[2023-10-20 23:33:06,942 libhpc INFO] >> flexref_149.job submitted
+[2023-10-20 23:33:07,010 libhpc INFO] >> flexref_150.job submitted
+[2023-10-20 23:33:07,010 libhpc INFO] >> Waiting... (1312.00s)
