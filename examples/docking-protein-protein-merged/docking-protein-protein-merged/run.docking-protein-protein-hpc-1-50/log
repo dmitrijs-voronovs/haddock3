@@ -1,0 +1,482 @@
+[2023-10-20 21:34:04,759 cli INFO] 
+##############################################
+#                                            #
+#                 HADDOCK 3                  #
+#                                            #
+##############################################
+
+Starting HADDOCK 3.0.0 on 2023-10-20 21:34:00
+
+Python 3.9.18 (main, Sep 11 2023, 13:41:44) 
+[GCC 11.2.0]
+
+[2023-10-20 21:34:12,009 libworkflow INFO] Reading instructions step 0_topoaa
+[2023-10-20 21:34:12,009 libworkflow INFO] Reading instructions step 1_rigidbody
+[2023-10-20 21:34:12,009 libworkflow INFO] Reading instructions step 2_seletop
+[2023-10-20 21:34:12,009 libworkflow INFO] Reading instructions step 3_caprieval
+[2023-10-20 21:34:12,009 libworkflow INFO] Reading instructions step 4_flexref
+[2023-10-20 21:34:12,010 libworkflow INFO] Reading instructions step 5_caprieval
+[2023-10-20 21:34:12,010 libworkflow INFO] Reading instructions step 6_emref
+[2023-10-20 21:34:12,010 libworkflow INFO] Reading instructions step 7_caprieval
+[2023-10-20 21:34:12,127 base_cns_module INFO] Running [topoaa] module
+[2023-10-20 21:34:12,128 __init__ INFO] [topoaa] Molecule 1: e2aP_1F3G.pdb
+[2023-10-20 21:34:12,136 __init__ INFO] [topoaa] Sanitizing molecule e2aP_1F3G.pdb
+[2023-10-20 21:34:12,238 __init__ INFO] [topoaa] Topology CNS input created in e2aP_1F3G.inp
+[2023-10-20 21:34:12,238 __init__ INFO] [topoaa] Molecule 2: hpr_ensemble.pdb
+[2023-10-20 21:34:12,815 __init__ INFO] [topoaa] Sanitizing molecule hpr_ensemble_1.pdb
+[2023-10-20 21:34:12,915 __init__ INFO] [topoaa] Topology CNS input created in hpr_ensemble_1.inp
+[2023-10-20 21:34:12,915 __init__ INFO] [topoaa] Sanitizing molecule hpr_ensemble_2.pdb
+[2023-10-20 21:34:13,017 __init__ INFO] [topoaa] Topology CNS input created in hpr_ensemble_2.inp
+[2023-10-20 21:34:13,018 __init__ INFO] [topoaa] Sanitizing molecule hpr_ensemble_3.pdb
+[2023-10-20 21:34:13,131 __init__ INFO] [topoaa] Topology CNS input created in hpr_ensemble_3.inp
+[2023-10-20 21:34:13,131 __init__ INFO] [topoaa] Sanitizing molecule hpr_ensemble_4.pdb
+[2023-10-20 21:34:13,221 __init__ INFO] [topoaa] Topology CNS input created in hpr_ensemble_4.inp
+[2023-10-20 21:34:13,222 __init__ INFO] [topoaa] Sanitizing molecule hpr_ensemble_5.pdb
+[2023-10-20 21:34:13,336 __init__ INFO] [topoaa] Topology CNS input created in hpr_ensemble_5.inp
+[2023-10-20 21:34:13,336 __init__ INFO] [topoaa] Sanitizing molecule hpr_ensemble_6.pdb
+[2023-10-20 21:34:13,436 __init__ INFO] [topoaa] Topology CNS input created in hpr_ensemble_6.inp
+[2023-10-20 21:34:13,436 __init__ INFO] [topoaa] Sanitizing molecule hpr_ensemble_7.pdb
+[2023-10-20 21:34:13,576 __init__ INFO] [topoaa] Topology CNS input created in hpr_ensemble_7.inp
+[2023-10-20 21:34:13,577 __init__ INFO] [topoaa] Sanitizing molecule hpr_ensemble_8.pdb
+[2023-10-20 21:34:13,664 __init__ INFO] [topoaa] Topology CNS input created in hpr_ensemble_8.inp
+[2023-10-20 21:34:13,664 __init__ INFO] [topoaa] Sanitizing molecule hpr_ensemble_9.pdb
+[2023-10-20 21:34:13,782 __init__ INFO] [topoaa] Topology CNS input created in hpr_ensemble_9.inp
+[2023-10-20 21:34:13,782 __init__ INFO] [topoaa] Sanitizing molecule hpr_ensemble_10.pdb
+[2023-10-20 21:34:13,893 __init__ INFO] [topoaa] Topology CNS input created in hpr_ensemble_10.inp
+[2023-10-20 21:34:13,893 __init__ INFO] [topoaa] Running CNS Jobs n=11
+[2023-10-20 21:34:13,894 libhpc INFO] > Running batch 1/1
+[2023-10-20 21:34:14,880 libhpc INFO] >> topoaa_1.job running
+[2023-10-20 21:34:14,989 libhpc INFO] >> topoaa_2.job running
+[2023-10-20 21:34:15,105 libhpc INFO] >> topoaa_3.job submitted
+[2023-10-20 21:34:15,233 libhpc INFO] >> topoaa_4.job submitted
+[2023-10-20 21:34:15,323 libhpc INFO] >> topoaa_5.job submitted
+[2023-10-20 21:34:15,379 libhpc INFO] >> topoaa_6.job submitted
+[2023-10-20 21:34:15,482 libhpc INFO] >> topoaa_7.job submitted
+[2023-10-20 21:34:15,562 libhpc INFO] >> topoaa_8.job submitted
+[2023-10-20 21:34:15,634 libhpc INFO] >> topoaa_9.job submitted
+[2023-10-20 21:34:15,717 libhpc INFO] >> topoaa_10.job submitted
+[2023-10-20 21:34:15,779 libhpc INFO] >> topoaa_11.job submitted
+[2023-10-20 21:34:15,779 libhpc INFO] >> Waiting... (30.00s)
+[2023-10-20 21:34:45,994 libhpc INFO] >> Batch 1/1 took 32.10s to finish, 100.00% complete
+[2023-10-20 21:34:45,995 __init__ INFO] [topoaa] CNS jobs have finished
+[2023-10-20 21:34:46,059 base_cns_module INFO] Module [topoaa] finished.
+[2023-10-20 21:34:46,059 __init__ INFO] [topoaa] took 34 seconds
+[2023-10-20 21:34:47,242 base_cns_module INFO] Running [rigidbody] module
+[2023-10-20 21:34:47,245 __init__ INFO] [rigidbody] crossdock=true
+[2023-10-20 21:34:47,245 __init__ INFO] [rigidbody] Preparing jobs...
+[2023-10-20 21:35:43,832 __init__ INFO] [rigidbody] Running CNS Jobs n=1000
+[2023-10-20 21:35:43,905 libhpc INFO] > Running batch 1/20
+[2023-10-20 21:35:48,103 libhpc INFO] >> rigidbody_1.job running
+[2023-10-20 21:35:48,200 libhpc INFO] >> rigidbody_2.job running
+[2023-10-20 21:35:48,293 libhpc INFO] >> rigidbody_3.job submitted
+[2023-10-20 21:35:48,402 libhpc INFO] >> rigidbody_4.job submitted
+[2023-10-20 21:35:48,511 libhpc INFO] >> rigidbody_5.job submitted
+[2023-10-20 21:35:48,631 libhpc INFO] >> rigidbody_6.job submitted
+[2023-10-20 21:35:48,734 libhpc INFO] >> rigidbody_7.job submitted
+[2023-10-20 21:35:48,796 libhpc INFO] >> rigidbody_8.job submitted
+[2023-10-20 21:35:48,869 libhpc INFO] >> rigidbody_9.job submitted
+[2023-10-20 21:35:48,928 libhpc INFO] >> rigidbody_10.job submitted
+[2023-10-20 21:35:48,983 libhpc INFO] >> rigidbody_11.job submitted
+[2023-10-20 21:35:49,065 libhpc INFO] >> rigidbody_12.job submitted
+[2023-10-20 21:35:49,174 libhpc INFO] >> rigidbody_13.job submitted
+[2023-10-20 21:35:49,276 libhpc INFO] >> rigidbody_14.job submitted
+[2023-10-20 21:35:49,347 libhpc INFO] >> rigidbody_15.job submitted
+[2023-10-20 21:35:49,432 libhpc INFO] >> rigidbody_16.job submitted
+[2023-10-20 21:35:49,498 libhpc INFO] >> rigidbody_17.job submitted
+[2023-10-20 21:35:49,587 libhpc INFO] >> rigidbody_18.job submitted
+[2023-10-20 21:35:49,653 libhpc INFO] >> rigidbody_19.job submitted
+[2023-10-20 21:35:49,732 libhpc INFO] >> rigidbody_20.job submitted
+[2023-10-20 21:35:49,797 libhpc INFO] >> rigidbody_21.job submitted
+[2023-10-20 21:35:49,864 libhpc INFO] >> rigidbody_22.job submitted
+[2023-10-20 21:35:49,959 libhpc INFO] >> rigidbody_23.job submitted
+[2023-10-20 21:35:50,054 libhpc INFO] >> rigidbody_24.job submitted
+[2023-10-20 21:35:50,161 libhpc INFO] >> rigidbody_25.job submitted
+[2023-10-20 21:35:50,308 libhpc INFO] >> rigidbody_26.job submitted
+[2023-10-20 21:35:50,391 libhpc INFO] >> rigidbody_27.job submitted
+[2023-10-20 21:35:50,462 libhpc INFO] >> rigidbody_28.job submitted
+[2023-10-20 21:35:50,558 libhpc INFO] >> rigidbody_29.job submitted
+[2023-10-20 21:35:50,635 libhpc INFO] >> rigidbody_30.job submitted
+[2023-10-20 21:35:50,709 libhpc INFO] >> rigidbody_31.job submitted
+[2023-10-20 21:35:50,816 libhpc INFO] >> rigidbody_32.job submitted
+[2023-10-20 21:35:50,882 libhpc INFO] >> rigidbody_33.job submitted
+[2023-10-20 21:35:50,947 libhpc INFO] >> rigidbody_34.job submitted
+[2023-10-20 21:35:51,003 libhpc INFO] >> rigidbody_35.job submitted
+[2023-10-20 21:35:51,115 libhpc INFO] >> rigidbody_36.job submitted
+[2023-10-20 21:35:51,218 libhpc INFO] >> rigidbody_37.job submitted
+[2023-10-20 21:35:51,353 libhpc INFO] >> rigidbody_38.job submitted
+[2023-10-20 21:35:51,445 libhpc INFO] >> rigidbody_39.job submitted
+[2023-10-20 21:35:51,505 libhpc INFO] >> rigidbody_40.job submitted
+[2023-10-20 21:35:51,595 libhpc INFO] >> rigidbody_41.job submitted
+[2023-10-20 21:35:51,691 libhpc INFO] >> rigidbody_42.job submitted
+[2023-10-20 21:35:51,855 libhpc INFO] >> rigidbody_43.job submitted
+[2023-10-20 21:35:51,967 libhpc INFO] >> rigidbody_44.job submitted
+[2023-10-20 21:35:52,076 libhpc INFO] >> rigidbody_45.job submitted
+[2023-10-20 21:35:52,183 libhpc INFO] >> rigidbody_46.job submitted
+[2023-10-20 21:35:52,293 libhpc INFO] >> rigidbody_47.job submitted
+[2023-10-20 21:35:52,397 libhpc INFO] >> rigidbody_48.job submitted
+[2023-10-20 21:35:52,463 libhpc INFO] >> rigidbody_49.job submitted
+[2023-10-20 21:35:52,529 libhpc INFO] >> rigidbody_50.job submitted
+[2023-10-20 21:35:52,529 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 21:36:52,873 libhpc INFO] >> rigidbody_20.job running
+[2023-10-20 21:36:52,959 libhpc INFO] >> rigidbody_21.job submitted
+[2023-10-20 21:36:53,085 libhpc INFO] >> rigidbody_22.job submitted
+[2023-10-20 21:36:53,193 libhpc INFO] >> rigidbody_23.job submitted
+[2023-10-20 21:36:53,319 libhpc INFO] >> rigidbody_24.job submitted
+[2023-10-20 21:36:53,456 libhpc INFO] >> rigidbody_25.job submitted
+[2023-10-20 21:36:53,599 libhpc INFO] >> rigidbody_26.job submitted
+[2023-10-20 21:36:53,682 libhpc INFO] >> rigidbody_27.job submitted
+[2023-10-20 21:36:53,782 libhpc INFO] >> rigidbody_28.job submitted
+[2023-10-20 21:36:53,845 libhpc INFO] >> rigidbody_29.job submitted
+[2023-10-20 21:36:53,927 libhpc INFO] >> rigidbody_30.job submitted
+[2023-10-20 21:36:53,987 libhpc INFO] >> rigidbody_31.job submitted
+[2023-10-20 21:36:54,127 libhpc INFO] >> rigidbody_32.job submitted
+[2023-10-20 21:36:54,223 libhpc INFO] >> rigidbody_33.job submitted
+[2023-10-20 21:36:54,301 libhpc INFO] >> rigidbody_34.job submitted
+[2023-10-20 21:36:54,428 libhpc INFO] >> rigidbody_35.job submitted
+[2023-10-20 21:36:54,521 libhpc INFO] >> rigidbody_36.job submitted
+[2023-10-20 21:36:54,634 libhpc INFO] >> rigidbody_37.job submitted
+[2023-10-20 21:36:54,717 libhpc INFO] >> rigidbody_38.job submitted
+[2023-10-20 21:36:54,807 libhpc INFO] >> rigidbody_39.job submitted
+[2023-10-20 21:36:54,898 libhpc INFO] >> rigidbody_40.job submitted
+[2023-10-20 21:36:54,993 libhpc INFO] >> rigidbody_41.job submitted
+[2023-10-20 21:36:55,067 libhpc INFO] >> rigidbody_42.job submitted
+[2023-10-20 21:36:55,150 libhpc INFO] >> rigidbody_43.job submitted
+[2023-10-20 21:36:55,269 libhpc INFO] >> rigidbody_44.job submitted
+[2023-10-20 21:36:55,371 libhpc INFO] >> rigidbody_45.job submitted
+[2023-10-20 21:36:55,493 libhpc INFO] >> rigidbody_46.job submitted
+[2023-10-20 21:36:55,622 libhpc INFO] >> rigidbody_47.job submitted
+[2023-10-20 21:36:55,723 libhpc INFO] >> rigidbody_48.job submitted
+[2023-10-20 21:36:55,801 libhpc INFO] >> rigidbody_49.job submitted
+[2023-10-20 21:36:55,868 libhpc INFO] >> rigidbody_50.job submitted
+[2023-10-20 21:36:55,868 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 21:37:56,413 libhpc INFO] >> rigidbody_39.job running
+[2023-10-20 21:37:56,515 libhpc INFO] >> rigidbody_40.job submitted
+[2023-10-20 21:37:56,589 libhpc INFO] >> rigidbody_41.job submitted
+[2023-10-20 21:37:56,675 libhpc INFO] >> rigidbody_42.job submitted
+[2023-10-20 21:37:56,757 libhpc INFO] >> rigidbody_43.job submitted
+[2023-10-20 21:37:56,846 libhpc INFO] >> rigidbody_44.job submitted
+[2023-10-20 21:37:56,912 libhpc INFO] >> rigidbody_45.job submitted
+[2023-10-20 21:37:56,985 libhpc INFO] >> rigidbody_46.job submitted
+[2023-10-20 21:37:57,056 libhpc INFO] >> rigidbody_47.job submitted
+[2023-10-20 21:37:57,153 libhpc INFO] >> rigidbody_48.job submitted
+[2023-10-20 21:37:57,258 libhpc INFO] >> rigidbody_49.job submitted
+[2023-10-20 21:37:57,329 libhpc INFO] >> rigidbody_50.job submitted
+[2023-10-20 21:37:57,330 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-20 21:38:58,029 libhpc INFO] >> Batch 1/20 took 194.12s to finish, 5.00% complete
+[2023-10-20 21:38:58,029 libhpc INFO] > Running batch 2/20
+[2023-10-20 21:39:02,525 libhpc INFO] >> rigidbody_51.job running
+[2023-10-20 21:39:02,618 libhpc INFO] >> rigidbody_52.job running
+[2023-10-20 21:39:02,706 libhpc INFO] >> rigidbody_53.job submitted
+[2023-10-20 21:39:02,809 libhpc INFO] >> rigidbody_54.job submitted
+[2023-10-20 21:39:02,887 libhpc INFO] >> rigidbody_55.job submitted
+[2023-10-20 21:39:02,947 libhpc INFO] >> rigidbody_56.job submitted
+[2023-10-20 21:39:03,004 libhpc INFO] >> rigidbody_57.job submitted
+[2023-10-20 21:39:03,127 libhpc INFO] >> rigidbody_58.job submitted
+[2023-10-20 21:39:03,194 libhpc INFO] >> rigidbody_59.job submitted
+[2023-10-20 21:39:03,276 libhpc INFO] >> rigidbody_60.job submitted
+[2023-10-20 21:39:03,343 libhpc INFO] >> rigidbody_61.job submitted
+[2023-10-20 21:39:03,404 libhpc INFO] >> rigidbody_62.job submitted
+[2023-10-20 21:39:03,477 libhpc INFO] >> rigidbody_63.job submitted
+[2023-10-20 21:39:03,541 libhpc INFO] >> rigidbody_64.job submitted
+[2023-10-20 21:39:03,616 libhpc INFO] >> rigidbody_65.job submitted
+[2023-10-20 21:39:03,678 libhpc INFO] >> rigidbody_66.job submitted
+[2023-10-20 21:39:03,740 libhpc INFO] >> rigidbody_67.job submitted
+[2023-10-20 21:39:03,819 libhpc INFO] >> rigidbody_68.job submitted
+[2023-10-20 21:39:03,873 libhpc INFO] >> rigidbody_69.job submitted
+[2023-10-20 21:39:03,953 libhpc INFO] >> rigidbody_70.job submitted
+[2023-10-20 21:39:04,015 libhpc INFO] >> rigidbody_71.job submitted
+[2023-10-20 21:39:04,086 libhpc INFO] >> rigidbody_72.job submitted
+[2023-10-20 21:39:04,170 libhpc INFO] >> rigidbody_73.job submitted
+[2023-10-20 21:39:04,358 libhpc INFO] >> rigidbody_74.job submitted
+[2023-10-20 21:39:04,431 libhpc INFO] >> rigidbody_75.job submitted
+[2023-10-20 21:39:04,511 libhpc INFO] >> rigidbody_76.job submitted
+[2023-10-20 21:39:04,582 libhpc INFO] >> rigidbody_77.job submitted
+[2023-10-20 21:39:04,659 libhpc INFO] >> rigidbody_78.job submitted
+[2023-10-20 21:39:04,724 libhpc INFO] >> rigidbody_79.job submitted
+[2023-10-20 21:39:04,785 libhpc INFO] >> rigidbody_80.job submitted
+[2023-10-20 21:39:04,877 libhpc INFO] >> rigidbody_81.job submitted
+[2023-10-20 21:39:04,990 libhpc INFO] >> rigidbody_82.job submitted
+[2023-10-20 21:39:05,093 libhpc INFO] >> rigidbody_83.job submitted
+[2023-10-20 21:39:05,239 libhpc INFO] >> rigidbody_84.job submitted
+[2023-10-20 21:39:05,345 libhpc INFO] >> rigidbody_85.job submitted
+[2023-10-20 21:39:05,444 libhpc INFO] >> rigidbody_86.job submitted
+[2023-10-20 21:39:05,560 libhpc INFO] >> rigidbody_87.job submitted
+[2023-10-20 21:39:05,662 libhpc INFO] >> rigidbody_88.job submitted
+[2023-10-20 21:39:05,852 libhpc INFO] >> rigidbody_89.job submitted
+[2023-10-20 21:39:05,929 libhpc INFO] >> rigidbody_90.job submitted
+[2023-10-20 21:39:06,014 libhpc INFO] >> rigidbody_91.job submitted
+[2023-10-20 21:39:06,070 libhpc INFO] >> rigidbody_92.job submitted
+[2023-10-20 21:39:06,158 libhpc INFO] >> rigidbody_93.job submitted
+[2023-10-20 21:39:06,243 libhpc INFO] >> rigidbody_94.job submitted
+[2023-10-20 21:39:06,319 libhpc INFO] >> rigidbody_95.job submitted
+[2023-10-20 21:39:06,394 libhpc INFO] >> rigidbody_96.job submitted
+[2023-10-20 21:39:06,462 libhpc INFO] >> rigidbody_97.job submitted
+[2023-10-20 21:39:06,567 libhpc INFO] >> rigidbody_98.job submitted
+[2023-10-20 21:39:06,722 libhpc INFO] >> rigidbody_99.job submitted
+[2023-10-20 21:39:06,791 libhpc INFO] >> rigidbody_100.job submitted
+[2023-10-20 21:39:06,791 libhpc INFO] >> Waiting... (194.00s)
+[2023-10-20 21:42:21,532 libhpc INFO] >> Batch 2/20 took 203.50s to finish, 10.00% complete
+[2023-10-20 21:42:21,533 libhpc INFO] > Running batch 3/20
+[2023-10-20 21:42:26,158 libhpc INFO] >> rigidbody_101.job running
+[2023-10-20 21:42:26,240 libhpc INFO] >> rigidbody_102.job running
+[2023-10-20 21:42:26,325 libhpc INFO] >> rigidbody_103.job submitted
+[2023-10-20 21:42:26,407 libhpc INFO] >> rigidbody_104.job submitted
+[2023-10-20 21:42:26,470 libhpc INFO] >> rigidbody_105.job submitted
+[2023-10-20 21:42:26,537 libhpc INFO] >> rigidbody_106.job submitted
+[2023-10-20 21:42:26,620 libhpc INFO] >> rigidbody_107.job submitted
+[2023-10-20 21:42:26,688 libhpc INFO] >> rigidbody_108.job submitted
+[2023-10-20 21:42:26,757 libhpc INFO] >> rigidbody_109.job submitted
+[2023-10-20 21:42:26,816 libhpc INFO] >> rigidbody_110.job submitted
+[2023-10-20 21:42:26,873 libhpc INFO] >> rigidbody_111.job submitted
+[2023-10-20 21:42:26,951 libhpc INFO] >> rigidbody_112.job submitted
+[2023-10-20 21:42:27,023 libhpc INFO] >> rigidbody_113.job submitted
+[2023-10-20 21:42:27,087 libhpc INFO] >> rigidbody_114.job submitted
+[2023-10-20 21:42:27,154 libhpc INFO] >> rigidbody_115.job submitted
+[2023-10-20 21:42:27,215 libhpc INFO] >> rigidbody_116.job submitted
+[2023-10-20 21:42:27,292 libhpc INFO] >> rigidbody_117.job submitted
+[2023-10-20 21:42:27,365 libhpc INFO] >> rigidbody_118.job submitted
+[2023-10-20 21:42:27,426 libhpc INFO] >> rigidbody_119.job submitted
+[2023-10-20 21:42:27,490 libhpc INFO] >> rigidbody_120.job submitted
+[2023-10-20 21:42:27,563 libhpc INFO] >> rigidbody_121.job submitted
+[2023-10-20 21:42:27,644 libhpc INFO] >> rigidbody_122.job submitted
+[2023-10-20 21:42:27,715 libhpc INFO] >> rigidbody_123.job submitted
+[2023-10-20 21:42:27,782 libhpc INFO] >> rigidbody_124.job submitted
+[2023-10-20 21:42:27,849 libhpc INFO] >> rigidbody_125.job submitted
+[2023-10-20 21:42:27,907 libhpc INFO] >> rigidbody_126.job submitted
+[2023-10-20 21:42:27,987 libhpc INFO] >> rigidbody_127.job submitted
+[2023-10-20 21:42:28,088 libhpc INFO] >> rigidbody_128.job submitted
+[2023-10-20 21:42:28,168 libhpc INFO] >> rigidbody_129.job submitted
+[2023-10-20 21:42:28,241 libhpc INFO] >> rigidbody_130.job submitted
+[2023-10-20 21:42:28,314 libhpc INFO] >> rigidbody_131.job submitted
+[2023-10-20 21:42:28,384 libhpc INFO] >> rigidbody_132.job submitted
+[2023-10-20 21:42:28,446 libhpc INFO] >> rigidbody_133.job submitted
+[2023-10-20 21:42:28,530 libhpc INFO] >> rigidbody_134.job submitted
+[2023-10-20 21:42:28,591 libhpc INFO] >> rigidbody_135.job submitted
+[2023-10-20 21:42:28,647 libhpc INFO] >> rigidbody_136.job submitted
+[2023-10-20 21:42:28,749 libhpc INFO] >> rigidbody_137.job submitted
+[2023-10-20 21:42:28,835 libhpc INFO] >> rigidbody_138.job submitted
+[2023-10-20 21:42:28,908 libhpc INFO] >> rigidbody_139.job submitted
+[2023-10-20 21:42:29,034 libhpc INFO] >> rigidbody_140.job submitted
+[2023-10-20 21:42:29,113 libhpc INFO] >> rigidbody_141.job submitted
+[2023-10-20 21:42:29,200 libhpc INFO] >> rigidbody_142.job submitted
+[2023-10-20 21:42:29,279 libhpc INFO] >> rigidbody_143.job submitted
+[2023-10-20 21:42:29,349 libhpc INFO] >> rigidbody_144.job submitted
+[2023-10-20 21:42:29,428 libhpc INFO] >> rigidbody_145.job submitted
+[2023-10-20 21:42:29,499 libhpc INFO] >> rigidbody_146.job submitted
+[2023-10-20 21:42:29,611 libhpc INFO] >> rigidbody_147.job submitted
+[2023-10-20 21:42:29,685 libhpc INFO] >> rigidbody_148.job submitted
+[2023-10-20 21:42:29,744 libhpc INFO] >> rigidbody_149.job submitted
+[2023-10-20 21:42:29,839 libhpc INFO] >> rigidbody_150.job submitted
+[2023-10-20 21:42:29,839 libhpc INFO] >> Waiting... (199.00s)
+[2023-10-20 21:45:49,585 libhpc INFO] >> Batch 3/20 took 208.05s to finish, 15.00% complete
+[2023-10-20 21:45:49,586 libhpc INFO] > Running batch 4/20
+[2023-10-20 21:45:53,740 libhpc INFO] >> rigidbody_151.job running
+[2023-10-20 21:45:53,859 libhpc INFO] >> rigidbody_152.job running
+[2023-10-20 21:45:53,978 libhpc INFO] >> rigidbody_153.job submitted
+[2023-10-20 21:45:54,087 libhpc INFO] >> rigidbody_154.job submitted
+[2023-10-20 21:45:54,183 libhpc INFO] >> rigidbody_155.job submitted
+[2023-10-20 21:45:54,251 libhpc INFO] >> rigidbody_156.job submitted
+[2023-10-20 21:45:54,319 libhpc INFO] >> rigidbody_157.job submitted
+[2023-10-20 21:45:54,385 libhpc INFO] >> rigidbody_158.job submitted
+[2023-10-20 21:45:54,448 libhpc INFO] >> rigidbody_159.job submitted
+[2023-10-20 21:45:54,509 libhpc INFO] >> rigidbody_160.job submitted
+[2023-10-20 21:45:54,579 libhpc INFO] >> rigidbody_161.job submitted
+[2023-10-20 21:45:54,661 libhpc INFO] >> rigidbody_162.job submitted
+[2023-10-20 21:45:54,745 libhpc INFO] >> rigidbody_163.job submitted
+[2023-10-20 21:45:54,825 libhpc INFO] >> rigidbody_164.job submitted
+[2023-10-20 21:45:54,890 libhpc INFO] >> rigidbody_165.job submitted
+[2023-10-20 21:45:54,951 libhpc INFO] >> rigidbody_166.job submitted
+[2023-10-20 21:45:55,034 libhpc INFO] >> rigidbody_167.job submitted
+[2023-10-20 21:45:55,095 libhpc INFO] >> rigidbody_168.job submitted
+[2023-10-20 21:45:55,157 libhpc INFO] >> rigidbody_169.job submitted
+[2023-10-20 21:45:55,241 libhpc INFO] >> rigidbody_170.job submitted
+[2023-10-20 21:45:55,298 libhpc INFO] >> rigidbody_171.job submitted
+[2023-10-20 21:45:55,362 libhpc INFO] >> rigidbody_172.job submitted
+[2023-10-20 21:45:55,453 libhpc INFO] >> rigidbody_173.job submitted
+[2023-10-20 21:45:55,550 libhpc INFO] >> rigidbody_174.job submitted
+[2023-10-20 21:45:55,612 libhpc INFO] >> rigidbody_175.job submitted
+[2023-10-20 21:45:55,691 libhpc INFO] >> rigidbody_176.job submitted
+[2023-10-20 21:45:55,785 libhpc INFO] >> rigidbody_177.job submitted
+[2023-10-20 21:45:55,848 libhpc INFO] >> rigidbody_178.job submitted
+[2023-10-20 21:45:55,920 libhpc INFO] >> rigidbody_179.job submitted
+[2023-10-20 21:45:56,000 libhpc INFO] >> rigidbody_180.job submitted
+[2023-10-20 21:45:56,066 libhpc INFO] >> rigidbody_181.job submitted
+[2023-10-20 21:45:56,141 libhpc INFO] >> rigidbody_182.job submitted
+[2023-10-20 21:45:56,214 libhpc INFO] >> rigidbody_183.job submitted
+[2023-10-20 21:45:56,321 libhpc INFO] >> rigidbody_184.job submitted
+[2023-10-20 21:45:56,417 libhpc INFO] >> rigidbody_185.job submitted
+[2023-10-20 21:45:56,548 libhpc INFO] >> rigidbody_186.job submitted
+[2023-10-20 21:45:56,657 libhpc INFO] >> rigidbody_187.job submitted
+[2023-10-20 21:45:56,755 libhpc INFO] >> rigidbody_188.job submitted
+[2023-10-20 21:45:56,857 libhpc INFO] >> rigidbody_189.job submitted
+[2023-10-20 21:45:56,932 libhpc INFO] >> rigidbody_190.job submitted
+[2023-10-20 21:45:57,032 libhpc INFO] >> rigidbody_191.job submitted
+[2023-10-20 21:45:57,171 libhpc INFO] >> rigidbody_192.job submitted
+[2023-10-20 21:45:57,377 libhpc INFO] >> rigidbody_193.job submitted
+[2023-10-20 21:45:57,455 libhpc INFO] >> rigidbody_194.job submitted
+[2023-10-20 21:45:57,522 libhpc INFO] >> rigidbody_195.job submitted
+[2023-10-20 21:45:57,589 libhpc INFO] >> rigidbody_196.job submitted
+[2023-10-20 21:45:57,673 libhpc INFO] >> rigidbody_197.job submitted
+[2023-10-20 21:45:57,751 libhpc INFO] >> rigidbody_198.job submitted
+[2023-10-20 21:45:57,823 libhpc INFO] >> rigidbody_199.job submitted
+[2023-10-20 21:45:57,888 libhpc INFO] >> rigidbody_200.job submitted
+[2023-10-20 21:45:57,889 libhpc INFO] >> Waiting... (202.00s)
+[2023-10-20 21:49:20,582 libhpc INFO] >> Batch 4/20 took 211.00s to finish, 20.00% complete
+[2023-10-20 21:49:20,583 libhpc INFO] > Running batch 5/20
+[2023-10-20 21:49:25,331 libhpc INFO] >> rigidbody_201.job running
+[2023-10-20 21:49:25,425 libhpc INFO] >> rigidbody_202.job running
+[2023-10-20 21:49:25,509 libhpc INFO] >> rigidbody_203.job submitted
+[2023-10-20 21:49:25,580 libhpc INFO] >> rigidbody_204.job submitted
+[2023-10-20 21:49:25,634 libhpc INFO] >> rigidbody_205.job submitted
+[2023-10-20 21:49:25,703 libhpc INFO] >> rigidbody_206.job submitted
+[2023-10-20 21:49:25,763 libhpc INFO] >> rigidbody_207.job submitted
+[2023-10-20 21:49:25,854 libhpc INFO] >> rigidbody_208.job submitted
+[2023-10-20 21:49:25,917 libhpc INFO] >> rigidbody_209.job submitted
+[2023-10-20 21:49:26,014 libhpc INFO] >> rigidbody_210.job submitted
+[2023-10-20 21:49:26,076 libhpc INFO] >> rigidbody_211.job submitted
+[2023-10-20 21:49:26,129 libhpc INFO] >> rigidbody_212.job submitted
+[2023-10-20 21:49:26,207 libhpc INFO] >> rigidbody_213.job submitted
+[2023-10-20 21:49:26,265 libhpc INFO] >> rigidbody_214.job submitted
+[2023-10-20 21:49:26,344 libhpc INFO] >> rigidbody_215.job submitted
+[2023-10-20 21:49:26,406 libhpc INFO] >> rigidbody_216.job submitted
+[2023-10-20 21:49:26,473 libhpc INFO] >> rigidbody_217.job submitted
+[2023-10-20 21:49:26,555 libhpc INFO] >> rigidbody_218.job submitted
+[2023-10-20 21:49:26,609 libhpc INFO] >> rigidbody_219.job submitted
+[2023-10-20 21:49:26,662 libhpc INFO] >> rigidbody_220.job submitted
+[2023-10-20 21:49:26,724 libhpc INFO] >> rigidbody_221.job submitted
+[2023-10-20 21:49:26,791 libhpc INFO] >> rigidbody_222.job submitted
+[2023-10-20 21:49:26,866 libhpc INFO] >> rigidbody_223.job submitted
+[2023-10-20 21:49:26,933 libhpc INFO] >> rigidbody_224.job submitted
+[2023-10-20 21:49:27,004 libhpc INFO] >> rigidbody_225.job submitted
+[2023-10-20 21:49:27,059 libhpc INFO] >> rigidbody_226.job submitted
+[2023-10-20 21:49:27,148 libhpc INFO] >> rigidbody_227.job submitted
+[2023-10-20 21:49:27,227 libhpc INFO] >> rigidbody_228.job submitted
+[2023-10-20 21:49:27,281 libhpc INFO] >> rigidbody_229.job submitted
+[2023-10-20 21:49:27,368 libhpc INFO] >> rigidbody_230.job submitted
+[2023-10-20 21:49:27,479 libhpc INFO] >> rigidbody_231.job submitted
+[2023-10-20 21:49:27,606 libhpc INFO] >> rigidbody_232.job submitted
+[2023-10-20 21:49:27,714 libhpc INFO] >> rigidbody_233.job submitted
+[2023-10-20 21:49:27,809 libhpc INFO] >> rigidbody_234.job submitted
+[2023-10-20 21:49:27,916 libhpc INFO] >> rigidbody_235.job submitted
+[2023-10-20 21:49:27,990 libhpc INFO] >> rigidbody_236.job submitted
+[2023-10-20 21:49:28,050 libhpc INFO] >> rigidbody_237.job submitted
+[2023-10-20 21:49:28,133 libhpc INFO] >> rigidbody_238.job submitted
+[2023-10-20 21:49:28,244 libhpc INFO] >> rigidbody_239.job submitted
+[2023-10-20 21:49:28,318 libhpc INFO] >> rigidbody_240.job submitted
+[2023-10-20 21:49:28,456 libhpc INFO] >> rigidbody_241.job submitted
+[2023-10-20 21:49:28,562 libhpc INFO] >> rigidbody_242.job submitted
+[2023-10-20 21:49:28,713 libhpc INFO] >> rigidbody_243.job submitted
+[2023-10-20 21:49:28,839 libhpc INFO] >> rigidbody_244.job submitted
+[2023-10-20 21:49:28,941 libhpc INFO] >> rigidbody_245.job submitted
+[2023-10-20 21:49:29,014 libhpc INFO] >> rigidbody_246.job submitted
+[2023-10-20 21:49:29,079 libhpc INFO] >> rigidbody_247.job submitted
+[2023-10-20 21:49:29,151 libhpc INFO] >> rigidbody_248.job submitted
+[2023-10-20 21:49:29,229 libhpc INFO] >> rigidbody_249.job submitted
+[2023-10-20 21:49:29,313 libhpc INFO] >> rigidbody_250.job submitted
+[2023-10-20 21:49:29,314 libhpc INFO] >> Waiting... (204.00s)
+[2023-10-20 21:52:54,076 libhpc INFO] >> Batch 5/20 took 213.49s to finish, 25.00% complete
+[2023-10-20 21:52:54,077 libhpc INFO] > Running batch 6/20
+[2023-10-20 21:52:58,730 libhpc INFO] >> rigidbody_251.job running
+[2023-10-20 21:52:58,846 libhpc INFO] >> rigidbody_252.job running
+[2023-10-20 21:52:58,992 libhpc INFO] >> rigidbody_253.job submitted
+[2023-10-20 21:52:59,194 libhpc INFO] >> rigidbody_254.job submitted
+[2023-10-20 21:52:59,337 libhpc INFO] >> rigidbody_255.job submitted
+[2023-10-20 21:52:59,438 libhpc INFO] >> rigidbody_256.job submitted
+[2023-10-20 21:52:59,520 libhpc INFO] >> rigidbody_257.job submitted
+[2023-10-20 21:52:59,601 libhpc INFO] >> rigidbody_258.job submitted
+[2023-10-20 21:52:59,657 libhpc INFO] >> rigidbody_259.job submitted
+[2023-10-20 21:52:59,742 libhpc INFO] >> rigidbody_260.job submitted
+[2023-10-20 21:52:59,826 libhpc INFO] >> rigidbody_261.job submitted
+[2023-10-20 21:52:59,910 libhpc INFO] >> rigidbody_262.job submitted
+[2023-10-20 21:52:59,997 libhpc INFO] >> rigidbody_263.job submitted
+[2023-10-20 21:53:00,053 libhpc INFO] >> rigidbody_264.job submitted
+[2023-10-20 21:53:00,127 libhpc INFO] >> rigidbody_265.job submitted
+[2023-10-20 21:53:00,203 libhpc INFO] >> rigidbody_266.job submitted
+[2023-10-20 21:53:00,258 libhpc INFO] >> rigidbody_267.job submitted
+[2023-10-20 21:53:00,341 libhpc INFO] >> rigidbody_268.job submitted
+[2023-10-20 21:53:00,392 libhpc INFO] >> rigidbody_269.job submitted
+[2023-10-20 21:53:00,531 libhpc INFO] >> rigidbody_270.job submitted
+[2023-10-20 21:53:00,597 libhpc INFO] >> rigidbody_271.job submitted
+[2023-10-20 21:53:00,656 libhpc INFO] >> rigidbody_272.job submitted
+[2023-10-20 21:53:00,728 libhpc INFO] >> rigidbody_273.job submitted
+[2023-10-20 21:53:00,811 libhpc INFO] >> rigidbody_274.job submitted
+[2023-10-20 21:53:00,866 libhpc INFO] >> rigidbody_275.job submitted
+[2023-10-20 21:53:00,944 libhpc INFO] >> rigidbody_276.job submitted
+[2023-10-20 21:53:01,016 libhpc INFO] >> rigidbody_277.job submitted
+[2023-10-20 21:53:01,098 libhpc INFO] >> rigidbody_278.job submitted
+[2023-10-20 21:53:01,165 libhpc INFO] >> rigidbody_279.job submitted
+[2023-10-20 21:53:01,225 libhpc INFO] >> rigidbody_280.job submitted
+[2023-10-20 21:53:01,310 libhpc INFO] >> rigidbody_281.job submitted
+[2023-10-20 21:53:01,417 libhpc INFO] >> rigidbody_282.job submitted
+[2023-10-20 21:53:01,479 libhpc INFO] >> rigidbody_283.job submitted
+[2023-10-20 21:53:01,620 libhpc INFO] >> rigidbody_284.job submitted
+[2023-10-20 21:53:01,729 libhpc INFO] >> rigidbody_285.job submitted
+[2023-10-20 21:53:01,832 libhpc INFO] >> rigidbody_286.job submitted
+[2023-10-20 21:53:01,986 libhpc INFO] >> rigidbody_287.job submitted
+[2023-10-20 21:53:02,178 libhpc INFO] >> rigidbody_288.job submitted
+[2023-10-20 21:53:02,312 libhpc INFO] >> rigidbody_289.job submitted
+[2023-10-20 21:53:02,402 libhpc INFO] >> rigidbody_290.job submitted
+[2023-10-20 21:53:02,558 libhpc INFO] >> rigidbody_291.job submitted
+[2023-10-20 21:53:02,630 libhpc INFO] >> rigidbody_292.job submitted
+[2023-10-20 21:53:02,738 libhpc INFO] >> rigidbody_293.job submitted
+[2023-10-20 21:53:02,809 libhpc INFO] >> rigidbody_294.job submitted
+[2023-10-20 21:53:02,882 libhpc INFO] >> rigidbody_295.job submitted
+[2023-10-20 21:53:02,973 libhpc INFO] >> rigidbody_296.job submitted
+[2023-10-20 21:53:03,038 libhpc INFO] >> rigidbody_297.job submitted
+[2023-10-20 21:53:03,098 libhpc INFO] >> rigidbody_298.job submitted
+[2023-10-20 21:53:03,163 libhpc INFO] >> rigidbody_299.job submitted
+[2023-10-20 21:53:03,259 libhpc INFO] >> rigidbody_300.job submitted
+[2023-10-20 21:53:03,259 libhpc INFO] >> Waiting... (206.00s)
+[2023-10-20 21:56:30,016 libhpc INFO] >> Batch 6/20 took 215.94s to finish, 30.00% complete
+[2023-10-20 21:56:30,017 libhpc INFO] > Running batch 7/20
+[2023-10-20 21:56:34,102 libhpc INFO] >> rigidbody_301.job running
+[2023-10-20 21:56:34,213 libhpc INFO] >> rigidbody_302.job running
+[2023-10-20 21:56:34,320 libhpc INFO] >> rigidbody_303.job submitted
+[2023-10-20 21:56:34,426 libhpc INFO] >> rigidbody_304.job submitted
+[2023-10-20 21:56:34,522 libhpc INFO] >> rigidbody_305.job submitted
+[2023-10-20 21:56:34,653 libhpc INFO] >> rigidbody_306.job submitted
+[2023-10-20 21:56:34,792 libhpc INFO] >> rigidbody_307.job submitted
+[2023-10-20 21:56:34,969 libhpc INFO] >> rigidbody_308.job submitted
+[2023-10-20 21:56:35,141 libhpc INFO] >> rigidbody_309.job submitted
+[2023-10-20 21:56:35,302 libhpc INFO] >> rigidbody_310.job submitted
+[2023-10-20 21:56:35,410 libhpc INFO] >> rigidbody_311.job submitted
+[2023-10-20 21:56:35,487 libhpc INFO] >> rigidbody_312.job submitted
+[2023-10-20 21:56:35,540 libhpc INFO] >> rigidbody_313.job submitted
+[2023-10-20 21:56:35,619 libhpc INFO] >> rigidbody_314.job submitted
+[2023-10-20 21:56:35,678 libhpc INFO] >> rigidbody_315.job submitted
+[2023-10-20 21:56:35,769 libhpc INFO] >> rigidbody_316.job submitted
+[2023-10-20 21:56:35,832 libhpc INFO] >> rigidbody_317.job submitted
+[2023-10-20 21:56:35,892 libhpc INFO] >> rigidbody_318.job submitted
+[2023-10-20 21:56:35,959 libhpc INFO] >> rigidbody_319.job submitted
+[2023-10-20 21:56:36,048 libhpc INFO] >> rigidbody_320.job submitted
+[2023-10-20 21:56:36,151 libhpc INFO] >> rigidbody_321.job submitted
+[2023-10-20 21:56:36,294 libhpc INFO] >> rigidbody_322.job submitted
+[2023-10-20 21:56:36,500 libhpc INFO] >> rigidbody_323.job submitted
+[2023-10-20 21:56:36,595 libhpc INFO] >> rigidbody_324.job submitted
+[2023-10-20 21:56:36,679 libhpc INFO] >> rigidbody_325.job submitted
+[2023-10-20 21:56:36,775 libhpc INFO] >> rigidbody_326.job submitted
+[2023-10-20 21:56:36,836 libhpc INFO] >> rigidbody_327.job submitted
+[2023-10-20 21:56:36,971 libhpc INFO] >> rigidbody_328.job submitted
+[2023-10-20 21:56:37,070 libhpc INFO] >> rigidbody_329.job submitted
+[2023-10-20 21:56:37,166 libhpc INFO] >> rigidbody_330.job submitted
+[2023-10-20 21:56:37,288 libhpc INFO] >> rigidbody_331.job submitted
+[2023-10-20 21:56:37,393 libhpc INFO] >> rigidbody_332.job submitted
+[2023-10-20 21:56:37,511 libhpc INFO] >> rigidbody_333.job submitted
+[2023-10-20 21:56:37,593 libhpc INFO] >> rigidbody_334.job submitted
+[2023-10-20 21:56:37,656 libhpc INFO] >> rigidbody_335.job submitted
+[2023-10-20 21:56:37,745 libhpc INFO] >> rigidbody_336.job submitted
+[2023-10-20 21:56:37,806 libhpc INFO] >> rigidbody_337.job submitted
+[2023-10-20 21:56:37,878 libhpc INFO] >> rigidbody_338.job submitted
+[2023-10-20 21:56:37,944 libhpc INFO] >> rigidbody_339.job submitted
+[2023-10-20 21:56:38,011 libhpc INFO] >> rigidbody_340.job submitted
+[2023-10-20 21:56:38,072 libhpc INFO] >> rigidbody_341.job submitted
+[2023-10-20 21:56:38,138 libhpc INFO] >> rigidbody_342.job submitted
+[2023-10-20 21:56:38,206 libhpc INFO] >> rigidbody_343.job submitted
+[2023-10-20 21:56:38,269 libhpc INFO] >> rigidbody_344.job submitted
+[2023-10-20 21:56:38,335 libhpc INFO] >> rigidbody_345.job submitted
+[2023-10-20 21:56:38,413 libhpc INFO] >> rigidbody_346.job submitted
+[2023-10-20 21:56:38,499 libhpc INFO] >> rigidbody_347.job submitted
+[2023-10-20 21:56:38,575 libhpc INFO] >> rigidbody_348.job submitted
+[2023-10-20 21:56:38,645 libhpc INFO] >> rigidbody_349.job submitted
+[2023-10-20 21:56:38,707 libhpc INFO] >> rigidbody_350.job submitted
+[2023-10-20 21:56:38,708 libhpc INFO] >> Waiting... (208.00s)
