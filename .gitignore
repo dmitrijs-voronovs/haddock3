@@ -141,6 +141,7 @@ tags
 bin/cns
 # ignore generated data of the examples
 examples/*/run*
+!examples/*/run*.sh
 examples/*/capriscoring-test/*
 examples/thirdparty/*/run*
 
