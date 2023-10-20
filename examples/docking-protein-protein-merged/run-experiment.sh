@@ -1,5 +1,4 @@
 #!/bin/bash
-#SBATCH --job-name=dppm-mpi-batch
 
 job1=docking-protein-protein-local-32.cfg
 job2=docking-protein-protein-hpc-1-50.cfg
