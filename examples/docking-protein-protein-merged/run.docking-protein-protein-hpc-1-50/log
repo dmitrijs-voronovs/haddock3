@@ -2069,3 +2069,758 @@ Python 3.9.18 (main, Sep 11 2023, 13:41:44)
 [2023-10-20 23:33:06,942 libhpc INFO] >> flexref_149.job submitted
 [2023-10-20 23:33:07,010 libhpc INFO] >> flexref_150.job submitted
 [2023-10-20 23:33:07,010 libhpc INFO] >> Waiting... (1312.00s)
+[2023-10-20 23:54:59,682 libhpc INFO] >> Batch 3/4 took 1320.55s to finish, 75.00% complete
+[2023-10-20 23:54:59,683 libhpc INFO] > Running batch 4/4
+[2023-10-20 23:55:03,784 libhpc INFO] >> flexref_151.job running
+[2023-10-20 23:55:03,859 libhpc INFO] >> flexref_152.job running
+[2023-10-20 23:55:03,937 libhpc INFO] >> flexref_153.job submitted
+[2023-10-20 23:55:03,997 libhpc INFO] >> flexref_154.job submitted
+[2023-10-20 23:55:04,096 libhpc INFO] >> flexref_155.job submitted
+[2023-10-20 23:55:04,205 libhpc INFO] >> flexref_156.job submitted
+[2023-10-20 23:55:04,265 libhpc INFO] >> flexref_157.job submitted
+[2023-10-20 23:55:04,321 libhpc INFO] >> flexref_158.job submitted
+[2023-10-20 23:55:04,401 libhpc INFO] >> flexref_159.job submitted
+[2023-10-20 23:55:04,501 libhpc INFO] >> flexref_160.job submitted
+[2023-10-20 23:55:04,563 libhpc INFO] >> flexref_161.job submitted
+[2023-10-20 23:55:04,634 libhpc INFO] >> flexref_162.job submitted
+[2023-10-20 23:55:04,704 libhpc INFO] >> flexref_163.job submitted
+[2023-10-20 23:55:04,782 libhpc INFO] >> flexref_164.job submitted
+[2023-10-20 23:55:04,862 libhpc INFO] >> flexref_165.job submitted
+[2023-10-20 23:55:04,940 libhpc INFO] >> flexref_166.job submitted
+[2023-10-20 23:55:05,006 libhpc INFO] >> flexref_167.job submitted
+[2023-10-20 23:55:05,084 libhpc INFO] >> flexref_168.job submitted
+[2023-10-20 23:55:05,221 libhpc INFO] >> flexref_169.job submitted
+[2023-10-20 23:55:05,298 libhpc INFO] >> flexref_170.job submitted
+[2023-10-20 23:55:05,372 libhpc INFO] >> flexref_171.job submitted
+[2023-10-20 23:55:05,473 libhpc INFO] >> flexref_172.job submitted
+[2023-10-20 23:55:05,542 libhpc INFO] >> flexref_173.job submitted
+[2023-10-20 23:55:05,620 libhpc INFO] >> flexref_174.job submitted
+[2023-10-20 23:55:05,696 libhpc INFO] >> flexref_175.job submitted
+[2023-10-20 23:55:05,756 libhpc INFO] >> flexref_176.job submitted
+[2023-10-20 23:55:05,834 libhpc INFO] >> flexref_177.job submitted
+[2023-10-20 23:55:05,901 libhpc INFO] >> flexref_178.job submitted
+[2023-10-20 23:55:05,980 libhpc INFO] >> flexref_179.job submitted
+[2023-10-20 23:55:06,051 libhpc INFO] >> flexref_180.job submitted
+[2023-10-20 23:55:06,109 libhpc INFO] >> flexref_181.job submitted
+[2023-10-20 23:55:06,188 libhpc INFO] >> flexref_182.job submitted
+[2023-10-20 23:55:06,237 libhpc INFO] >> flexref_183.job submitted
+[2023-10-20 23:55:06,322 libhpc INFO] >> flexref_184.job submitted
+[2023-10-20 23:55:06,385 libhpc INFO] >> flexref_185.job submitted
+[2023-10-20 23:55:06,438 libhpc INFO] >> flexref_186.job submitted
+[2023-10-20 23:55:06,537 libhpc INFO] >> flexref_187.job submitted
+[2023-10-20 23:55:06,591 libhpc INFO] >> flexref_188.job submitted
+[2023-10-20 23:55:06,676 libhpc INFO] >> flexref_189.job submitted
+[2023-10-20 23:55:06,745 libhpc INFO] >> flexref_190.job submitted
+[2023-10-20 23:55:06,797 libhpc INFO] >> flexref_191.job submitted
+[2023-10-20 23:55:06,898 libhpc INFO] >> flexref_192.job submitted
+[2023-10-20 23:55:06,952 libhpc INFO] >> flexref_193.job submitted
+[2023-10-20 23:55:07,060 libhpc INFO] >> flexref_194.job submitted
+[2023-10-20 23:55:07,128 libhpc INFO] >> flexref_195.job submitted
+[2023-10-20 23:55:07,200 libhpc INFO] >> flexref_196.job submitted
+[2023-10-20 23:55:07,248 libhpc INFO] >> flexref_197.job submitted
+[2023-10-20 23:55:07,306 libhpc INFO] >> flexref_198.job submitted
+[2023-10-20 23:55:07,361 libhpc INFO] >> flexref_199.job submitted
+[2023-10-20 23:55:07,446 libhpc INFO] >> flexref_200.job submitted
+[2023-10-20 23:55:07,446 libhpc INFO] >> Waiting... (1315.00s)
+[2023-10-21 00:17:03,054 libhpc INFO] >> Batch 4/4 took 1323.37s to finish, 100.00% complete
+[2023-10-21 00:17:03,055 __init__ INFO] [flexref] CNS jobs have finished
+[2023-10-21 00:17:03,888 base_cns_module INFO] Module [flexref] finished.
+[2023-10-21 00:17:03,888 __init__ INFO] [flexref] took 1h28m2s
+[2023-10-21 00:17:04,062 __init__ INFO] Running [caprieval] module
+[2023-10-21 00:17:04,759 libutil INFO] Selected 7 cores to process 200 jobs, with 7 maximum available cores.
+[2023-10-21 00:17:04,760 libparallel INFO] Using 7 cores
+[2023-10-21 00:17:21,222 libparallel INFO] >> /capri_ss_1.tsv completed 0% 
+[2023-10-21 00:17:21,222 libparallel INFO] >> /capri_ss_2.tsv completed 1% 
+[2023-10-21 00:17:21,222 libparallel INFO] >> /capri_ss_3.tsv completed 2% 
+[2023-10-21 00:17:21,222 libparallel INFO] >> /capri_ss_4.tsv completed 2% 
+[2023-10-21 00:17:21,222 libparallel INFO] >> /capri_ss_5.tsv completed 2% 
+[2023-10-21 00:17:21,222 libparallel INFO] >> /capri_ss_6.tsv completed 3% 
+[2023-10-21 00:17:21,222 libparallel INFO] >> /capri_ss_7.tsv completed 4% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_8.tsv completed 4% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_9.tsv completed 4% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_10.tsv completed 5% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_11.tsv completed 6% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_12.tsv completed 6% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_13.tsv completed 6% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_14.tsv completed 7% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_15.tsv completed 8% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_16.tsv completed 8% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_17.tsv completed 8% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_18.tsv completed 9% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_19.tsv completed 10% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_20.tsv completed 10% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_21.tsv completed 10% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_22.tsv completed 11% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_23.tsv completed 12% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_24.tsv completed 12% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_25.tsv completed 12% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_26.tsv completed 13% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_27.tsv completed 14% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_28.tsv completed 14% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_29.tsv completed 14% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_30.tsv completed 15% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_31.tsv completed 16% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_32.tsv completed 16% 
+[2023-10-21 00:17:21,223 libparallel INFO] >> /capri_ss_33.tsv completed 16% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_34.tsv completed 17% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_35.tsv completed 18% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_36.tsv completed 18% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_37.tsv completed 18% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_38.tsv completed 19% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_39.tsv completed 20% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_40.tsv completed 20% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_41.tsv completed 20% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_42.tsv completed 21% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_43.tsv completed 22% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_44.tsv completed 22% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_45.tsv completed 22% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_46.tsv completed 23% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_47.tsv completed 24% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_48.tsv completed 24% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_49.tsv completed 24% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_50.tsv completed 25% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_51.tsv completed 26% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_52.tsv completed 26% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_53.tsv completed 26% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_54.tsv completed 27% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_55.tsv completed 28% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_56.tsv completed 28% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_57.tsv completed 28% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_58.tsv completed 29% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_59.tsv completed 30% 
+[2023-10-21 00:17:21,224 libparallel INFO] >> /capri_ss_60.tsv completed 30% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_61.tsv completed 30% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_62.tsv completed 31% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_63.tsv completed 32% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_64.tsv completed 32% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_65.tsv completed 32% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_66.tsv completed 33% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_67.tsv completed 34% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_68.tsv completed 34% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_69.tsv completed 34% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_70.tsv completed 35% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_71.tsv completed 36% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_72.tsv completed 36% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_73.tsv completed 36% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_74.tsv completed 37% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_75.tsv completed 38% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_76.tsv completed 38% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_77.tsv completed 38% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_78.tsv completed 39% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_79.tsv completed 40% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_80.tsv completed 40% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_81.tsv completed 40% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_82.tsv completed 41% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_83.tsv completed 42% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_84.tsv completed 42% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_85.tsv completed 42% 
+[2023-10-21 00:17:21,225 libparallel INFO] >> /capri_ss_86.tsv completed 43% 
+[2023-10-21 00:17:21,226 libparallel INFO] >> /capri_ss_87.tsv completed 44% 
+[2023-10-21 00:17:21,565 libparallel INFO] >> /capri_ss_88.tsv completed 44% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_89.tsv completed 44% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_90.tsv completed 45% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_91.tsv completed 46% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_92.tsv completed 46% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_93.tsv completed 46% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_94.tsv completed 47% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_95.tsv completed 48% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_96.tsv completed 48% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_97.tsv completed 48% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_98.tsv completed 49% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_99.tsv completed 50% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_100.tsv completed 50% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_101.tsv completed 50% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_102.tsv completed 51% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_103.tsv completed 52% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_104.tsv completed 52% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_105.tsv completed 52% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_106.tsv completed 53% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_107.tsv completed 54% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_108.tsv completed 54% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_109.tsv completed 55% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_110.tsv completed 55% 
+[2023-10-21 00:17:21,566 libparallel INFO] >> /capri_ss_111.tsv completed 56% 
+[2023-10-21 00:17:21,567 libparallel INFO] >> /capri_ss_112.tsv completed 56% 
+[2023-10-21 00:17:21,567 libparallel INFO] >> /capri_ss_113.tsv completed 56% 
+[2023-10-21 00:17:21,567 libparallel INFO] >> /capri_ss_114.tsv completed 57% 
+[2023-10-21 00:17:21,567 libparallel INFO] >> /capri_ss_115.tsv completed 57% 
+[2023-10-21 00:17:21,567 libparallel INFO] >> /capri_ss_116.tsv completed 58% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_117.tsv completed 58% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_118.tsv completed 59% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_119.tsv completed 60% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_120.tsv completed 60% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_121.tsv completed 60% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_122.tsv completed 61% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_123.tsv completed 62% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_124.tsv completed 62% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_125.tsv completed 62% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_126.tsv completed 63% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_127.tsv completed 64% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_128.tsv completed 64% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_129.tsv completed 64% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_130.tsv completed 65% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_131.tsv completed 66% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_132.tsv completed 66% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_133.tsv completed 66% 
+[2023-10-21 00:17:21,792 libparallel INFO] >> /capri_ss_134.tsv completed 67% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_135.tsv completed 68% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_136.tsv completed 68% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_137.tsv completed 68% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_138.tsv completed 69% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_139.tsv completed 70% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_140.tsv completed 70% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_141.tsv completed 70% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_142.tsv completed 71% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_143.tsv completed 72% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_144.tsv completed 72% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_145.tsv completed 72% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_146.tsv completed 73% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_147.tsv completed 74% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_148.tsv completed 74% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_149.tsv completed 74% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_150.tsv completed 75% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_151.tsv completed 76% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_152.tsv completed 76% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_153.tsv completed 76% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_154.tsv completed 77% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_155.tsv completed 78% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_156.tsv completed 78% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_157.tsv completed 78% 
+[2023-10-21 00:17:21,793 libparallel INFO] >> /capri_ss_158.tsv completed 79% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_159.tsv completed 80% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_160.tsv completed 80% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_161.tsv completed 80% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_162.tsv completed 81% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_163.tsv completed 82% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_164.tsv completed 82% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_165.tsv completed 82% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_166.tsv completed 83% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_167.tsv completed 84% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_168.tsv completed 84% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_169.tsv completed 84% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_170.tsv completed 85% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_171.tsv completed 86% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_172.tsv completed 86% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_173.tsv completed 86% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_174.tsv completed 87% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_175.tsv completed 88% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_176.tsv completed 88% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_177.tsv completed 88% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_178.tsv completed 89% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_179.tsv completed 90% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_180.tsv completed 90% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_181.tsv completed 90% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_182.tsv completed 91% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_183.tsv completed 92% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_184.tsv completed 92% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_185.tsv completed 92% 
+[2023-10-21 00:17:21,794 libparallel INFO] >> /capri_ss_186.tsv completed 93% 
+[2023-10-21 00:17:21,795 libparallel INFO] >> /capri_ss_187.tsv completed 94% 
+[2023-10-21 00:17:21,795 libparallel INFO] >> /capri_ss_188.tsv completed 94% 
+[2023-10-21 00:17:21,795 libparallel INFO] >> /capri_ss_189.tsv completed 94% 
+[2023-10-21 00:17:21,795 libparallel INFO] >> /capri_ss_190.tsv completed 95% 
+[2023-10-21 00:17:21,795 libparallel INFO] >> /capri_ss_191.tsv completed 96% 
+[2023-10-21 00:17:21,795 libparallel INFO] >> /capri_ss_192.tsv completed 96% 
+[2023-10-21 00:17:21,795 libparallel INFO] >> /capri_ss_193.tsv completed 96% 
+[2023-10-21 00:17:21,795 libparallel INFO] >> /capri_ss_194.tsv completed 97% 
+[2023-10-21 00:17:21,795 libparallel INFO] >> /capri_ss_195.tsv completed 98% 
+[2023-10-21 00:17:21,795 libparallel INFO] >> /capri_ss_196.tsv completed 98% 
+[2023-10-21 00:17:21,795 libparallel INFO] >> /capri_ss_197.tsv completed 98% 
+[2023-10-21 00:17:21,795 libparallel INFO] >> /capri_ss_198.tsv completed 99% 
+[2023-10-21 00:17:21,795 libparallel INFO] >> /capri_ss_199.tsv completed 100% 
+[2023-10-21 00:17:21,795 libparallel INFO] >> /capri_ss_200.tsv completed 100% 
+[2023-10-21 00:17:21,795 libparallel INFO] 200 tasks finished
+[2023-10-21 00:17:21,964 capri INFO] Rearranging output files into capri_ss.tsv
+[2023-10-21 00:17:26,407 capri INFO] Rearranging cluster information into capri_clt.tsv
+[2023-10-21 00:17:26,540 __init__ INFO] Module [caprieval] finished.
+[2023-10-21 00:17:26,540 __init__ INFO] [caprieval] took 23 seconds
+[2023-10-21 00:17:27,589 base_cns_module INFO] Running [emref] module
+[2023-10-21 00:17:39,138 __init__ INFO] [emref] Running CNS Jobs n=200
+[2023-10-21 00:17:39,145 libhpc INFO] > Running batch 1/4
+[2023-10-21 00:17:43,135 libhpc INFO] >> emref_1.job running
+[2023-10-21 00:17:43,269 libhpc INFO] >> emref_2.job running
+[2023-10-21 00:17:43,346 libhpc INFO] >> emref_3.job submitted
+[2023-10-21 00:17:43,418 libhpc INFO] >> emref_4.job submitted
+[2023-10-21 00:17:43,513 libhpc INFO] >> emref_5.job submitted
+[2023-10-21 00:17:43,611 libhpc INFO] >> emref_6.job submitted
+[2023-10-21 00:17:43,670 libhpc INFO] >> emref_7.job submitted
+[2023-10-21 00:17:43,749 libhpc INFO] >> emref_8.job submitted
+[2023-10-21 00:17:43,839 libhpc INFO] >> emref_9.job submitted
+[2023-10-21 00:17:43,899 libhpc INFO] >> emref_10.job submitted
+[2023-10-21 00:17:43,959 libhpc INFO] >> emref_11.job submitted
+[2023-10-21 00:17:44,013 libhpc INFO] >> emref_12.job submitted
+[2023-10-21 00:17:44,127 libhpc INFO] >> emref_13.job submitted
+[2023-10-21 00:17:44,200 libhpc INFO] >> emref_14.job submitted
+[2023-10-21 00:17:44,272 libhpc INFO] >> emref_15.job submitted
+[2023-10-21 00:17:44,339 libhpc INFO] >> emref_16.job submitted
+[2023-10-21 00:17:44,453 libhpc INFO] >> emref_17.job submitted
+[2023-10-21 00:17:44,585 libhpc INFO] >> emref_18.job submitted
+[2023-10-21 00:17:44,663 libhpc INFO] >> emref_19.job submitted
+[2023-10-21 00:17:44,718 libhpc INFO] >> emref_20.job submitted
+[2023-10-21 00:17:44,814 libhpc INFO] >> emref_21.job submitted
+[2023-10-21 00:17:44,891 libhpc INFO] >> emref_22.job submitted
+[2023-10-21 00:17:45,048 libhpc INFO] >> emref_23.job submitted
+[2023-10-21 00:17:45,138 libhpc INFO] >> emref_24.job submitted
+[2023-10-21 00:17:45,210 libhpc INFO] >> emref_25.job submitted
+[2023-10-21 00:17:45,324 libhpc INFO] >> emref_26.job submitted
+[2023-10-21 00:17:45,500 libhpc INFO] >> emref_27.job submitted
+[2023-10-21 00:17:45,602 libhpc INFO] >> emref_28.job submitted
+[2023-10-21 00:17:45,702 libhpc INFO] >> emref_29.job submitted
+[2023-10-21 00:17:45,829 libhpc INFO] >> emref_30.job submitted
+[2023-10-21 00:17:45,941 libhpc INFO] >> emref_31.job submitted
+[2023-10-21 00:17:46,026 libhpc INFO] >> emref_32.job submitted
+[2023-10-21 00:17:46,124 libhpc INFO] >> emref_33.job submitted
+[2023-10-21 00:17:46,216 libhpc INFO] >> emref_34.job submitted
+[2023-10-21 00:17:46,352 libhpc INFO] >> emref_35.job submitted
+[2023-10-21 00:17:46,427 libhpc INFO] >> emref_36.job submitted
+[2023-10-21 00:17:46,502 libhpc INFO] >> emref_37.job submitted
+[2023-10-21 00:17:46,568 libhpc INFO] >> emref_38.job submitted
+[2023-10-21 00:17:46,646 libhpc INFO] >> emref_39.job submitted
+[2023-10-21 00:17:46,713 libhpc INFO] >> emref_40.job submitted
+[2023-10-21 00:17:46,782 libhpc INFO] >> emref_41.job submitted
+[2023-10-21 00:17:46,880 libhpc INFO] >> emref_42.job submitted
+[2023-10-21 00:17:46,958 libhpc INFO] >> emref_43.job submitted
+[2023-10-21 00:17:47,025 libhpc INFO] >> emref_44.job submitted
+[2023-10-21 00:17:47,097 libhpc INFO] >> emref_45.job submitted
+[2023-10-21 00:17:47,153 libhpc INFO] >> emref_46.job submitted
+[2023-10-21 00:17:47,233 libhpc INFO] >> emref_47.job submitted
+[2023-10-21 00:17:47,308 libhpc INFO] >> emref_48.job submitted
+[2023-10-21 00:17:47,371 libhpc INFO] >> emref_49.job submitted
+[2023-10-21 00:17:47,440 libhpc INFO] >> emref_50.job submitted
+[2023-10-21 00:17:47,440 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-21 00:18:47,863 libhpc INFO] >> emref_23.job running
+[2023-10-21 00:18:47,930 libhpc INFO] >> emref_24.job submitted
+[2023-10-21 00:18:48,004 libhpc INFO] >> emref_25.job submitted
+[2023-10-21 00:18:48,072 libhpc INFO] >> emref_26.job submitted
+[2023-10-21 00:18:48,133 libhpc INFO] >> emref_27.job submitted
+[2023-10-21 00:18:48,190 libhpc INFO] >> emref_28.job submitted
+[2023-10-21 00:18:48,269 libhpc INFO] >> emref_29.job submitted
+[2023-10-21 00:18:48,347 libhpc INFO] >> emref_30.job submitted
+[2023-10-21 00:18:48,399 libhpc INFO] >> emref_31.job submitted
+[2023-10-21 00:18:48,468 libhpc INFO] >> emref_32.job submitted
+[2023-10-21 00:18:48,523 libhpc INFO] >> emref_33.job submitted
+[2023-10-21 00:18:48,573 libhpc INFO] >> emref_34.job submitted
+[2023-10-21 00:18:48,657 libhpc INFO] >> emref_35.job submitted
+[2023-10-21 00:18:48,713 libhpc INFO] >> emref_36.job submitted
+[2023-10-21 00:18:48,768 libhpc INFO] >> emref_37.job submitted
+[2023-10-21 00:18:48,823 libhpc INFO] >> emref_38.job submitted
+[2023-10-21 00:18:48,886 libhpc INFO] >> emref_39.job submitted
+[2023-10-21 00:18:49,000 libhpc INFO] >> emref_40.job submitted
+[2023-10-21 00:18:49,126 libhpc INFO] >> emref_41.job submitted
+[2023-10-21 00:18:49,209 libhpc INFO] >> emref_42.job submitted
+[2023-10-21 00:18:49,306 libhpc INFO] >> emref_43.job submitted
+[2023-10-21 00:18:49,567 libhpc INFO] >> emref_44.job submitted
+[2023-10-21 00:18:49,683 libhpc INFO] >> emref_45.job submitted
+[2023-10-21 00:18:49,783 libhpc INFO] >> emref_46.job submitted
+[2023-10-21 00:18:49,858 libhpc INFO] >> emref_47.job submitted
+[2023-10-21 00:18:49,929 libhpc INFO] >> emref_48.job submitted
+[2023-10-21 00:18:49,990 libhpc INFO] >> emref_49.job submitted
+[2023-10-21 00:18:50,048 libhpc INFO] >> emref_50.job submitted
+[2023-10-21 00:18:50,048 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-21 00:19:50,802 libhpc INFO] >> emref_44.job running
+[2023-10-21 00:19:50,875 libhpc INFO] >> emref_45.job submitted
+[2023-10-21 00:19:50,959 libhpc INFO] >> emref_46.job submitted
+[2023-10-21 00:19:51,020 libhpc INFO] >> emref_47.job submitted
+[2023-10-21 00:19:51,081 libhpc INFO] >> emref_48.job submitted
+[2023-10-21 00:19:51,134 libhpc INFO] >> emref_49.job submitted
+[2023-10-21 00:19:51,188 libhpc INFO] >> emref_50.job submitted
+[2023-10-21 00:19:51,188 libhpc INFO] >> Waiting... (60.00s)
+[2023-10-21 00:20:51,906 libhpc INFO] >> Batch 1/4 took 192.76s to finish, 25.00% complete
+[2023-10-21 00:20:51,907 libhpc INFO] > Running batch 2/4
+[2023-10-21 00:20:55,925 libhpc INFO] >> emref_51.job running
+[2023-10-21 00:20:56,028 libhpc INFO] >> emref_52.job running
+[2023-10-21 00:20:56,082 libhpc INFO] >> emref_53.job submitted
+[2023-10-21 00:20:56,154 libhpc INFO] >> emref_54.job submitted
+[2023-10-21 00:20:56,225 libhpc INFO] >> emref_55.job submitted
+[2023-10-21 00:20:56,345 libhpc INFO] >> emref_56.job submitted
+[2023-10-21 00:20:56,442 libhpc INFO] >> emref_57.job submitted
+[2023-10-21 00:20:56,537 libhpc INFO] >> emref_58.job submitted
+[2023-10-21 00:20:56,603 libhpc INFO] >> emref_59.job submitted
+[2023-10-21 00:20:56,668 libhpc INFO] >> emref_60.job submitted
+[2023-10-21 00:20:56,728 libhpc INFO] >> emref_61.job submitted
+[2023-10-21 00:20:56,789 libhpc INFO] >> emref_62.job submitted
+[2023-10-21 00:20:56,891 libhpc INFO] >> emref_63.job submitted
+[2023-10-21 00:20:56,975 libhpc INFO] >> emref_64.job submitted
+[2023-10-21 00:20:57,097 libhpc INFO] >> emref_65.job submitted
+[2023-10-21 00:20:57,210 libhpc INFO] >> emref_66.job submitted
+[2023-10-21 00:20:57,288 libhpc INFO] >> emref_67.job submitted
+[2023-10-21 00:20:57,385 libhpc INFO] >> emref_68.job submitted
+[2023-10-21 00:20:57,486 libhpc INFO] >> emref_69.job submitted
+[2023-10-21 00:20:57,651 libhpc INFO] >> emref_70.job submitted
+[2023-10-21 00:20:57,746 libhpc INFO] >> emref_71.job submitted
+[2023-10-21 00:20:57,855 libhpc INFO] >> emref_72.job submitted
+[2023-10-21 00:20:57,954 libhpc INFO] >> emref_73.job submitted
+[2023-10-21 00:20:58,045 libhpc INFO] >> emref_74.job submitted
+[2023-10-21 00:20:58,117 libhpc INFO] >> emref_75.job submitted
+[2023-10-21 00:20:58,234 libhpc INFO] >> emref_76.job submitted
+[2023-10-21 00:20:58,317 libhpc INFO] >> emref_77.job submitted
+[2023-10-21 00:20:58,379 libhpc INFO] >> emref_78.job submitted
+[2023-10-21 00:20:58,442 libhpc INFO] >> emref_79.job submitted
+[2023-10-21 00:20:58,497 libhpc INFO] >> emref_80.job submitted
+[2023-10-21 00:20:58,564 libhpc INFO] >> emref_81.job submitted
+[2023-10-21 00:20:58,624 libhpc INFO] >> emref_82.job submitted
+[2023-10-21 00:20:58,682 libhpc INFO] >> emref_83.job submitted
+[2023-10-21 00:20:58,746 libhpc INFO] >> emref_84.job submitted
+[2023-10-21 00:20:58,808 libhpc INFO] >> emref_85.job submitted
+[2023-10-21 00:20:58,923 libhpc INFO] >> emref_86.job submitted
+[2023-10-21 00:20:59,007 libhpc INFO] >> emref_87.job submitted
+[2023-10-21 00:20:59,152 libhpc INFO] >> emref_88.job submitted
+[2023-10-21 00:20:59,310 libhpc INFO] >> emref_89.job submitted
+[2023-10-21 00:20:59,439 libhpc INFO] >> emref_90.job submitted
+[2023-10-21 00:20:59,572 libhpc INFO] >> emref_91.job submitted
+[2023-10-21 00:20:59,668 libhpc INFO] >> emref_92.job submitted
+[2023-10-21 00:20:59,746 libhpc INFO] >> emref_93.job submitted
+[2023-10-21 00:20:59,800 libhpc INFO] >> emref_94.job submitted
+[2023-10-21 00:20:59,864 libhpc INFO] >> emref_95.job submitted
+[2023-10-21 00:20:59,945 libhpc INFO] >> emref_96.job submitted
+[2023-10-21 00:21:00,005 libhpc INFO] >> emref_97.job submitted
+[2023-10-21 00:21:00,059 libhpc INFO] >> emref_98.job submitted
+[2023-10-21 00:21:00,119 libhpc INFO] >> emref_99.job submitted
+[2023-10-21 00:21:00,179 libhpc INFO] >> emref_100.job submitted
+[2023-10-21 00:21:00,179 libhpc INFO] >> Waiting... (193.00s)
+[2023-10-21 00:24:13,912 libhpc INFO] >> Batch 2/4 took 202.00s to finish, 50.00% complete
+[2023-10-21 00:24:13,913 libhpc INFO] > Running batch 3/4
+[2023-10-21 00:24:18,054 libhpc INFO] >> emref_101.job running
+[2023-10-21 00:24:18,139 libhpc INFO] >> emref_102.job running
+[2023-10-21 00:24:18,213 libhpc INFO] >> emref_103.job submitted
+[2023-10-21 00:24:18,274 libhpc INFO] >> emref_104.job submitted
+[2023-10-21 00:24:18,340 libhpc INFO] >> emref_105.job submitted
+[2023-10-21 00:24:18,436 libhpc INFO] >> emref_106.job submitted
+[2023-10-21 00:24:18,501 libhpc INFO] >> emref_107.job submitted
+[2023-10-21 00:24:18,568 libhpc INFO] >> emref_108.job submitted
+[2023-10-21 00:24:18,622 libhpc INFO] >> emref_109.job submitted
+[2023-10-21 00:24:18,675 libhpc INFO] >> emref_110.job submitted
+[2023-10-21 00:24:18,748 libhpc INFO] >> emref_111.job submitted
+[2023-10-21 00:24:18,819 libhpc INFO] >> emref_112.job submitted
+[2023-10-21 00:24:18,892 libhpc INFO] >> emref_113.job submitted
+[2023-10-21 00:24:18,976 libhpc INFO] >> emref_114.job submitted
+[2023-10-21 00:24:19,072 libhpc INFO] >> emref_115.job submitted
+[2023-10-21 00:24:19,149 libhpc INFO] >> emref_116.job submitted
+[2023-10-21 00:24:19,231 libhpc INFO] >> emref_117.job submitted
+[2023-10-21 00:24:19,427 libhpc INFO] >> emref_118.job submitted
+[2023-10-21 00:24:19,562 libhpc INFO] >> emref_119.job submitted
+[2023-10-21 00:24:19,732 libhpc INFO] >> emref_120.job submitted
+[2023-10-21 00:24:19,867 libhpc INFO] >> emref_121.job submitted
+[2023-10-21 00:24:19,945 libhpc INFO] >> emref_122.job submitted
+[2023-10-21 00:24:20,062 libhpc INFO] >> emref_123.job submitted
+[2023-10-21 00:24:20,145 libhpc INFO] >> emref_124.job submitted
+[2023-10-21 00:24:20,215 libhpc INFO] >> emref_125.job submitted
+[2023-10-21 00:24:20,355 libhpc INFO] >> emref_126.job submitted
+[2023-10-21 00:24:20,450 libhpc INFO] >> emref_127.job submitted
+[2023-10-21 00:24:20,503 libhpc INFO] >> emref_128.job submitted
+[2023-10-21 00:24:20,564 libhpc INFO] >> emref_129.job submitted
+[2023-10-21 00:24:20,643 libhpc INFO] >> emref_130.job submitted
+[2023-10-21 00:24:20,745 libhpc INFO] >> emref_131.job submitted
+[2023-10-21 00:24:20,823 libhpc INFO] >> emref_132.job submitted
+[2023-10-21 00:24:20,901 libhpc INFO] >> emref_133.job submitted
+[2023-10-21 00:24:21,009 libhpc INFO] >> emref_134.job submitted
+[2023-10-21 00:24:21,088 libhpc INFO] >> emref_135.job submitted
+[2023-10-21 00:24:21,141 libhpc INFO] >> emref_136.job submitted
+[2023-10-21 00:24:21,202 libhpc INFO] >> emref_137.job submitted
+[2023-10-21 00:24:21,280 libhpc INFO] >> emref_138.job submitted
+[2023-10-21 00:24:21,341 libhpc INFO] >> emref_139.job submitted
+[2023-10-21 00:24:21,405 libhpc INFO] >> emref_140.job submitted
+[2023-10-21 00:24:21,460 libhpc INFO] >> emref_141.job submitted
+[2023-10-21 00:24:21,525 libhpc INFO] >> emref_142.job submitted
+[2023-10-21 00:24:21,628 libhpc INFO] >> emref_143.job submitted
+[2023-10-21 00:24:21,695 libhpc INFO] >> emref_144.job submitted
+[2023-10-21 00:24:21,761 libhpc INFO] >> emref_145.job submitted
+[2023-10-21 00:24:21,816 libhpc INFO] >> emref_146.job submitted
+[2023-10-21 00:24:21,888 libhpc INFO] >> emref_147.job submitted
+[2023-10-21 00:24:21,954 libhpc INFO] >> emref_148.job submitted
+[2023-10-21 00:24:22,025 libhpc INFO] >> emref_149.job submitted
+[2023-10-21 00:24:22,086 libhpc INFO] >> emref_150.job submitted
+[2023-10-21 00:24:22,086 libhpc INFO] >> Waiting... (197.00s)
+[2023-10-21 00:27:39,818 libhpc INFO] >> Batch 3/4 took 205.91s to finish, 75.00% complete
+[2023-10-21 00:27:39,819 libhpc INFO] > Running batch 4/4
+[2023-10-21 00:27:43,709 libhpc INFO] >> emref_151.job running
+[2023-10-21 00:27:43,789 libhpc INFO] >> emref_152.job running
+[2023-10-21 00:27:43,881 libhpc INFO] >> emref_153.job submitted
+[2023-10-21 00:27:43,942 libhpc INFO] >> emref_154.job submitted
+[2023-10-21 00:27:44,040 libhpc INFO] >> emref_155.job submitted
+[2023-10-21 00:27:44,127 libhpc INFO] >> emref_156.job submitted
+[2023-10-21 00:27:44,196 libhpc INFO] >> emref_157.job submitted
+[2023-10-21 00:27:44,262 libhpc INFO] >> emref_158.job submitted
+[2023-10-21 00:27:44,343 libhpc INFO] >> emref_159.job submitted
+[2023-10-21 00:27:44,440 libhpc INFO] >> emref_160.job submitted
+[2023-10-21 00:27:44,545 libhpc INFO] >> emref_161.job submitted
+[2023-10-21 00:27:44,611 libhpc INFO] >> emref_162.job submitted
+[2023-10-21 00:27:44,702 libhpc INFO] >> emref_163.job submitted
+[2023-10-21 00:27:44,772 libhpc INFO] >> emref_164.job submitted
+[2023-10-21 00:27:44,845 libhpc INFO] >> emref_165.job submitted
+[2023-10-21 00:27:44,899 libhpc INFO] >> emref_166.job submitted
+[2023-10-21 00:27:44,972 libhpc INFO] >> emref_167.job submitted
+[2023-10-21 00:27:45,035 libhpc INFO] >> emref_168.job submitted
+[2023-10-21 00:27:45,093 libhpc INFO] >> emref_169.job submitted
+[2023-10-21 00:27:45,161 libhpc INFO] >> emref_170.job submitted
+[2023-10-21 00:27:45,218 libhpc INFO] >> emref_171.job submitted
+[2023-10-21 00:27:45,284 libhpc INFO] >> emref_172.job submitted
+[2023-10-21 00:27:45,343 libhpc INFO] >> emref_173.job submitted
+[2023-10-21 00:27:45,401 libhpc INFO] >> emref_174.job submitted
+[2023-10-21 00:27:45,494 libhpc INFO] >> emref_175.job submitted
+[2023-10-21 00:27:45,578 libhpc INFO] >> emref_176.job submitted
+[2023-10-21 00:27:45,749 libhpc INFO] >> emref_177.job submitted
+[2023-10-21 00:27:45,916 libhpc INFO] >> emref_178.job submitted
+[2023-10-21 00:27:46,040 libhpc INFO] >> emref_179.job submitted
+[2023-10-21 00:27:46,137 libhpc INFO] >> emref_180.job submitted
+[2023-10-21 00:27:46,203 libhpc INFO] >> emref_181.job submitted
+[2023-10-21 00:27:46,322 libhpc INFO] >> emref_182.job submitted
+[2023-10-21 00:27:46,434 libhpc INFO] >> emref_183.job submitted
+[2023-10-21 00:27:46,578 libhpc INFO] >> emref_184.job submitted
+[2023-10-21 00:27:46,681 libhpc INFO] >> emref_185.job submitted
+[2023-10-21 00:27:46,785 libhpc INFO] >> emref_186.job submitted
+[2023-10-21 00:27:46,909 libhpc INFO] >> emref_187.job submitted
+[2023-10-21 00:27:47,000 libhpc INFO] >> emref_188.job submitted
+[2023-10-21 00:27:47,083 libhpc INFO] >> emref_189.job submitted
+[2023-10-21 00:27:47,140 libhpc INFO] >> emref_190.job submitted
+[2023-10-21 00:27:47,196 libhpc INFO] >> emref_191.job submitted
+[2023-10-21 00:27:47,257 libhpc INFO] >> emref_192.job submitted
+[2023-10-21 00:27:47,313 libhpc INFO] >> emref_193.job submitted
+[2023-10-21 00:27:47,395 libhpc INFO] >> emref_194.job submitted
+[2023-10-21 00:27:47,450 libhpc INFO] >> emref_195.job submitted
+[2023-10-21 00:27:47,514 libhpc INFO] >> emref_196.job submitted
+[2023-10-21 00:27:47,569 libhpc INFO] >> emref_197.job submitted
+[2023-10-21 00:27:47,625 libhpc INFO] >> emref_198.job submitted
+[2023-10-21 00:27:47,703 libhpc INFO] >> emref_199.job submitted
+[2023-10-21 00:27:47,786 libhpc INFO] >> emref_200.job submitted
+[2023-10-21 00:27:47,787 libhpc INFO] >> Waiting... (200.00s)
+[2023-10-21 00:31:08,501 libhpc INFO] >> Batch 4/4 took 208.68s to finish, 100.00% complete
+[2023-10-21 00:31:08,502 __init__ INFO] [emref] CNS jobs have finished
+[2023-10-21 00:31:09,342 base_cns_module INFO] Module [emref] finished.
+[2023-10-21 00:31:09,342 __init__ INFO] [emref] took 13 minutes and 42 seconds
+[2023-10-21 00:31:09,500 __init__ INFO] Running [caprieval] module
+[2023-10-21 00:31:10,197 libutil INFO] Selected 7 cores to process 200 jobs, with 7 maximum available cores.
+[2023-10-21 00:31:10,198 libparallel INFO] Using 7 cores
+[2023-10-21 00:31:27,303 libparallel INFO] >> /capri_ss_1.tsv completed 0% 
+[2023-10-21 00:31:27,303 libparallel INFO] >> /capri_ss_2.tsv completed 1% 
+[2023-10-21 00:31:27,303 libparallel INFO] >> /capri_ss_3.tsv completed 2% 
+[2023-10-21 00:31:27,303 libparallel INFO] >> /capri_ss_4.tsv completed 2% 
+[2023-10-21 00:31:27,303 libparallel INFO] >> /capri_ss_5.tsv completed 2% 
+[2023-10-21 00:31:27,303 libparallel INFO] >> /capri_ss_6.tsv completed 3% 
+[2023-10-21 00:31:27,303 libparallel INFO] >> /capri_ss_7.tsv completed 4% 
+[2023-10-21 00:31:27,303 libparallel INFO] >> /capri_ss_8.tsv completed 4% 
+[2023-10-21 00:31:27,303 libparallel INFO] >> /capri_ss_9.tsv completed 4% 
+[2023-10-21 00:31:27,303 libparallel INFO] >> /capri_ss_10.tsv completed 5% 
+[2023-10-21 00:31:27,303 libparallel INFO] >> /capri_ss_11.tsv completed 6% 
+[2023-10-21 00:31:27,303 libparallel INFO] >> /capri_ss_12.tsv completed 6% 
+[2023-10-21 00:31:27,303 libparallel INFO] >> /capri_ss_13.tsv completed 6% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_14.tsv completed 7% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_15.tsv completed 8% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_16.tsv completed 8% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_17.tsv completed 8% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_18.tsv completed 9% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_19.tsv completed 10% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_20.tsv completed 10% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_21.tsv completed 10% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_22.tsv completed 11% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_23.tsv completed 12% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_24.tsv completed 12% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_25.tsv completed 12% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_26.tsv completed 13% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_27.tsv completed 14% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_28.tsv completed 14% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_29.tsv completed 14% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_30.tsv completed 15% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_31.tsv completed 16% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_32.tsv completed 16% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_33.tsv completed 16% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_34.tsv completed 17% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_35.tsv completed 18% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_36.tsv completed 18% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_37.tsv completed 18% 
+[2023-10-21 00:31:27,304 libparallel INFO] >> /capri_ss_38.tsv completed 19% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_39.tsv completed 20% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_40.tsv completed 20% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_41.tsv completed 20% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_42.tsv completed 21% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_43.tsv completed 22% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_44.tsv completed 22% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_45.tsv completed 22% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_46.tsv completed 23% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_47.tsv completed 24% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_48.tsv completed 24% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_49.tsv completed 24% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_50.tsv completed 25% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_51.tsv completed 26% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_52.tsv completed 26% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_53.tsv completed 26% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_54.tsv completed 27% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_55.tsv completed 28% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_56.tsv completed 28% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_57.tsv completed 28% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_58.tsv completed 29% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_59.tsv completed 30% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_60.tsv completed 30% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_61.tsv completed 30% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_62.tsv completed 31% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_63.tsv completed 32% 
+[2023-10-21 00:31:27,305 libparallel INFO] >> /capri_ss_64.tsv completed 32% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_65.tsv completed 32% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_66.tsv completed 33% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_67.tsv completed 34% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_68.tsv completed 34% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_69.tsv completed 34% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_70.tsv completed 35% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_71.tsv completed 36% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_72.tsv completed 36% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_73.tsv completed 36% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_74.tsv completed 37% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_75.tsv completed 38% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_76.tsv completed 38% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_77.tsv completed 38% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_78.tsv completed 39% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_79.tsv completed 40% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_80.tsv completed 40% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_81.tsv completed 40% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_82.tsv completed 41% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_83.tsv completed 42% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_84.tsv completed 42% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_85.tsv completed 42% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_86.tsv completed 43% 
+[2023-10-21 00:31:27,306 libparallel INFO] >> /capri_ss_87.tsv completed 44% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_88.tsv completed 44% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_89.tsv completed 44% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_90.tsv completed 45% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_91.tsv completed 46% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_92.tsv completed 46% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_93.tsv completed 46% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_94.tsv completed 47% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_95.tsv completed 48% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_96.tsv completed 48% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_97.tsv completed 48% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_98.tsv completed 49% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_99.tsv completed 50% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_100.tsv completed 50% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_101.tsv completed 50% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_102.tsv completed 51% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_103.tsv completed 52% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_104.tsv completed 52% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_105.tsv completed 52% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_106.tsv completed 53% 
+[2023-10-21 00:31:27,514 libparallel INFO] >> /capri_ss_107.tsv completed 54% 
+[2023-10-21 00:31:27,515 libparallel INFO] >> /capri_ss_108.tsv completed 54% 
+[2023-10-21 00:31:27,515 libparallel INFO] >> /capri_ss_109.tsv completed 55% 
+[2023-10-21 00:31:27,515 libparallel INFO] >> /capri_ss_110.tsv completed 55% 
+[2023-10-21 00:31:27,515 libparallel INFO] >> /capri_ss_111.tsv completed 56% 
+[2023-10-21 00:31:27,515 libparallel INFO] >> /capri_ss_112.tsv completed 56% 
+[2023-10-21 00:31:27,515 libparallel INFO] >> /capri_ss_113.tsv completed 56% 
+[2023-10-21 00:31:27,515 libparallel INFO] >> /capri_ss_114.tsv completed 57% 
+[2023-10-21 00:31:27,515 libparallel INFO] >> /capri_ss_115.tsv completed 57% 
+[2023-10-21 00:31:27,515 libparallel INFO] >> /capri_ss_116.tsv completed 58% 
+[2023-10-21 00:31:27,989 libparallel INFO] >> /capri_ss_117.tsv completed 58% 
+[2023-10-21 00:31:27,989 libparallel INFO] >> /capri_ss_118.tsv completed 59% 
+[2023-10-21 00:31:27,989 libparallel INFO] >> /capri_ss_119.tsv completed 60% 
+[2023-10-21 00:31:27,989 libparallel INFO] >> /capri_ss_120.tsv completed 60% 
+[2023-10-21 00:31:27,989 libparallel INFO] >> /capri_ss_121.tsv completed 60% 
+[2023-10-21 00:31:27,989 libparallel INFO] >> /capri_ss_122.tsv completed 61% 
+[2023-10-21 00:31:27,989 libparallel INFO] >> /capri_ss_123.tsv completed 62% 
+[2023-10-21 00:31:27,989 libparallel INFO] >> /capri_ss_124.tsv completed 62% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_125.tsv completed 62% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_126.tsv completed 63% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_127.tsv completed 64% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_128.tsv completed 64% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_129.tsv completed 64% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_130.tsv completed 65% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_131.tsv completed 66% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_132.tsv completed 66% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_133.tsv completed 66% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_134.tsv completed 67% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_135.tsv completed 68% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_136.tsv completed 68% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_137.tsv completed 68% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_138.tsv completed 69% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_139.tsv completed 70% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_140.tsv completed 70% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_141.tsv completed 70% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_142.tsv completed 71% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_143.tsv completed 72% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_144.tsv completed 72% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_145.tsv completed 72% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_146.tsv completed 73% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_147.tsv completed 74% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_148.tsv completed 74% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_149.tsv completed 74% 
+[2023-10-21 00:31:27,990 libparallel INFO] >> /capri_ss_150.tsv completed 75% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_151.tsv completed 76% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_152.tsv completed 76% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_153.tsv completed 76% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_154.tsv completed 77% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_155.tsv completed 78% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_156.tsv completed 78% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_157.tsv completed 78% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_158.tsv completed 79% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_159.tsv completed 80% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_160.tsv completed 80% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_161.tsv completed 80% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_162.tsv completed 81% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_163.tsv completed 82% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_164.tsv completed 82% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_165.tsv completed 82% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_166.tsv completed 83% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_167.tsv completed 84% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_168.tsv completed 84% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_169.tsv completed 84% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_170.tsv completed 85% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_171.tsv completed 86% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_172.tsv completed 86% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_173.tsv completed 86% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_174.tsv completed 87% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_175.tsv completed 88% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_176.tsv completed 88% 
+[2023-10-21 00:31:27,991 libparallel INFO] >> /capri_ss_177.tsv completed 88% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_178.tsv completed 89% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_179.tsv completed 90% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_180.tsv completed 90% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_181.tsv completed 90% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_182.tsv completed 91% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_183.tsv completed 92% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_184.tsv completed 92% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_185.tsv completed 92% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_186.tsv completed 93% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_187.tsv completed 94% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_188.tsv completed 94% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_189.tsv completed 94% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_190.tsv completed 95% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_191.tsv completed 96% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_192.tsv completed 96% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_193.tsv completed 96% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_194.tsv completed 97% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_195.tsv completed 98% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_196.tsv completed 98% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_197.tsv completed 98% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_198.tsv completed 99% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_199.tsv completed 100% 
+[2023-10-21 00:31:27,992 libparallel INFO] >> /capri_ss_200.tsv completed 100% 
+[2023-10-21 00:31:27,992 libparallel INFO] 200 tasks finished
+[2023-10-21 00:31:28,158 capri INFO] Rearranging output files into capri_ss.tsv
+[2023-10-21 00:31:32,840 capri INFO] Rearranging cluster information into capri_clt.tsv
+[2023-10-21 00:31:33,017 __init__ INFO] Module [caprieval] finished.
+[2023-10-21 00:31:33,017 __init__ INFO] [caprieval] took 24 seconds
+[2023-10-21 00:31:33,017 cli_analyse INFO] Running haddock3-analyse on ./, modules [3, 5, 7], with top_cluster = 10
+[2023-10-21 00:31:33,040 cli_analyse INFO] Created directory: /mnt/nfs_share/greenBeansHaddock/docking-protein-protein-merged/run.docking-protein-protein-hpc-1-50/analysis
+[2023-10-21 00:31:33,040 cli_analyse INFO] Reading input run directory
+[2023-10-21 00:31:33,080 cli_analyse INFO] selected steps: 3_caprieval, 5_caprieval, 7_caprieval
+[2023-10-21 00:31:33,080 cli_analyse INFO] Analysing step 3_caprieval
+[2023-10-21 00:31:33,098 cli_analyse INFO] step 3_caprieval is caprieval, files should be already available
+[2023-10-21 00:31:33,251 cli_analyse INFO] CAPRI files identified
+[2023-10-21 00:31:33,261 cli_analyse INFO] Plotting results..
+[2023-10-21 00:31:36,196 cli_analyse INFO] Analysing step 5_caprieval
+[2023-10-21 00:31:36,213 cli_analyse INFO] step 5_caprieval is caprieval, files should be already available
+[2023-10-21 00:31:36,328 cli_analyse INFO] CAPRI files identified
+[2023-10-21 00:31:36,335 cli_analyse INFO] Plotting results..
+[2023-10-21 00:31:39,256 cli_analyse INFO] Analysing step 7_caprieval
+[2023-10-21 00:31:39,297 cli_analyse INFO] step 7_caprieval is caprieval, files should be already available
+[2023-10-21 00:31:39,412 cli_analyse INFO] CAPRI files identified
+[2023-10-21 00:31:39,419 cli_analyse INFO] Plotting results..
+[2023-10-21 00:31:42,320 cli_analyse INFO] moving files to analysis folder
+[2023-10-21 00:31:42,376 cli_analyse INFO] updating paths in analysis/3_caprieval_analysis/capri_ss.tsv
+[2023-10-21 00:31:42,417 cli_analyse INFO] View the results in analysis/3_caprieval_analysis/report.html
+[2023-10-21 00:31:42,417 cli_analyse INFO] To view structures or download the structure files, in a terminal run the command `python -m http.server --directory /mnt/nfs_share/greenBeansHaddock/docking-protein-protein-merged/run.docking-protein-protein-hpc-1-50`. By default, http server runs on `http://0.0.0.0:8000/`. Open the link http://0.0.0.0:8000/analysis/3_caprieval_analysis/report.html in a web browser.
+[2023-10-21 00:31:42,418 cli_analyse INFO] updating paths in analysis/5_caprieval_analysis/capri_ss.tsv
+[2023-10-21 00:31:42,489 cli_analyse INFO] View the results in analysis/5_caprieval_analysis/report.html
+[2023-10-21 00:31:42,489 cli_analyse INFO] To view structures or download the structure files, in a terminal run the command `python -m http.server --directory /mnt/nfs_share/greenBeansHaddock/docking-protein-protein-merged/run.docking-protein-protein-hpc-1-50`. By default, http server runs on `http://0.0.0.0:8000/`. Open the link http://0.0.0.0:8000/analysis/5_caprieval_analysis/report.html in a web browser.
+[2023-10-21 00:31:42,490 cli_analyse INFO] updating paths in analysis/7_caprieval_analysis/capri_ss.tsv
+[2023-10-21 00:31:42,529 cli_analyse INFO] View the results in analysis/7_caprieval_analysis/report.html
+[2023-10-21 00:31:42,529 cli_analyse INFO] To view structures or download the structure files, in a terminal run the command `python -m http.server --directory /mnt/nfs_share/greenBeansHaddock/docking-protein-protein-merged/run.docking-protein-protein-hpc-1-50`. By default, http server runs on `http://0.0.0.0:8000/`. Open the link http://0.0.0.0:8000/analysis/7_caprieval_analysis/report.html in a web browser.
+[2023-10-21 00:31:42,529 cli INFO] This HADDOCK3 run took: 2h57m38s
+[2023-10-21 00:31:42,529 cli INFO] Finished at 21/10/2023 00:31:42. Au revoir! Ciao! Dovidenia!
