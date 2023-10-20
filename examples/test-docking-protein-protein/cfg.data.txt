@@ -1,0 +1,5 @@
+concat qlim ntasks cpuspt
+1	50	1	32
+1	50	2	16
+1	50	4	8
+1	50	8	4
