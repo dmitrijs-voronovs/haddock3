@@ -13,18 +13,18 @@ job10=docking-protein-protein-hpc-16-50.cfg
 job11=docking-protein-protein-hpc-16-100.cfg
 job12=docking-protein-protein-hpc-16-4949.cfg
 
-job1_id=$(sbatch --job-name="$job1" --nodelist=gl6 haddock3 $job1 | awk '{print $NF}') # local
-job2_id=$(sbatch --job-name="$job2" --dependency=afterany:$job1_id haddock3 $job2 | awk '{print $NF}')
-job3_id=$(sbatch --job-name="$job3" --dependency=afterany:$job2_id haddock3 $job3 | awk '{print $NF}')
-job4_id=$(sbatch --job-name="$job4" --dependency=afterany:$job3_id haddock3 $job4 | awk '{print $NF}')
-job5_id=$(sbatch --job-name="$job5" --dependency=afterany:$job4_id haddock3 $job5 | awk '{print $NF}')
-job6_id=$(sbatch --job-name="$job6" --dependency=afterany:$job5_id haddock3 $job6 | awk '{print $NF}')
-job7_id=$(sbatch --job-name="$job7" --dependency=afterany:$job6_id haddock3 $job7 | awk '{print $NF}')
-job8_id=$(sbatch --job-name="$job8" --nodelist=gl6 --dependency=afterany:$job7_id haddock3 $job8 | awk '{print $NF}') # local
-job9_id=$(sbatch --job-name="$job9" --nodelist=gl6 --dependency=afterany:$job8_id haddock3 $job9 | awk '{print $NF}') # local
-job10_id=$(sbatch --job-name="$job10" --dependency=afterany:$job9_id haddock3 $job10 | awk '{print $NF}')
-job11_id=$(sbatch --job-name="$job11" --dependency=afterany:$job10_id haddock3 $job11 | awk '{print $NF}')
-job12_id=$(sbatch --job-name="$job12" --dependency=afterany:$job11_id haddock3 $job12 | awk '{print $NF}')
+job1_id=$( sbatch --job-name="$job1"  --nodelist=gl6                                 haddock3 $job1  | awk '{print $NF}') # local
+job2_id=$( sbatch --job-name="$job2"                 --dependency=afterany:$job1_id  haddock3 $job2  | awk '{print $NF}')
+job3_id=$( sbatch --job-name="$job3"                 --dependency=afterany:$job2_id  haddock3 $job3  | awk '{print $NF}')
+job4_id=$( sbatch --job-name="$job4"                 --dependency=afterany:$job3_id  haddock3 $job4  | awk '{print $NF}')
+job5_id=$( sbatch --job-name="$job5"                 --dependency=afterany:$job4_id  haddock3 $job5  | awk '{print $NF}')
+job6_id=$( sbatch --job-name="$job6"                 --dependency=afterany:$job5_id  haddock3 $job6  | awk '{print $NF}')
+job7_id=$( sbatch --job-name="$job7"                 --dependency=afterany:$job6_id  haddock3 $job7  | awk '{print $NF}')
+job8_id=$( sbatch --job-name="$job8"  --nodelist=gl6 --dependency=afterany:$job7_id  haddock3 $job8  | awk '{print $NF}') # local
+job9_id=$( sbatch --job-name="$job9"  --nodelist=gl6 --dependency=afterany:$job8_id  haddock3 $job9  | awk '{print $NF}') # local
+job10_id=$(sbatch --job-name="$job10"                --dependency=afterany:$job9_id  haddock3 $job10 | awk '{print $NF}')
+job11_id=$(sbatch --job-name="$job11"                --dependency=afterany:$job10_id haddock3 $job11 | awk '{print $NF}')
+job12_id=$(sbatch --job-name="$job12"                --dependency=afterany:$job11_id haddock3 $job12 | awk '{print $NF}')
 
 cat > check-jobs.sh << EOF
 #!/bin/bash
