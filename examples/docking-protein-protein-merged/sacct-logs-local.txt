@@ -1,0 +1,4 @@
+JobID                                                   JobName    Cluster        NodeList      State               Start                 End    Elapsed     MaxRSS     AveRSS ConsumedEnergy    AveDiskRead   AveDiskWrite  AveVMSize      NCPUS 
+------------ -------------------------------------------------- ---------- --------------- ---------- ------------------- ------------------- ---------- ---------- ---------- -------------- -------------- -------------- ---------- ---------- 
+35748                   docking-protein-protein-local-2-gl5.cfg    gl2_gl4             gl5    RUNNING 2023-10-25T01:51:25             Unknown   00:01:48                                                                                        2 
+35748.batch                                               batch    gl2_gl4             gl5    RUNNING 2023-10-25T01:51:25             Unknown   00:01:48                                    0                                                   2 
