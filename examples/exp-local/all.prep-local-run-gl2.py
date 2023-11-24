@@ -28,7 +28,7 @@ random.shuffle(configs)
 warmup_config = Config("dpp", 8, "gl2", 1, True)
 
 commands = [
-    f"rm -rf run.{warmup_config.name}",
+    f"rm -rf \"run.{warmup_config.name}\"",
     ]
 
 job_idx = -1
@@ -45,20 +45,22 @@ for config in configs:
 
     dep = f"--dependency=afterany:${job_prev_id}" if job_idx > 0 else ""
     commands.append(
-        f"${job_check_before_id}=$(sbatch --job-name=\"info.before.{config.name}\" {dep} collect-info.before.sh {config.runDir} | awk '{{print $NF}}')")
+        f"{job_check_before_id}=$(sbatch --job-name=\"info.before.{config.name}\" {dep} collect-info.before.sh \"{config.runDir}\" | awk '{{print $NF}}')")
     commands.append(
-        f"${job_id}=$(sbatch --job-name=\"{config.name}\" -n {config.ncores} --dependency=afterany:${job_check_before_id} haddock3 {config.name} | awk '{{print $NF}}')")
+        f"{job_id}=$(sbatch --job-name=\"{config.name}\" -n {config.ncores} --dependency=afterany:${job_check_before_id} haddock3 \"{config.name}\" | awk '{{print $NF}}')")
     commands.append(
-        f"${job_check_after_id}=$(sbatch --job-name=\"info.after.{config.name}\" --dependency=afterany:${job_id} collect-info.after.sh {config.runDir} | awk '{{print $NF}}')")
+        f"{job_check_after_id}=$(sbatch --job-name=\"info.after.{config.name}\" --dependency=afterany:${job_id} collect-info.after.sh \"{config.runDir}\" | awk '{{print $NF}}')")
 
 job_ids = ",".join([f"$job{x}_1" for x in range(1, job_idx + 1)])
 
 check_jobs_sh = '''
 cat > check-exp-local.sh << EOF
 #!/bin/bash
+echo {job_ids}
 sacct -o jobid,jobname%50,cluster,Node,state,start,end,ConsumedEnergy,AveRSS,AveDiskRead,AveDiskWrite,AveVMSize,elapsed,NCPUS \
     -j {job_ids} \
     > exp-local-data.txt
+cat exp-local-data.txt
 EOF
 '''
 
@@ -66,4 +68,3 @@ with open("run-local-exp.sh", "w") as file:
     file.writelines("#!/bin/bash/ \n")
     file.writelines("\n".join(commands))
     file.writelines(check_jobs_sh.format(job_ids=job_ids))
-    file.writelines("sh check-exp-local.sh")
