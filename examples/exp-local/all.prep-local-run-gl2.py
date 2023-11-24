@@ -64,7 +64,7 @@ cat exp-local-data.txt
 EOF
 '''
 
-with open("run-local-exp.sh", "w") as file:
-    file.writelines("#!/bin/bash/ \n")
-    file.writelines("\n".join(commands))
-    file.writelines(check_jobs_sh.format(job_ids=job_ids))
+with open("run-local-exp.sh", "w", newline='\n') as file:
+    file.write("#!/bin/bash/ \n")
+    file.write("\n".join(commands))
+    file.write(check_jobs_sh.format(job_ids=job_ids))
