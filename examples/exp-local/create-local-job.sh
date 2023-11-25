@@ -16,9 +16,14 @@ cfg_template_run_dir="___RUNDIR___"
 ncores=$2
 node=$3
 trial=$4
+# optional argument for warmup flow
+warmup=$5
 
 #create cfg and job files with ncores in filename
-concat_args="$filename-nc$ncores-($node-$trial)"
+concat_args="$filename-nc${ncores}_$node-$trial"
+if [ -n "$warmup" ]; then
+    concat_args="$concat_args.warmup"
+fi
 cfg_file="$concat_args.cfg"
 run_dir="run.$concat_args"
 

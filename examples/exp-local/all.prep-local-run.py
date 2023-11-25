@@ -8,7 +8,7 @@ class Config:
         self.ncores = ncores
         self.node = node
         self.trial = trial
-        self.name = f"{workflow}-local-nc{ncores}-({node}-{trial}).{'warmup.' if is_warmup else ''}cfg"
+        self.name = f"{workflow}-local-nc{ncores}_{node}-{trial}.{'warmup.' if is_warmup else ''}cfg"
 
     @property
     def runDir(self):
