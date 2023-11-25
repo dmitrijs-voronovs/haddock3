@@ -14,6 +14,10 @@ class Config:
     def runDir(self):
         return f"run.{self.name}"
 
+    @property
+    def nodeName(self):
+        return "GreenLab-STF" if self.node == "gl2" else self.node
+
 
 def create_experiment_job(nodes: List[str], experiment_name: str):
     def get_list_intersection(list1, list2):
@@ -54,11 +58,11 @@ def create_experiment_job(nodes: List[str], experiment_name: str):
 
         dep = f"--dependency=afterany:${job_prev_id}" if job_idx > 0 else ""
         commands.append(
-            f"{job_check_before_id}=$(sbatch --job-name=\"info.before.{config.name}\" {dep} collect-info.before.sh \"{config.runDir}\" | awk '{{print $NF}}')")
+            f"{job_check_before_id}=$(sbatch --job-name=\"info.before.{config.name}\" -w {config.nodeName} {dep} collect-info.before.sh \"{config.runDir}\" | awk '{{print $NF}}')")
         commands.append(
-            f"{job_id}=$(sbatch --job-name=\"{config.name}\" -n {config.ncores} --dependency=afterany:${job_check_before_id} haddock3 \"{config.name}\" | awk '{{print $NF}}')")
+            f"{job_id}=$(sbatch --job-name=\"{config.name}\" -w {config.nodeName} -n {config.ncores} --dependency=afterany:${job_check_before_id} haddock3 \"{config.name}\" | awk '{{print $NF}}')")
         commands.append(
-            f"{job_check_after_id}=$(sbatch --job-name=\"info.after.{config.name}\" --dependency=afterany:${job_id} collect-info.after.sh \"{config.runDir}\" | awk '{{print $NF}}')")
+            f"{job_check_after_id}=$(sbatch --job-name=\"info.after.{config.name}\" -w {config.nodeName} --dependency=afterany:${job_id} collect-info.after.sh \"{config.runDir}\" | awk '{{print $NF}}')")
 
     job_ids = ",".join([f"$job{x}_1" for x in range(1, job_idx + 1)])
 
