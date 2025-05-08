@@ -1,0 +1,378 @@
+JobID                               JobName    Cluster        NodeList      State               Start                 End    Elapsed     MaxRSS     AveRSS ConsumedEnergy 
+------------ ------------------------------ ---------- --------------- ---------- ------------------- ------------------- ---------- ---------- ---------- -------------- 
+1552                               haddock3    gl2_gl4    GreenLab-STF CANCELLED+ 2023-10-12T03:30:55 2023-10-12T03:31:09   00:00:14                                  140 
+1552.0                             haddock3    gl2_gl4    GreenLab-STF CANCELLED+ 2023-10-12T03:30:55 2023-10-12T03:31:09   00:00:14    161732K    161732K            140 
+1553                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:31:03 2023-10-12T03:31:06   00:00:03                                      
+1553.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:31:03 2023-10-12T03:31:06   00:00:03     41256K     41256K            302 
+1554                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:31:03 2023-10-12T03:31:04   00:00:01                                      
+1554.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:31:03 2023-10-12T03:31:04   00:00:01     40004K     40004K            115 
+1555                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:31:06 2023-10-12T03:31:07   00:00:01                                      
+1555.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:31:06 2023-10-12T03:31:07   00:00:01     40084K     40084K            115 
+1556                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:31:09 2023-10-12T03:31:10   00:00:01                                      
+1556.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:31:09 2023-10-12T03:31:10   00:00:01     39956K     39956K            179 
+1557                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:31:09 2023-10-12T03:31:10   00:00:01                                      
+1557.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:31:09 2023-10-12T03:31:10   00:00:01     40248K     40248K            107 
+1558                               haddock3    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:31:12 2023-10-12T03:31:13   00:00:01                                      
+1558.batch                            batch    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:31:12 2023-10-12T03:31:13   00:00:01     40408K     40408K             24 
+1559                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:31:12 2023-10-12T03:31:14   00:00:02                                      
+1559.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:31:12 2023-10-12T03:31:14   00:00:02     40276K     40276K            205 
+1560                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:31:12 2023-10-12T03:31:13   00:00:01                                      
+1560.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:31:12 2023-10-12T03:31:13   00:00:01     39892K     39892K            112 
+1561                               haddock3    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:31:15 2023-10-12T03:31:16   00:00:01                                      
+1561.batch                            batch    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:31:15 2023-10-12T03:31:16   00:00:01     40020K     40020K             24 
+1562                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:31:15 2023-10-12T03:31:17   00:00:02                                      
+1562.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:31:15 2023-10-12T03:31:17   00:00:02     40368K     40368K            197 
+1563                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:31:15 2023-10-12T03:31:17   00:00:02                                      
+1563.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:31:15 2023-10-12T03:31:17   00:00:02     39704K     39704K            108 
+1564                      haddock3-hpc-4949    gl2_gl4    GreenLab-STF     FAILED 2023-10-12T03:32:57 2023-10-12T03:32:57   00:00:00                                   18 
+1564.0                    haddock3-hpc-4949    gl2_gl4    GreenLab-STF     FAILED 2023-10-12T03:32:57 2023-10-12T03:32:57   00:00:00      1012K      1012K             18 
+1565                      haddock3-hpc-4949    gl2_gl4    GreenLab-STF CANCELLED+ 2023-10-12T03:33:01 2023-10-12T03:33:14   00:00:13                                  139 
+1565.0                    haddock3-hpc-4949    gl2_gl4    GreenLab-STF CANCELLED+ 2023-10-12T03:33:01 2023-10-12T03:33:14   00:00:13    161896K    161896K            139 
+1566                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:33:11 2023-10-12T03:33:14   00:00:03                                      
+1566.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:33:11 2023-10-12T03:33:14   00:00:03     41212K     41212K            321 
+1567                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:33:11 2023-10-12T03:33:13   00:00:02                                      
+1567.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:33:11 2023-10-12T03:33:13   00:00:02     39800K     39800K            120 
+1568                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:33:14 2023-10-12T03:33:15   00:00:01                                      
+1568.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:33:14 2023-10-12T03:33:15   00:00:01     39908K     39908K            111 
+1569                               haddock3    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:33:17 2023-10-12T03:33:18   00:00:01                                      
+1569.batch                            batch    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:33:17 2023-10-12T03:33:18   00:00:01     40332K     40332K             25 
+1570                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:33:17 2023-10-12T03:33:19   00:00:02                                      
+1570.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:33:17 2023-10-12T03:33:19   00:00:02     40424K     40424K            213 
+1571                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:33:17 2023-10-12T03:33:19   00:00:02                                      
+1571.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:33:17 2023-10-12T03:33:19   00:00:02     40164K     40164K            122 
+1572                               haddock3    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:33:20 2023-10-12T03:33:21   00:00:01                                      
+1572.batch                            batch    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:33:20 2023-10-12T03:33:21   00:00:01     40392K     40392K             25 
+1573                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:33:20 2023-10-12T03:33:22   00:00:02                                      
+1573.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:33:20 2023-10-12T03:33:22   00:00:02     40320K     40320K            192 
+1574                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:33:20 2023-10-12T03:33:22   00:00:02                                      
+1574.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:33:20 2023-10-12T03:33:22   00:00:02     39884K     39884K            117 
+1575                               haddock3    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:33:23 2023-10-12T03:33:25   00:00:02                                      
+1575.batch                            batch    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:33:23 2023-10-12T03:33:25   00:00:02     39.50M     39.50M             25 
+1576                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:33:23 2023-10-12T03:33:25   00:00:02                                      
+1576.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:33:23 2023-10-12T03:33:25   00:00:02     39932K     39932K            183 
+1577                      haddock3-hpc-4949    gl2_gl4    GreenLab-STF CANCELLED+ 2023-10-12T03:44:20 2023-10-12T03:44:58   00:00:38                                  254 
+1577.0                    haddock3-hpc-4949    gl2_gl4    GreenLab-STF  CANCELLED 2023-10-12T03:44:20 2023-10-12T03:44:58   00:00:38    161748K    161748K            254 
+1578                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:44:53 2023-10-12T03:44:56   00:00:03                                      
+1578.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:44:53 2023-10-12T03:44:56   00:00:03     41280K     41280K            303 
+1579                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:44:53 2023-10-12T03:44:55   00:00:02                                      
+1579.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:44:53 2023-10-12T03:44:55   00:00:02     39788K     39788K            115 
+1580                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:44:56 2023-10-12T03:44:58   00:00:02                                      
+1580.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:44:56 2023-10-12T03:44:58   00:00:02     40084K     40084K            113 
+1581                               haddock3    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:44:58 2023-10-12T03:45:00   00:00:02                                      
+1581.batch                            batch    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:44:58 2023-10-12T03:45:00   00:00:02     39972K     39972K             24 
+1582                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:44:58 2023-10-12T03:45:01   00:00:03                                      
+1582.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:44:58 2023-10-12T03:45:01   00:00:03     40292K     40292K            203 
+1583                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:44:58 2023-10-12T03:45:01   00:00:03                                      
+1583.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:44:58 2023-10-12T03:45:01   00:00:03     40336K     40336K            122 
+1584                               haddock3    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:45:02 2023-10-12T03:45:04   00:00:02                                      
+1584.batch                            batch    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:45:02 2023-10-12T03:45:04   00:00:02     39868K     39868K             25 
+1585                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:45:02 2023-10-12T03:45:04   00:00:02                                      
+1585.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:45:02 2023-10-12T03:45:04   00:00:02     40184K     40184K            205 
+1586                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:45:02 2023-10-12T03:45:04   00:00:02                                      
+1586.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:45:02 2023-10-12T03:45:04   00:00:02     39652K     39652K            123 
+1587                               haddock3    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:45:05 2023-10-12T03:45:06   00:00:01                                      
+1587.batch                            batch    gl2_gl4    GreenLab-STF  COMPLETED 2023-10-12T03:45:05 2023-10-12T03:45:06   00:00:01     40204K     40204K             23 
+1588                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:45:05 2023-10-12T03:45:07   00:00:02                                      
+1588.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:45:05 2023-10-12T03:45:07   00:00:02     40024K     40024K            180 
+1589                        haddock3-hpc-50    gl2_gl4    GreenLab-STF    RUNNING 2023-10-12T03:47:29             Unknown   00:09:29                                      
+1589.0                      haddock3-hpc-50    gl2_gl4    GreenLab-STF    RUNNING 2023-10-12T03:47:29             Unknown   00:09:29                                    0 
+1590                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:47:38 2023-10-12T03:47:41   00:00:03                                      
+1590.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:47:38 2023-10-12T03:47:41   00:00:03     41336K     41336K            312 
+1591                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:47:38 2023-10-12T03:47:40   00:00:02                                      
+1591.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:47:38 2023-10-12T03:47:40   00:00:02     40024K     40024K            111 
+1592                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:47:41 2023-10-12T03:47:43   00:00:02                                      
+1592.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:47:41 2023-10-12T03:47:43   00:00:02     40080K     40080K            115 
+1593                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:47:44 2023-10-12T03:47:46   00:00:02                                      
+1593.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:47:44 2023-10-12T03:47:46   00:00:02     40252K     40252K            207 
+1594                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:47:44 2023-10-12T03:47:46   00:00:02                                      
+1594.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:47:44 2023-10-12T03:47:46   00:00:02     39768K     39768K            110 
+1595                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:47:47 2023-10-12T03:47:49   00:00:02                                      
+1595.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:47:47 2023-10-12T03:47:49   00:00:02     40028K     40028K            176 
+1596                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:47:47 2023-10-12T03:47:49   00:00:02                                      
+1596.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:47:47 2023-10-12T03:47:49   00:00:02     39744K     39744K            116 
+1597                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:47:50 2023-10-12T03:47:52   00:00:02                                      
+1597.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:47:50 2023-10-12T03:47:52   00:00:02     39968K     39968K            183 
+1598                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:47:50 2023-10-12T03:47:52   00:00:02                                      
+1598.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:47:50 2023-10-12T03:47:52   00:00:02     39664K     39664K            113 
+1599                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:47:53 2023-10-12T03:47:55   00:00:02                                      
+1599.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:47:53 2023-10-12T03:47:55   00:00:02     40000K     40000K            188 
+1600                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:47:53 2023-10-12T03:47:55   00:00:02                                      
+1600.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:47:53 2023-10-12T03:47:55   00:00:02     39876K     39876K            105 
+1601                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:01 2023-10-12T03:49:09   00:00:08                                      
+1601.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:01 2023-10-12T03:49:09   00:00:08     41812K     41812K            803 
+1602                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:01 2023-10-12T03:49:07   00:00:06                                      
+1602.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:01 2023-10-12T03:49:07   00:00:06     43108K     43108K            408 
+1603                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:07 2023-10-12T03:49:13   00:00:06                                      
+1603.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:07 2023-10-12T03:49:13   00:00:06     41508K     41508K            490 
+1604                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:10 2023-10-12T03:49:17   00:00:07                                      
+1604.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:10 2023-10-12T03:49:17   00:00:07     43232K     43232K            643 
+1605                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:13 2023-10-12T03:49:19   00:00:06                                      
+1605.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:13 2023-10-12T03:49:19   00:00:06     41504K     41504K            450 
+1606                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:17 2023-10-12T03:49:24   00:00:07                                      
+1606.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:17 2023-10-12T03:49:24   00:00:07     41752K     41752K            689 
+1607                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:20 2023-10-12T03:49:27   00:00:07                                      
+1607.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:20 2023-10-12T03:49:27   00:00:07     43000K     43000K            519 
+1608                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:24 2023-10-12T03:49:31   00:00:07                                      
+1608.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:24 2023-10-12T03:49:31   00:00:07     43096K     43096K            667 
+1609                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:27 2023-10-12T03:49:33   00:00:06                                      
+1609.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:27 2023-10-12T03:49:33   00:00:06     41116K     41116K            476 
+1610                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:31 2023-10-12T03:49:37   00:00:06                                      
+1610.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:31 2023-10-12T03:49:37   00:00:06     41676K     41676K            624 
+1611                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:34 2023-10-12T03:49:39   00:00:05                                      
+1611.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:34 2023-10-12T03:49:39   00:00:05     41456K     41456K            407 
+1612                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:37 2023-10-12T03:49:44   00:00:07                                      
+1612.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:37 2023-10-12T03:49:44   00:00:07     42880K     42880K            677 
+1613                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:41 2023-10-12T03:49:46   00:00:05                                      
+1613.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:41 2023-10-12T03:49:46   00:00:05     41424K     41424K            451 
+1614                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:44 2023-10-12T03:49:50   00:00:06                                      
+1614.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:44 2023-10-12T03:49:50   00:00:06     41836K     41836K            592 
+1615                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:47 2023-10-12T03:49:52   00:00:05                                      
+1615.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:47 2023-10-12T03:49:52   00:00:05     41280K     41280K            417 
+1616                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:50 2023-10-12T03:49:57   00:00:07                                      
+1616.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:50 2023-10-12T03:49:57   00:00:07     41436K     41436K            699 
+1617                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:54 2023-10-12T03:49:59   00:00:05                                      
+1617.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:49:54 2023-10-12T03:49:59   00:00:05     42612K     42612K            440 
+1618                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:58 2023-10-12T03:50:03   00:00:05                                      
+1618.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:49:58 2023-10-12T03:50:03   00:00:05     41748K     41748K            574 
+1619                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:01 2023-10-12T03:50:06   00:00:05                                      
+1619.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:01 2023-10-12T03:50:06   00:00:05     42748K     42748K            435 
+1620                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:04 2023-10-12T03:50:10   00:00:06                                      
+1620.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:04 2023-10-12T03:50:10   00:00:06     41652K     41652K            624 
+1621                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:07 2023-10-12T03:50:12   00:00:05                                      
+1621.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:07 2023-10-12T03:50:12   00:00:05     41232K     41232K            476 
+1622                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:11 2023-10-12T03:50:18   00:00:07                                      
+1622.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:11 2023-10-12T03:50:18   00:00:07     41644K     41644K            735 
+1623                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:14 2023-10-12T03:50:20   00:00:06                                      
+1623.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:14 2023-10-12T03:50:20   00:00:06     41616K     41616K            518 
+1624                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:19 2023-10-12T03:50:26   00:00:07                                      
+1624.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:19 2023-10-12T03:50:26   00:00:07     43100K     43100K            756 
+1625                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:22 2023-10-12T03:50:26   00:00:04                                      
+1625.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:22 2023-10-12T03:50:26   00:00:04     41304K     41304K            392 
+1626                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:27 2023-10-12T03:50:33   00:00:06                                      
+1626.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:27 2023-10-12T03:50:33   00:00:06     42636K     42636K            663 
+1627                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:27 2023-10-12T03:50:31   00:00:04                                      
+1627.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:27 2023-10-12T03:50:31   00:00:04     41240K     41240K            367 
+1628                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:32 2023-10-12T03:50:37   00:00:05                                      
+1628.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:32 2023-10-12T03:50:37   00:00:05     41540K     41540K            483 
+1629                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:35 2023-10-12T03:50:41   00:00:06                                      
+1629.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:35 2023-10-12T03:50:41   00:00:06     43072K     43072K            656 
+1630                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:38 2023-10-12T03:50:43   00:00:05                                      
+1630.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:38 2023-10-12T03:50:43   00:00:05     43040K     43040K            417 
+1631                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:42 2023-10-12T03:50:48   00:00:06                                      
+1631.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:42 2023-10-12T03:50:48   00:00:06     41580K     41580K            585 
+1632                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:45 2023-10-12T03:50:50   00:00:05                                      
+1632.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:45 2023-10-12T03:50:50   00:00:05     42820K     42820K            446 
+1633                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:50 2023-10-12T03:50:57   00:00:07                                      
+1633.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:50 2023-10-12T03:50:57   00:00:07     41528K     41528K            728 
+1634                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:53 2023-10-12T03:50:58   00:00:05                                      
+1634.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:50:53 2023-10-12T03:50:58   00:00:05     42676K     42676K            457 
+1635                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:58 2023-10-12T03:51:04   00:00:06                                      
+1635.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:50:58 2023-10-12T03:51:04   00:00:06     42596K     42596K            671 
+1636                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:01 2023-10-12T03:51:05   00:00:04                                      
+1636.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:01 2023-10-12T03:51:05   00:00:04     41964K     41964K            367 
+1637                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:51:05 2023-10-12T03:51:11   00:00:06                                      
+1637.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:51:05 2023-10-12T03:51:11   00:00:06     43036K     43036K            633 
+1638                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:08 2023-10-12T03:51:13   00:00:05                                      
+1638.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:08 2023-10-12T03:51:13   00:00:05     41356K     41356K            468 
+1639                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:51:12 2023-10-12T03:51:18   00:00:06                                      
+1639.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:51:12 2023-10-12T03:51:18   00:00:06     42964K     42964K            664 
+1640                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:15 2023-10-12T03:51:21   00:00:06                                      
+1640.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:15 2023-10-12T03:51:21   00:00:06     41304K     41304K            511 
+1641                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:51:19 2023-10-12T03:51:26   00:00:07                                      
+1641.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:51:19 2023-10-12T03:51:26   00:00:07     43044K     43044K            759 
+1642                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:22 2023-10-12T03:51:27   00:00:05                                      
+1642.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:22 2023-10-12T03:51:27   00:00:05     42892K     42892K            441 
+1643                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:51:27 2023-10-12T03:51:33   00:00:06                                      
+1643.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:51:27 2023-10-12T03:51:33   00:00:06     43092K     43092K            633 
+1644                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:30 2023-10-12T03:51:35   00:00:05                                      
+1644.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:30 2023-10-12T03:51:35   00:00:05     42724K     42724K            435 
+1645                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:51:34 2023-10-12T03:51:41   00:00:07                                      
+1645.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:51:34 2023-10-12T03:51:41   00:00:07     41924K     41924K            722 
+1646                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:37 2023-10-12T03:51:42   00:00:05                                      
+1646.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:37 2023-10-12T03:51:42   00:00:05     42904K     42904K            418 
+1647                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:51:42 2023-10-12T03:51:49   00:00:07                                      
+1647.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:51:42 2023-10-12T03:51:49   00:00:07     41628K     41628K            713 
+1648                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:45 2023-10-12T03:51:50   00:00:05                                      
+1648.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:45 2023-10-12T03:51:50   00:00:05     41652K     41652K            452 
+1649                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:51:50 2023-10-12T03:51:56   00:00:06                                      
+1649.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:51:50 2023-10-12T03:51:56   00:00:06     41560K     41560K            609 
+1650                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:53 2023-10-12T03:51:59   00:00:06                                      
+1650.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:51:53 2023-10-12T03:51:59   00:00:06     41432K     41432K            485 
+1651                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:52:11 2023-10-12T03:52:17   00:00:06                                      
+1651.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:52:11 2023-10-12T03:52:17   00:00:06     42000K     42000K            666 
+1652                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:11 2023-10-12T03:52:16   00:00:05                                      
+1652.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:11 2023-10-12T03:52:16   00:00:05     43064K     43064K            402 
+1653                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:17 2023-10-12T03:52:23   00:00:06                                      
+1653.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:17 2023-10-12T03:52:23   00:00:06     42924K     42924K            509 
+1654                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:52:20 2023-10-12T03:52:26   00:00:06                                      
+1654.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:52:20 2023-10-12T03:52:26   00:00:06     41892K     41892K            624 
+1655                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:24 2023-10-12T03:52:30   00:00:06                                      
+1655.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:24 2023-10-12T03:52:30   00:00:06     42852K     42852K            525 
+1656                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:52:27 2023-10-12T03:52:33   00:00:06                                      
+1656.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:52:27 2023-10-12T03:52:33   00:00:06     42808K     42808K            662 
+1657                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:31 2023-10-12T03:52:36   00:00:05                                      
+1657.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:31 2023-10-12T03:52:36   00:00:05     42644K     42644K            436 
+1658                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:52:34 2023-10-12T03:52:40   00:00:06                                      
+1658.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:52:34 2023-10-12T03:52:40   00:00:06     42960K     42960K            663 
+1659                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:37 2023-10-12T03:52:42   00:00:05                                      
+1659.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:37 2023-10-12T03:52:42   00:00:05     43012K     43012K            436 
+1660                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:52:41 2023-10-12T03:52:47   00:00:06                                      
+1660.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:52:41 2023-10-12T03:52:47   00:00:06     41536K     41536K            595 
+1661                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:44 2023-10-12T03:52:48   00:00:04                                      
+1661.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:44 2023-10-12T03:52:48   00:00:04     42716K     42716K            360 
+1662                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:52:47 2023-10-12T03:52:53   00:00:06                                      
+1662.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:52:47 2023-10-12T03:52:53   00:00:06     41244K     41244K            692 
+1663                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:50 2023-10-12T03:52:56   00:00:06                                      
+1663.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:50 2023-10-12T03:52:56   00:00:06     42992K     42992K            473 
+1664                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:52:54 2023-10-12T03:53:00   00:00:06                                      
+1664.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:52:54 2023-10-12T03:53:00   00:00:06     41756K     41756K            683 
+1665                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:57 2023-10-12T03:53:03   00:00:06                                      
+1665.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:52:57 2023-10-12T03:53:03   00:00:06     41464K     41464K            463 
+1666                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:01 2023-10-12T03:53:06   00:00:05                                      
+1666.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:01 2023-10-12T03:53:06   00:00:05     41616K     41616K            571 
+1667                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:04 2023-10-12T03:53:09   00:00:05                                      
+1667.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:04 2023-10-12T03:53:09   00:00:05     41512K     41512K            415 
+1668                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:07 2023-10-12T03:53:13   00:00:06                                      
+1668.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:07 2023-10-12T03:53:13   00:00:06     41724K     41724K            687 
+1669                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:10 2023-10-12T03:53:16   00:00:06                                      
+1669.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:10 2023-10-12T03:53:16   00:00:06     41140K     41140K            455 
+1670                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:14 2023-10-12T03:53:20   00:00:06                                      
+1670.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:14 2023-10-12T03:53:20   00:00:06     41764K     41764K            612 
+1671                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:17 2023-10-12T03:53:21   00:00:04                                      
+1671.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:17 2023-10-12T03:53:21   00:00:04     41540K     41540K            370 
+1672                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:20 2023-10-12T03:53:28   00:00:08                                      
+1672.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:20 2023-10-12T03:53:28   00:00:08     41740K     41740K            825 
+1673                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:23 2023-10-12T03:53:28   00:00:05                                      
+1673.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:23 2023-10-12T03:53:28   00:00:05     42996K     42996K            424 
+1674                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:28 2023-10-12T03:53:35   00:00:07                                      
+1674.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:28 2023-10-12T03:53:35   00:00:07     41764K     41764K            781 
+1675                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:31 2023-10-12T03:53:37   00:00:06                                      
+1675.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:31 2023-10-12T03:53:37   00:00:06     42916K     42916K            504 
+1676                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:36 2023-10-12T03:53:43   00:00:07                                      
+1676.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:36 2023-10-12T03:53:43   00:00:07     41612K     41612K            713 
+1677                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:39 2023-10-12T03:53:44   00:00:05                                      
+1677.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:39 2023-10-12T03:53:44   00:00:05     41328K     41328K            393 
+1678                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:43 2023-10-12T03:53:50   00:00:07                                      
+1678.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:43 2023-10-12T03:53:50   00:00:07     41876K     41876K            723 
+1679                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:46 2023-10-12T03:53:51   00:00:05                                      
+1679.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:46 2023-10-12T03:53:51   00:00:05     43052K     43052K            429 
+1680                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:50 2023-10-12T03:53:57   00:00:07                                      
+1680.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:50 2023-10-12T03:53:57   00:00:07     43208K     43208K            742 
+1681                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:53 2023-10-12T03:53:58   00:00:05                                      
+1681.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:53 2023-10-12T03:53:58   00:00:05     41412K     41412K            382 
+1682                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:58 2023-10-12T03:54:05   00:00:07                                      
+1682.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:53:58 2023-10-12T03:54:05   00:00:07     42888K     42888K            673 
+1683                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:58 2023-10-12T03:54:03   00:00:05                                      
+1683.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:53:58 2023-10-12T03:54:03   00:00:05     42968K     42968K            406 
+1684                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:04 2023-10-12T03:54:10   00:00:06                                      
+1684.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:04 2023-10-12T03:54:10   00:00:06     41196K     41196K            458 
+1685                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:07 2023-10-12T03:54:13   00:00:06                                      
+1685.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:07 2023-10-12T03:54:13   00:00:06     43240K     43240K            643 
+1686                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:10 2023-10-12T03:54:15   00:00:05                                      
+1686.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:10 2023-10-12T03:54:15   00:00:05     42992K     42992K            423 
+1687                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:14 2023-10-12T03:54:21   00:00:07                                      
+1687.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:14 2023-10-12T03:54:21   00:00:07     41700K     41700K            732 
+1688                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:17 2023-10-12T03:54:23   00:00:06                                      
+1688.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:17 2023-10-12T03:54:23   00:00:06     41404K     41404K            474 
+1689                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:22 2023-10-12T03:54:29   00:00:07                                      
+1689.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:22 2023-10-12T03:54:29   00:00:07     42832K     42832K            658 
+1690                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:25 2023-10-12T03:54:30   00:00:05                                      
+1690.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:25 2023-10-12T03:54:30   00:00:05     42592K     42592K            362 
+1691                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:29 2023-10-12T03:54:36   00:00:07                                      
+1691.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:29 2023-10-12T03:54:36   00:00:07     41944K     41944K            687 
+1692                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:31 2023-10-12T03:54:37   00:00:06                                      
+1692.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:31 2023-10-12T03:54:37   00:00:06     41612K     41612K            471 
+1693                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:36 2023-10-12T03:54:45   00:00:09                                      
+1693.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:36 2023-10-12T03:54:45   00:00:09     41688K     41688K            923 
+1694                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:39 2023-10-12T03:54:46   00:00:07                                      
+1694.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:39 2023-10-12T03:54:46   00:00:07     42628K     42628K            516 
+1695                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:45 2023-10-12T03:54:51   00:00:06                                      
+1695.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:45 2023-10-12T03:54:51   00:00:06     41772K     41772K            575 
+1696                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:47 2023-10-12T03:54:53   00:00:06                                      
+1696.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:47 2023-10-12T03:54:53   00:00:06     41460K     41460K            478 
+1697                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:51 2023-10-12T03:54:57   00:00:06                                      
+1697.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:51 2023-10-12T03:54:57   00:00:06     41560K     41560K            604 
+1698                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:54 2023-10-12T03:55:01   00:00:07                                      
+1698.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:54:54 2023-10-12T03:55:01   00:00:07     42680K     42680K            532 
+1699                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:57 2023-10-12T03:55:03   00:00:06                                      
+1699.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:54:57 2023-10-12T03:55:03   00:00:06     41416K     41416K            611 
+1700                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:55:01 2023-10-12T03:55:07   00:00:06                                      
+1700.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:55:01 2023-10-12T03:55:07   00:00:06     43180K     43180K            518 
+1701                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:55:26 2023-10-12T03:55:34   00:00:08                                      
+1701.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:55:26 2023-10-12T03:55:34   00:00:08     41820K     41820K            787 
+1702                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:55:26 2023-10-12T03:55:33   00:00:07                                      
+1702.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:55:26 2023-10-12T03:55:33   00:00:07     42664K     42664K            526 
+1703                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:55:35 2023-10-12T03:55:42   00:00:07                                      
+1703.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:55:35 2023-10-12T03:55:42   00:00:07     41836K     41836K            698 
+1704                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:55:35 2023-10-12T03:55:41   00:00:06                                      
+1704.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:55:35 2023-10-12T03:55:41   00:00:06     41440K     41440K            448 
+1705                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:55:41 2023-10-12T03:55:47   00:00:06                                      
+1705.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:55:41 2023-10-12T03:55:47   00:00:06     41408K     41408K            473 
+1706                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:55:44 2023-10-12T03:55:51   00:00:07                                      
+1706.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:55:44 2023-10-12T03:55:51   00:00:07     41708K     41708K            731 
+1707                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:55:47 2023-10-12T03:55:53   00:00:06                                      
+1707.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:55:47 2023-10-12T03:55:53   00:00:06     41216K     41216K            452 
+1708                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:55:52 2023-10-12T03:55:59   00:00:07                                      
+1708.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:55:52 2023-10-12T03:55:59   00:00:07     41776K     41776K            686 
+1709                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:55:55 2023-10-12T03:56:01   00:00:06                                      
+1709.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:55:55 2023-10-12T03:56:01   00:00:06     42568K     42568K            428 
+1710                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:55:59 2023-10-12T03:56:05   00:00:06                                      
+1710.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:55:59 2023-10-12T03:56:05   00:00:06     42816K     42816K            561 
+1711                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:02 2023-10-12T03:56:07   00:00:05                                      
+1711.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:02 2023-10-12T03:56:07   00:00:05     41696K     41696K            398 
+1712                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:05 2023-10-12T03:56:11   00:00:06                                      
+1712.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:05 2023-10-12T03:56:11   00:00:06     41876K     41876K            576 
+1713                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:08 2023-10-12T03:56:14   00:00:06                                      
+1713.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:08 2023-10-12T03:56:14   00:00:06     42852K     42852K            455 
+1714                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:11 2023-10-12T03:56:17   00:00:06                                      
+1714.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:11 2023-10-12T03:56:17   00:00:06     41632K     41632K            623 
+1715                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:14 2023-10-12T03:56:20   00:00:06                                      
+1715.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:14 2023-10-12T03:56:20   00:00:06     42720K     42720K            435 
+1716                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:19 2023-10-12T03:56:24   00:00:05                                      
+1716.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:19 2023-10-12T03:56:24   00:00:05     42748K     42748K            549 
+1717                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:22 2023-10-12T03:56:27   00:00:05                                      
+1717.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:22 2023-10-12T03:56:27   00:00:05     42964K     42964K            434 
+1718                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:25 2023-10-12T03:56:31   00:00:06                                      
+1718.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:25 2023-10-12T03:56:31   00:00:06     42876K     42876K            666 
+1719                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:28 2023-10-12T03:56:33   00:00:05                                      
+1719.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:28 2023-10-12T03:56:33   00:00:05     41992K     41992K            447 
+1720                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:31 2023-10-12T03:56:37   00:00:06                                      
+1720.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:31 2023-10-12T03:56:37   00:00:06     41688K     41688K            628 
+1721                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:35 2023-10-12T03:56:40   00:00:05                                      
+1721.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:35 2023-10-12T03:56:40   00:00:05     41648K     41648K            455 
+1722                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:38 2023-10-12T03:56:44   00:00:06                                      
+1722.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:38 2023-10-12T03:56:44   00:00:06     41660K     41660K            693 
+1723                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:41 2023-10-12T03:56:46   00:00:05                                      
+1723.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:41 2023-10-12T03:56:46   00:00:05     42952K     42952K            427 
+1724                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:45 2023-10-12T03:56:50   00:00:05                                      
+1724.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:45 2023-10-12T03:56:50   00:00:05     43000K     43000K            538 
+1725                               haddock3    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:47 2023-10-12T03:56:52   00:00:05                                      
+1725.batch                            batch    gl2_gl4             gl6  COMPLETED 2023-10-12T03:56:47 2023-10-12T03:56:52   00:00:05     41316K     41316K            466 
+1726                               haddock3    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:51 2023-10-12T03:56:56   00:00:05                                      
+1726.batch                            batch    gl2_gl4             gl5  COMPLETED 2023-10-12T03:56:51 2023-10-12T03:56:56   00:00:05     41636K     41636K            612 
+1727                               haddock3    gl2_gl4             gl6    RUNNING 2023-10-12T03:56:54             Unknown   00:00:04                                      
+1727.batch                            batch    gl2_gl4             gl6    RUNNING 2023-10-12T03:56:54             Unknown   00:00:04                                    0 
+1728                               haddock3    gl2_gl4             gl5    RUNNING 2023-10-12T03:56:57             Unknown   00:00:01                                      
+1728.batch                            batch    gl2_gl4             gl5    RUNNING 2023-10-12T03:56:57             Unknown   00:00:01                                    0 
+1729                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1730                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1731                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1732                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1733                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1734                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1735                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1736                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1737                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1738                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1739                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1740                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1741                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1742                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1743                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1744                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1745                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1746                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1747                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1748                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1749                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
+1750                               haddock3    gl2_gl4   None assigned    PENDING             Unknown             Unknown   00:00:00                                    0 
